@@ -1,0 +1,52 @@
+Amersfoort										
+GSG Guido de Bres, loc. Paladijnenweg	759	-	-	94	6,6	96	6,9	Gereformeerd	7,3	1,1
+GSG Guido de Bres, loc. Arnhemseweg	389	93	6,6	-	-	-	-	Gereformeerd	1,8	2,8
+Johan van Oldenbarnevelt	912	-	-	-	-	96	6,9	Openbaar	4,2	0,0
+Farelcollege	1.282	93	6,4	81	6,4	98	6,8	Protestants-Christelijk	6,8	4,2
+Corderius College	1.720	99	6,7	90	6,5	88	6,8	Protestants-Christelijk	4,4	4,2
+Prisma College	716	92	6,5	-	-	-	-	Protestants-Christelijk	7,3	8,8
+Vakcollege	518	88	6,3	-	-	-	-	Rooms-Katholiek	0,2	7,1
+Het Nieuwe Eemland 	1.381	88	6,4	92	6,6	89	6,6	Rooms-Katholiek	6,1	2,2
+Mavo Muurhuizen  	710	89	6,5	82	6,4	-	-	Rooms-Katholiek	3,2	2,3
+’t Hooghe Landt	608	96	6,6	93	6,6	91	6,8	Rooms-Katholiek	7,6	1,3
+De Amersfoortse Berg	1.327	94	6,5	91	6,5	96	6,7	Openbaar	5,4	17,5
+t Atrium	1.055	97	6,5	92	6,6	89	6,8	Openbaar	4,9	3,5
+Vathorst College	963	97	6,5	89	6,5	84	6,6	Openbaar	7,9	17,9
+MAVO Trivium College	97	79	6,3	-	-	-	-	Openbaar	38,1	1,0
+VMBO Trivium College	353	100	6,6	-	-	-	-	Openbaar	20,4	0,3
+Van Lodensteincollege	1.140	-	-	88	6,5	93	7,0	Reformatorisch	3,2	3,7
+Wellantcollege	386	89	6,5	-	-	-	-	Algemeen bijzonder	1,6	6,2
+Baarn										
+Het Baarnsch Lyceum	1.002	-	-	95	6,7	96	7,0	Algemeen bijzonder	3,5	1,4
+Prot Chr Mavo Waldheim	375	92	6,5	-	-	-	-	Protestants-Christelijk	3,5	4,0
+Barneveld										
+De Meerwaarde	1.978	95	6,5	-	-	-	-	Protestants-Christelijk	1,8	1,6
+Joh Fontanus College	2.351	94	6,5	85	6,4	87	6,8	Protestants-Christelijk	5,5	6,0
+Bunschoten										
+Oostwende College	444	86	6,4	89	6,7	-	-	Protestants-Christelijk	2,0	5,2
+De Bilt										
+AOC Groenhorst Maartensijk	430	93	6,5	-	-	-	-	Samenwerking PC, RK	4,7	4,4
+AOC Groenhorst Bilthoven	335	87	6,5	-	-	-	-	Samenwerking PC, RK	3,0	3,9
+Het Nieuwe Lyceum	1.083	-	-	82	6,3	86	6,8	Algemeen bijzonder	4,0	1,9
+Werkpl Kindergem Sch	1.293	98	6,7	92	6,5	94	6,9	Algemeen bijzonder	3,8	7,3
+Ijsselstein										
+RK SGM Cals College	1.895	96	6,7	87	6,4	-	-	Rooms-Katholiek	3,1	5,3
+Nijkerk										
+AOC Groenhorst	376	99	6,8	-	-	-	-	Samenwerking PC, RK	2,1	6,9
+Corlaer College, loc. Ds. Kuypersstraat 	1.020	94	6,6	-	-	-	-	Protestants-Christelijk	4,3	3,3
+Corlaer College, loc. Henri Nouwenstraat	895	-	-	97	6,7	97	6,7	Protestants-Christelijk	3,5	3,6
+Van Lodensteincollege	797	97	6,7	-	-	-	-	Reformatorisch	1,3	0,6
+Soest										
+Griftland College	1.474	90	6,5	79	6,4	86	6,6	Protestants-Christelijk	5,0	8,8
+Stichtse Vecht										
+Broeckland College Breukelen	646	91	6,6	-	-	-	-	Protestants-Christelijk	2,5	0,6
+Rientjes Mavo Maarssen	652	88	6,5	-	-	-	-	Rooms-Katholiek	4,1	5,4
+Niftarlake College Maarssen	1.580	88	6,4	87	6,4	94	6,7	Protestants-Christelijk	5,1	3,7
+RSG Broklede Breukelen	1.337	-	-	90	6,5	93	6,7	Openbaar	8,2	1,0
+Zeist										
+Christelijk college zeist	331	90	6,4	-	-	-	-	Protestants-Christelijk	3,0	2,4
+Herman Jordanlyceum	878	-	-	92	6,7	94	6,9	Algemeen bijzonder	7,4	1,0
+KSG De Breul 	1.671	90	6,4	92	6,5	93	6,8	Rooms-Katholiek	4,2	5,4
+OSG Schoonoord	1.680	90	6,6	91	6,5	96	6,7	Openbaar	7,3	6,4
+Stichtse Vrije School	657	91	6,8	93	6,8	92	7,1	Antroposofisch	3,5	22,8
+Christelijk Lyceum Zeist	1.391	96	6,7	91	6,4	91	6,8	Protestants-Christelijk	5,3	4,3

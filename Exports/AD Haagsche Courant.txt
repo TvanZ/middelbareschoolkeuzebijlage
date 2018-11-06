@@ -1,0 +1,98 @@
+Delft											
+Chr Lyceum Delft	1.681	-	-	81	6,5	92	6,7	Protestants-Christelijk	6,8	1,0	
+Chr Lyceum Delft, Hof van Delft	508	95	6,6	-	-	-	-	Protestants-Christelijk	4,5	8,5	
+Chr Lyceum Delft, SC Delfland	168	92	6,6	-	-	-	-	Protestants-Christelijk	6,6	1,2	
+Grotius College	884	85	6,5	87	6,4	86	6,8	Openbaar	13,1	10,3	
+Grotius College, SC Delfland	309	100	6,7	-	-	-	-	Openbaar	12,3	1,3	
+Sint Stanislascollege	1.824	-	-	92	6,5	93	6,9	Rooms-Katholiek	4,8	0,7	
+Sint Stanislascollege Krakeelpolderweg	630	90	6,7	-	-	-	-	Rooms-Katholiek	1,4	2,9	
+Sint Stanislascollege, Reinier de Graaf	731	91	6,5	-	-	-	-	Rooms-Katholiek	3,6	14,9	
+Leidschendam-Voorburg											
+Gymnasium Novum	724	-	-	-	-	92	6,9	Algemeen bijzonder	6,9	0,0	
+SGM Dalton Vatel	1.202	90	6,4	91	6,4	88	6,7	Algemeen bijzonder	6,6	17,0	
+Corbulo College	231	99	6,8	-	-	-	-	Samenwerking PC, RK	4,3	1,3	
+St Maartenscollege SGM	1.292	100	6,7	87	6,4	92	6,7	Rooms-Katholiek	3,8	4,1	
+'s Gravendreef College	155	100	6,8	-	-	-	-	Samenwerking PC, RK	1,9	0,0	
+Veurs Voorburg	364	98	6,7	-	-	-	-	Samenwerking PC, RK	6,9	8,2	
+Veurs College	931	88	6,3	84	6,4	85	6,7	Samenwerking PC, RK	8,8	6,3	
+Maassluis											
+Lentiz locatie Revius	878	-	-	90	6,5	97	7,0	Interconfessioneel	6,3	16,1	
+Lentiz VMBO Maassluis	223	88	6,4	-	-	-	-	Interconfessioneel	3,1	2,7	
+Midden-Delfland											
+Lentiz	537	98	6,6	-	-	-	-	Algemeen bijzonder	1,7	0,7	
+Pijnacker-Nootdorp											
+Sint Stanislascollege	1.310	97	6,6	90	6,6	92	6,8	Rooms-Katholiek	5,6	4,7	
+Rijswijk 											
+Rijswijks Lyceum	1.479	86	6,3	73	6,2	85	6,4	Openbaar	8,1	3,9	
+Geref SGM Randstad	165	87	6,5	-	-	-	-	Gereformeerd	2,4	6,7	
+Sint Stanislascollege	486	86	6,5	-	-	-	-	Rooms-Katholiek	6,0	1,7	
+s-Gravenhage											
+Lyceum Ypenburg	1.414	93	6,5	92	6,4	96	6,7	Openbaar	8,8	3,8	
+Chr College De Populier	853	98	6,6	88	6,6	86	6,9	Protestants-Christelijk	2,8	4,2	
+Chr Gymnasium Sorghvliet	750	-	-	-	-	88	7,0	Protestants-Christelijk	4,0	0,0	
+Lyceum Zandvliet	807	-	-	94	6,5	86	6,8	Protestants-Christelijk	6,9	0,6	
+Dalton Den Haag	997	-	-	91	6,5	94	6,7	Openbaar	3,7	2,1	
+Gymnasium Haganum	762	-	-	-	-	96	7,1	Openbaar	3,9	0,0	
+Het Rijnlands Lyceum	144	-	-	100	6,8	93	7,2	Algemeen bijzonder	9,0	1,4	
+Hofstad mavo	518	91	6,4	-	-	-	-	Samenwerking PC, RK	7,9	9,1	
+Hofstad lyceum	999	-	-	86	6,5	93	6,8	Samenwerking PC, RK	5,9	0,7	
+Heldring VMBO	490	94	6,5	-	-	-	-	Samenwerking PC, RK	2,5	14,5	
+Maris - Belgisch Park	457	-	-	91	6,6	-	-	Openbaar	8,3	5,7	
+Johan de Witt Zusterstraat	761	85	6,4	49	6,1	100	6,6	Openbaar	4,9	8,9	
+Johan de Witt Hooftskade	272	90	6,4	-	-	-	-	Openbaar	6,3	3,3	
+Maerlant Lyceum	962	-	-	98	6,6	94	6,7	Openbaar	3,9	1,0	
+Maris College	650	97	6,5	-	-	-	-	Openbaar	2,3	1,5	
+Maric College - Waldeck	121	100	6,8	-	-	-	-	Openbaar	9,1	3,3	
+Maris College - Houtrust	419	99	6,8	-	-	-	-	Openbaar	7,6	8,1	
+Maris College - Kijkduin	239	100	6,7	-	-	-	-	Openbaar	0,4	9,2	
+Maris College - Statenkwartier	234	100	6,7	-	-	-	-	Openbaar	6,8	0,9	
+SGM Dalton Vatel	465	96	6,4	-	-	-	-	Algemeen bijzonder	7,5	1,9	
+Haags Montessori Lyceum	907	95	6,5	81	6,2	95	6,8	Algemeen bijzonder	5,2	16,3	
+SGM het Segbroekcollege, Klaverstraat	1.552	-	-	81	6,3	78	6,5	Openbaar	4,8	13,1	
+SGM het Segbroekcollege, Goudsbloemlaan	787	90	6,4	-	-	-	-	Openbaar	2,2	18,2	
+Edith Stein College	842	78	6,2	85	6,5	78	6,5	Samenwerking PC, RK	11,6	10,2	
+Diamant College	364	98	6,7	-	-	-	-	Samenwerking PC, RK	12,9	7,1	
+Montaigne Lyceum	1.017	89	6,5	91	6,5	100	6,8	Samenwerking PC, RK	6,6	14,8	
+College St. Paul	288	99	6,6	-	-	-	-	Samenwerking PC, RK	2,8	1,0	
+Zuid-West College	446	92	6,6	-	-	-	-	Algemeen bijzonder	4,3	7,9	
+Wateringse Veld College	1.011	95	6,6	75	6,3	88	7,1	Algemeen bijzonder	7,6	3,2	
+Roemer Visscher College	465	95	6,6	-	-	-	-	Algemeen bijzonder	2,8	1,7	
+Veurs College 's-Gravendreef	726	94	6,6	94	6,6	-	-	Samenwerking PC, RK	2,3	4,4	
+De Vrije School	770	70	6,3	81	6,3	94	6,7	Antroposofisch	80,0	1,8	
+Vrijzinnig-Christelijk Lyceum	786	-	-	88	6,4	94	6,7	Algemeen bijzonder	6,4	2,4	
+Wellantcollege	273	90	6,6	-	-	-	-	Algemeen bijzonder	2,9	0,0	
+Wellantcollege Westvliet	576	98	6,7	-	-	-	-	Algemeen bijzonder	2,4	6,6	
+Schiedam											
+Lentiz VMBO Life College	713	99	6,7	-	-	-	-	Samenwerking PC, RK	0,4	0,4	
+Lyceum Schravenlant	552	-	-	98	6,5	82	6,3	Openbaar	9,2	0,4	
+Mavo Schravenlant XL	507	86	6,2	-	-	-	-	Openbaar	6,1	4,1	
+SGM Spieringshoek	1.496	-	-	85	6,5	82	6,8	Rooms-Katholiek	9,0	0,6	
+Stedelijk	639	-	-	-	-	91	6,8	Openbaar	8,8	0,0	
+Vlaardingen											
+Het Lyceum Vos	578	-	-	69	6,3	84	6,5	Openbaar	6,8	9,7	
+De Mavo Vos	359	84	6,2	-	-	-	-	Openbaar	3,9	7,2	
+Lentiz - Geuzencollege	864	98	6,5	-	-	-	-	Interconfessioneel	5,7	1,5	
+Lentiz - Groen van Prinstererlyceum	1.323	92	6,4	77	6,4	77	6,7	Interconfessioneel	9,4	1,4	
+St.- Jozefmavo	881	96	6,5	-	-	-	-	Rooms-Katholiek	6,7	4,4	
+Het College Vos 	399	98	6,6	-	-	-	-	Openbaar	7,3	4,0	
+Wassenaar											
+Het Rijnlands Lyceum	774	-	-	91	6,6	91	6,7	Algemeen bijzonder	5,0	1,3	
+S. Adelbert College	1.293	92	6,5	96	6,6	91	6,7	Rooms-Katholiek	8,6	10,2	
+Westland											
+ISW Hoge Woerd Naaldwijk	434	98	6,7	-	-	-	-	Samenwerking PC, RK	1,2	0,9	
+ISW Gasthuislaan 's Gravenzande	833	-	-	93	6,6	86	6,7	Samenwerking PC, RK	7,1	0,2	
+ISW Irenestraat Poeldijk	406	87	6,6	-	-	-	-	Samenwerking PC, RK	3,7	3,9	
+ISW Hoogeland Naaldwijk	1.789	95	6,7	91	6,6	89	6,8	Samenwerking PC, RK	3,5	2,7	
+ISW Sweelincklaan 's-Gravenzande	601	99	6,8	-	-	-	-	Samenwerking PC, RK	2,0	4,7	
+Lentiz Dalton mavo	801	96	6,8	-	-	-	-	Algemeen bijzonder	1,1	4,4	
+Floracollege	867	98	6,6	-	-	-	-	Algemeen bijzonder	1,5	0,9	
+Zoetermeer											
+Erasmuscollege	1.884	90	6,6	80	6,3	86	6,7	Algemeen bijzonder	6,2	1,9	
+Oranje Nassau College	1.109	94	6,5	86	6,6	83	6,7	Protestants-Christelijk	5,9	5,3	
+Oranje Nassau College Clauslaan	913	96	6,6	-	-	-	-	Protestants-Christelijk	6,0	1,0	
+RK Alfrink College SGM	1.816	-	-	84	6,4	85	6,7	Rooms-Katholiek	7,8	0,4	
+SCZ - Picasso Lyceum	1.070	89	6,3	95	6,7	92	6,8	Openbaar	10,1	3,3	
+Stedelijk College Zoetermeer	1.036	95	6,6	-	-	-	-	Openbaar	10,1	1,2	
+Zuidplas											
+Comenius College Nieuwerkerk	452	98	6,5	-	-	-	-	Protestants-Christelijk	4,2	7,5	
+Thorbecke VO	383	98	6,6	-	-	-	-	Openbaar	5,7	6,8	

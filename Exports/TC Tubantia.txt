@@ -1,0 +1,87 @@
+Aalten										
+Chr Coll Schaersvoorde	939	-	-	88	6,5	100	6,9	Protestants-Christelijk	7,4	3,3
+Chr Coll Schaersvoorde Dinxperlo	155	100	6,9	-	-	-	-	Protestants-Christelijk	6,5	3,9
+Chr Coll Schaersvoorde	471	96	6,6	-	-	-	-	Protestants-Christelijk	3,2	2,8
+Almelo										
+AOC Oost	646	96	6,6	-	-	-	-	Algemeen bijzonder	1,1	5,9
+Openbare SGM Erasmus, loc. havo/vwo	1.075	-	-	87	6,5	91	6,9	Openbaar	4,6	4,4
+Openbare SGM Erasmus, loc. vmbo	836	94	6,6	-	-	-	-	onbekend	13,6	3,8
+Pius X College, loc. Aalderinkshoek	705	-	-	91	6,5	91	6,5	Rooms-Katholiek	5,8	4,1
+Pius X College, loc. Van Renneslaan	441	99	6,7	-	-	-	-	Rooms-Katholiek	3,0	4,3
+Het Noordik, loc. Noordikslaan	1.591	-	-	82	6,4	91	6,8	Protestants-Christelijk	6,1	3,7
+Het Noordik, loc. C. van Renneslaan	646	97	6,5	-	-	-	-	Protestants-Christelijk	2,0	12,5
+RK SGM Canisius	1.047	97	6,6	86	6,4	82	6,6	Rooms-Katholiek	5,5	3,3
+Berkelland										
+AOC Oost	384	100	6,9	-	-	-	-	Algemeen bijzonder	10,9	12,0
+Staring College Beukenlaan	373	97	6,7	-	-	-	-	Openbaar	2,1	5,9
+Staring College Herenlaan	154	97	6,6	-	-	-	-	Openbaar	2,0	0,0
+Bronckhorst										
+Ulenhof 't Beeckland	303	100	6,9	-	-	-	-	Protestants-Christelijk	1,7	7,3
+PC College Ulenhof	147	96	6,5	-	-	-	-	Protestants-Christelijk	2,7	1,4
+Deventer										
+Het Slatink	981	97	6,6	-	-	-	-	Algemeen bijzonder	3,4	10,0
+Etty Hillesum Lyceum	1.420	-	-	91	6,6	92	6,9	Algemeen bijzonder	9,9	1,6
+De Keurkamp	330	99	6,7	-	-	-	-	Algemeen bijzonder	2,7	1,2
+Enschede										
+AOC Oost	632	95	6,4	-	-	-	-	Algemeen bijzonder	2,1	5,7
+Bonhoeffer College Geessinkweg	506	96	6,4	84	6,4	-	-	Samenwerking PC, RK	7,9	5,7
+Bonhoeffer College vd Waalslaan	1.763	97	6,5	89	6,6	96	6,8	Samenwerking PC, RK	11,1	2,7
+Bonhoeffer College Bruggertstr	1.235	96	6,6	96	6,6	100	6,9	Samenwerking PC, RK	6,3	2,8
+Bonhoeffer College, wet. Beversstr	756	96	6,6	-	-	-	-	Samenwerking PC, RK	5,2	3,7
+Het Stedelijk Lyceum, locatie Kottenpark	1.001	-	-	74	6,2	88	6,7	Openbaar	8,4	13,9
+Het Stedelijk Lyceum, locatie Zuid	927	83	6,5	83	6,5	85	6,7	Openbaar	8,3	19,6
+Het Stedelijk Lyceum, De Stedelijke Mavo 	258	95	6,6	-	-	-	-	Openbaar	7,8	6,2
+Het Stedelijk Lyceum, Innova 	159	57	6,1	-	-	-	-	Openbaar	7,6	3,1
+Het Stedelijk Lyceum, Stedelijk Vakcollege	761	96	6,4	-	-	-	-	Openbaar	9,6	4,1
+Greijdanus College	148	89	6,4	-	-	-	-	Gereformeerd	5,4	3,4
+Haaksbergen										
+Het Assink lyceum	1.101	-	-	82	6,4	93	6,6	Rooms-Katholiek	8,5	0,5
+Het Assink lyceum	543	98	6,6	-	-	-	-	Rooms-Katholiek	2,0	3,1
+Hardenberg										
+Greijdanus College	877	97	6,7	100	6,7	100	6,7	Gereformeerd	0,9	4,0
+Sgm de Nieuwe Veste	311	93	6,7	76	6,3	-	-	Openbaar	4,2	3,9
+De Zeven Linden	416	88	6,4	94	6,5	100	7,0	Openbaar	3,4	5,1
+Vechtdal College	1.931	96	6,5	84	6,5	86	6,8	Samenwerking PC, RK	4,6	2,8
+Vechtdal College Dedemsvaart	580	96	6,4	-	-	-	-	Samenwerking PC, RK	1,7	7,9
+Hellendoorn										
+Chr SGM Reggesteyn, loc. W. de Clercqstraat	550	100	6,7	-	-	-	-	Protestants-Christelijk	3,8	2,9
+Chr SGM Reggesteyn, loc. Noetselerbergweg	1.122	-	-	88	6,5	96	6,7	Protestants-Christelijk	5,9	2,1
+Hengelo										
+Bataafs Lyceum	906	-	-	87	6,6	91	7,1	Openbaar	4,4	0,2
+Gilde College	318	97	6,6	-	-	-	-	Openbaar	6,9	5,7
+Montessori College Twente	1.528	98	6,6	83	6,3	77	6,5	Openbaar	3,7	4,2
+Twickel College	980	-	-	90	6,4	78	6,7	Rooms-Katholiek	8,3	0,5
+De Spindel, Bataafse Kamp	115	96	6,5	-	-	-	-	Rooms-Katholiek	2,6	3,5
+de Spindel, Europalaan	162	100	6,5	-	-	-	-	Rooms-Katholiek	1,9	0,0
+De Spindel, Krugerstraat	123	95	6,5	-	-	-	-	Rooms-Katholiek	0,0	0,0
+Hof van Twente										
+SGM De Waerdenborch	401	89	6,3	-	-	-	-	Openbaar	2,5	4,2
+Lochem										
+Staring College	1.555	92	6,5	94	6,5	97	6,8	Openbaar	6,6	4,2
+Losser										
+Twents Carmel College	676	95	6,6	-	-	-	-	Rooms-Katholiek	2,2	4,4
+Oldenzaal										
+Twents Carmel College	1.373	97	6,6	-	-	-	-	Rooms-Katholiek	2,6	7,4
+Twents Carmel College, de Thij	1.357	-	-	96	6,6	98	6,8	Rooms-Katholiek	5,2	1,6
+Twents Carmel College, Lyceumstr.	1.403	-	-	90	6,5	85	6,6	Rooms-Katholiek	6,0	1,5
+Oost Gelre										
+Marianum, Groenlo	1.020	96	6,8	89	6,5	94	6,7	Rooms-Katholiek	7,5	1,3
+Marianum, Lichtenvoorde	848	98	6,7	-	-	-	-	Rooms-Katholiek	2,7	3,5
+Raalte										
+Carmel College Salland, loc. Florens Radewijnsstraat	1.284	92	6,4	-	-	-	-	Rooms-Katholiek	2,3	2,3
+Carmel College Salland, loc. Hofstedelaan	1.542	-	-	89	6,4	86	6,7	Rooms-Katholiek	5,4	4,9
+Rijssen-Holten										
+SGM De Waerdenborch	1.866	90	6,4	82	6,3	94	6,6	Openbaar	4,8	2,6
+Jacobus Fruijtier SGM	600	98	6,5	96	6,6	-	-	Reformatorisch	1,5	2,0
+Pius X College	446	93	6,5	-	-	-	-	Rooms-Katholiek	4,5	7,9
+Chr SGM Reggesteyn	1.110	98	6,6	-	-	-	-	Protestants-Christelijk	3,2	0,6
+Tubbergen										
+Canisius Tubbergen	839	99	6,5	-	-	-	-	Rooms-Katholiek	2,4	9,5
+Twenterand										
+Het Noordik, loc. Vriezenveen	649	94	6,6	-	-	-	-	Protestants-Christelijk	2,0	7,2
+Het Noordik, loc. Vroomshoop	541	97	6,7	-	-	-	-	Protestants-Christelijk	3,0	2,6
+Wierden										
+De Passie	520	98	6,6	100	6,8	100	6,9	Evangelisch	5,6	1,0
+Winterswijk										
+Chr Coll Schaersvoorde	200	95	6,6	-	-	-	-	Protestants-Christelijk	1,5	6,0
+Gerrit Komrij College	1.413	97	6,7	95	6,6	92	6,6	Openbaar	4,7	6,0

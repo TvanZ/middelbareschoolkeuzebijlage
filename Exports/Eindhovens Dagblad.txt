@@ -1,0 +1,57 @@
+Asten										
+Varendonck College	1.104	-	-	93	6,4	89	6,6	Rooms-Katholiek	7,0	1,5
+Best										
+Heerbeeck College	1.946	98	6,8	92	6,6	92	6,8	Rooms-Katholiek	2,4	6,2
+Bladel										
+RK SGM Pius X	2.029	98	6,7	94	6,6	93	6,8	Rooms-Katholiek	3,1	1,5
+Cranendonck										
+Bravo College	308	97	6,7	-	-	-	-	Rooms-Katholiek	1,0	8,1
+Deurne										
+Hub van Doornecollege	686	98	6,6	-	-	-	-	Rooms-Katholiek	0,7	8,2
+Peelland College	1.111	-	-	93	6,8	91	6,7	Rooms-Katholiek	5,7	0,5
+Alfrinkcollege	591	94	6,6	-	-	-	-	Rooms-Katholiek	2,4	11,7
+St Willibrord Gymnasium	443	-	-	-	-	95	6,9	Rooms-Katholiek	6,8	0,0
+Eersel										
+Rythovius College	1.341	96	6,7	93	6,7	96	6,9	Rooms-Katholiek	4,6	4,1
+Eindhoven										
+Augustinianum SGM	999	-	-	91	6,6	95	6,9	Rooms-Katholiek	5,8	0,8
+Frits Philips lyceum	798	94	6,7	85	6,4	94	6,8	Protestants-Christelijk	7,5	6,3
+Christiaan Huygens College	1.076	-	-	95	6,7	97	7,0	Protestants-Christelijk	3,5	0,4
+Olympia	499	96	6,7	-	-	-	-	Protestants-Christelijk	6,4	3,4
+Eckartcollege	1.712	97	6,7	90	6,5	91	6,8	Samenwerking PC, RK	5,0	13,9
+Helicon	347	100	6,6	-	-	-	-	Algemeen bijzonder	0,0	7,5
+Lorentz Casimir Lyceum	1.132	-	-	85	6,5	95	6,9	Algemeen bijzonder	4,6	0,6
+Novalis College	562	90	6,6	94	6,6	86	6,9	Antroposofisch	11,2	15,7
+Stedelijk College	1.562	88	6,4	91	6,5	95	6,8	Openbaar	7,8	3,2
+Stedelijk College Oude Bossche Baan	961	95	6,5	-	-	-	-	Openbaar	11,6	13,1
+SG De Rooi Pannen	731	91	6,4	-	-	-	-	Rooms-Katholiek	3,2	4,1
+Sint-Joriscollege	1.496	98	6,7	90	6,6	90	6,8	Rooms-Katholiek	5,4	15,8
+Aloysius De Roosten	347	91	6,6	-	-	-	-	Rooms-Katholiek	5,2	2,9
+Vakcollege Eindhoven	261	96	6,8	-	-	-	-	Rooms-Katholiek	1,9	1,2
+Pleinschool Helder	131	-	-	100	6,6	80	6,6	Rooms-Katholiek	6,9	0,0
+SiNTLUCAS	470	99	6,7	-	-	-	-	Overige	5,5	11,9
+Summa College	694	94	6,6	92	6,4	-	-	Algemeen bijzonder	7,8	6,3
+Van Maerlantlyceum	1.219	-	-	81	6,4	84	6,6	Rooms-Katholiek	6,6	1,7
+Geldrop-Mierlo										
+Strabrechtcollege	1.505	92	6,5	78	6,4	87	6,8	Algemeen bijzonder	6,1	2,8
+Gemert-Bakel										
+Commanderij College	1.324	-	-	79	6,2	82	6,4	Algemeen bijzonder	6,3	4,3
+Commanderij College, loc. vmbo Gemert	890	95	6,6	-	-	-	-	Algemeen bijzonder	1,9	2,6
+Helmond										
+Jan van Brabant College Deltaweg	603	84	6,4	-	-	-	-	Openbaar	1,2	1,5
+Jan van Brabant College Molenstraat	1.088	94	6,4	94	6,5	94	6,9	Openbaar	8,3	3,6
+Vakcollege Helmond 	441	95	6,6	-	-	-	-	Rooms-Katholiek	4,5	1,8
+Carolus Borromeus College	1.296	95	6,7	92	6,5	100	6,8	Rooms-Katholiek	4,5	4,7
+Dr.-Knippenbergcollege	1.714	92	6,5	86	6,4	97	6,9	Rooms-Katholiek	4,6	4,8
+Laarbeek										
+Commanderij College, loc. vmbo Laarbeek	505	96	6,5	-	-	-	-	Algemeen bijzonder	1,6	1,0
+Nuenen c.a.										
+Pleincollege Nuenen	692	93	6,5	-	-	-	-	Samenwerking PC, RK	1,6	1,2
+Oirschot										
+Kempenhorst VMBO College	1.133	98	6,7	-	-	-	-	Rooms-Katholiek	0,9	2,8
+Someren										
+Varendonck College	860	97	6,5	-	-	-	-	Rooms-Katholiek	4,1	4,2
+Valkenswaard										
+SG Were Di	2.517	93	6,6	90	6,6	97	6,8	Rooms-Katholiek	4,0	4,1
+Veldhoven										
+Sondervick College	2.293	91	6,5	79	6,2	90	6,8	Rooms-Katholiek	7,1	4,0

@@ -1,0 +1,96 @@
+Baarle-Nassau										
+De la Salle	250	96	6,7	-	-	-	-	Rooms-Katholiek	2,0	14,4
+Bergen Op Zoom										
+Mollerlyceum 	688	-	-	78	6,4	73	6,7	Rooms-Katholiek	6,0	1,0
+ZoomMavo	279	90	6,5	-	-	-	-	Rooms-Katholiek	9,3	3,6
+RSG 't Rijks	2.668	94	6,6	87	6,5	92	6,7	Openbaar	7,3	4,3
+Roncalli Scholengemeenschap	1.232	97	6,6	89	6,5	91	6,8	Samenwerking PC, RK	5,9	11,0
+RK Gymnasium Juvenaat H. Hart	415	-	-	-	-	92	6,8	Rooms-Katholiek	5,5	0,0
+Steenspil vmbo	650	96	6,6	-	-	-	-	Algemeen bijzonder	2,2	0,8
+Pomona vmbo	141	100	7,1	-	-	-	-	Algemeen bijzonder	1,4	2,1
+Breda										
+De Nassau, loc. Paul Krugerlaan	497	93	6,4	-	-	-	-	Protestants-Christelijk	3,2	6,4
+De Nassau, loc. De la Reijweg	1.221	-	-	84	6,3	95	6,6	Protestants-Christelijk	5,7	12,5
+Newmancollege	1.383	98	6,7	93	6,6	90	6,8	Rooms-Katholiek	5,6	11,8
+OLV - Breda	1.532	-	-	85	6,4	88	6,6	Rooms-Katholiek	6,4	0,4
+Prisma VO	865	95	6,6	-	-	-	-	Openbaar	3,1	0,2
+De Rotonde vmbo	393	100	6,7	-	-	-	-	Openbaar	18,8	0,5
+Graaf Engelbrecht	758	94	6,5	88	6,4	82	6,5	Openbaar	10,2	12,8
+Scala vmbo	900	89	6,4	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	3,8	0,4
+Markenhage	1.118	89	6,4	87	6,4	93	6,7	Rooms-Katholiek	7,8	6,1
+Tessenderlandt	705	97	6,6	-	-	-	-	Rooms-Katholiek	1,0	6,0
+Mencia de Mendoza	1.505	-	-	83	6,3	94	6,7	Rooms-Katholiek	9,4	1,7
+Christoffel	397	94	6,7	-	-	-	-	Rooms-Katholiek	5,3	2,0
+Michaël college	286	97	6,9	-	-	-	-	Rooms-Katholiek	9,8	10,5
+Stedelijk Gymnasium	935	-	-	-	-	93	6,7	Openbaar	5,0	0,0
+Dongen										
+Cambreur College	1.339	93	6,5	91	6,6	93	6,8	Rooms-Katholiek	7,0	3,4
+Drimmelen										
+Dongemond College	691	98	6,6	-	-	-	-	Rooms-Katholiek	2,5	5,5
+Etten-Leur										
+KSE	1.979	96	6,5	83	6,4	85	6,7	Rooms-Katholiek	5,4	3,3
+Munnikenheide College	730	97	6,4	-	-	-	-	Rooms-Katholiek	2,7	5,1
+Geertruidenberg										
+Dongemond College	1.676	94	6,7	87	6,4	88	6,6	Rooms-Katholiek	4,6	5,0
+Goes										
+Edudelta	273	96	6,6	-	-	-	-	Algemeen bijzonder	4,0	2,6
+Calvijn College	1.384	-	-	91	6,6	98	7,0	Reformatorisch	2,7	1,5
+Ostrea Lyceum vwo	557	-	-	-	-	92	6,7	Samenwerking PC, RK	6,3	0,0
+Ostrea Lyceum mavo havo	1.232	99	6,8	88	6,4	-	-	Samenwerking PC, RK	9,8	11,3
+Ostrea Lyceum vmbo	499	100	6,5	-	-	-	-	Samenwerking PC, RK	4,0	4,2
+Pontes	1.608	88	6,4	92	6,5	88	6,7	Openbaar	6,7	11,2
+Het Goese Lyceum	468	97	6,7	-	-	-	-	Openbaar	1,3	0,2
+Halderberge										
+Prinsentuin Oudenbosch vmbo	449	99	6,7	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	0,9	4,5
+Markland College Oudenbosch	1.241	97	6,6	95	6,6	92	6,8	Rooms-Katholiek	4,4	5,7
+Moerdijk										
+Markland College Zevenbergen	1.203	94	6,5	97	6,7	100	6,9	Rooms-Katholiek	5,7	6,6
+Oosterhout										
+Hanze College	393	99	6,8	-	-	-	-	Rooms-Katholiek	1,8	3,3
+Mgr Frencken College	1.420	-	-	86	6,5	81	6,6	Rooms-Katholiek	7,0	0,4
+Effent mavo	798	89	6,6	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	3,6	7,1
+Sint Oelbert Gymnasium	756	-	-	-	-	91	6,9	Rooms-Katholiek	6,5	0,0
+Roosendaal										
+Jan Tinbergen Coll., loc. Burg. Schneiderlaan	1.263	-	-	89	6,5	95	6,8	Openbaar	7,0	8,6
+Jan Tinbergen Coll., loc. Azaleastraat	296	94	6,4	-	-	-	-	Openbaar	6,8	4,7
+Norbertuscollege	1.217	-	-	92	6,6	93	6,8	Rooms-Katholiek	6,4	0,5
+Da Vinci College	362	97	6,7	-	-	-	-	Rooms-Katholiek	2,5	0,3
+Gertrudiscollege Vincentius	344	97	6,6	-	-	-	-	Rooms-Katholiek	6,1	6,7
+Gertrudiscollege	1.036	100	6,7	90	6,5	89	6,7	Rooms-Katholiek	4,1	3,2
+Rucphen										
+Munnikenheide College	367	97	6,6	-	-	-	-	Rooms-Katholiek	2,7	4,1
+Steenbergen										
+'t Ravelijn	579	93	6,5	-	-	-	-	Rooms-Katholiek	1,2	0,9
+Tholen										
+Calvijn College	325	93	6,6	-	-	-	-	Reformatorisch	1,5	2,5
+Tilburg										
+2College Cobbenhagenlyceum	656	-	-	81	6,4	70	6,7	Rooms-Katholiek	9,5	0,5
+2College Cobbenhagenmavo	338	90	6,6	-	-	-	-	Rooms-Katholiek	2,7	4,1
+2College Jozefmavo	492	97	6,7	-	-	-	-	Rooms-Katholiek	6,9	2,6
+2College Ruiven	451	91	6,4	-	-	-	-	Rooms-Katholiek	7,8	4,2
+2College De Nieuwste School	743	97	6,7	95	6,6	100	7,0	Rooms-Katholiek	3,5	17,8
+Beatrix College	2.622	91	6,5	86	6,4	87	6,6	Openbaar	5,5	5,5
+Beatrix College locatie Reeshof	422	89	6,5	-	-	-	-	Openbaar	3,1	1,4
+Kon Willem II College	1.712	92	6,4	90	6,3	85	6,5	Openbaar	7,0	12,3
+Reeshof College	330	99	6,4	-	-	-	-	Rooms-Katholiek	0,6	7,6
+SG De Rooi Pannen	996	98	6,5	-	-	-	-	Rooms-Katholiek	3,6	0,8
+Sint Odulphuslyceum	1.210	-	-	90	6,6	88	6,8	Rooms-Katholiek	6,3	0,4
+Theresialyceum	1.431	-	-	79	6,3	89	6,7	Rooms-Katholiek	6,6	0,6
+Theresialyceum, nevenvestiging Frater van Gemertschool 	47	-	-	100	6,7	-	-	Rooms-Katholiek	2,1	0,0
+Frater van Gemertschool	232	85	6,5	-	-	-	-	Rooms-Katholiek	7,3	3,9
+Vakcollege Tilburg	227	94	6,5	-	-	-	-	Rooms-Katholiek	4,9	1,8
+Waalwijk										
+Dr. Mollercollege	1.146	-	-	86	6,5	92	6,8	Rooms-Katholiek	8,5	3,0
+Walewyc-mavo	639	95	6,7	-	-	-	-	Rooms-Katholiek	3,4	4,1
+SGM De Overlaat	1.052	98	6,6	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	1,6	6,6
+Willem v Oranje College	1.175	85	6,4	78	6,5	88	6,9	Protestants-Christelijk	5,5	3,4
+Willem v Oranje College Nevenlocatie	284	-	-	92	6,6	-	-	Protestants-Christelijk	5,6	0,4
+Werkendam										
+Altena College	1.426	97	6,6	94	6,8	98	7,0	Protestants-Christelijk	3,8	3,2
+Schans	286	93	6,4	-	-	-	-	Protestants-Christelijk	0,0	5,6
+Woensdrecht										
+Mollerlyceum	533	88	6,4	-	-	-	-	Rooms-Katholiek	1,3	3,2
+Woudrichem										
+Prinsentuin Andel vmbo	774	97	6,6	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	1,3	3,6
+Zundert										
+Mencia Sandrode 	295	98	6,7	-	-	-	-	Rooms-Katholiek	2,4	5,8

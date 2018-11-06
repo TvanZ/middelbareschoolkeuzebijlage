@@ -1,0 +1,126 @@
+Barendrecht										
+Edudelta	356	88	6,5	-	-	-	-	Algemeen bijzonder	3,9	1,4
+Calvijn Focus Beroepsacademie	427	98	6,8	-	-	-	-	Protestants-Christelijk	2,8	0,2
+Calvijn Groene Hart	1.547	95	6,5	90	6,5	94	6,9	Protestants-Christelijk	3,5	5,2
+Dalton Focus Beroepsacademie	240	98	6,9	-	-	-	-	Openbaar	2,9	0,4
+Dalton Barendrecht	1.580	95	6,6	93	6,5	94	6,7	Openbaar	4,2	2,3
+Brielle										
+PENTA Bahûrim	309	98	6,6	-	-	-	-	Protestants-Christelijk	1,0	9,7
+Maerlant	1.332	95	6,6	88	6,4	96	6,9	Openbaar	4,5	4,1
+Wellantcollege	333	94	6,4	-	-	-	-	Algemeen bijzonder	1,5	7,2
+Capelle aan den Ijssel										
+Comenius College	1.875	87	6,5	72	6,4	85	6,6	Protestants-Christelijk	6,7	2,9
+IJsselcollege Kanaalweg	448	97	6,7	-	-	-	-	Algemeen bijzonder	2,7	1,6
+IJsselcollege Alkenlaan	486	90	6,6	82	6,3	83	6,7	Openbaar	6,2	4,7
+Cromstrijen										
+Wellantcollege	385	96	6,7	-	-	-	-	Algemeen bijzonder	3,1	7,3
+Goeree-Overflakkee										
+Edudelta College Sommelsdijk	122	95	6,8	-	-	-	-	Algemeen bijzonder	2,5	8,2
+Chr SGM Prins Maurits	1.474	99	6,9	90	6,7	100	7,0	Protestants-Christelijk	2,1	2,1
+Edudelta College Middelharnis	466	98	6,7	-	-	-	-	Algemeen bijzonder	1,1	4,5
+RGO	1.080	93	6,6	91	6,6	89	6,8	Openbaar	3,6	12,6
+Hellevoetsluis										
+Scholengemeenschap Helinium	1.337	96	6,6	74	6,4	88	6,9	Openbaar	3,7	2,8
+Krimpen aan den Ijssel										
+Comenius College Krimpen	238	98	6,4	-	-	-	-	Protestants-Christelijk	5,5	4,2
+Krimpenerwaard College	1.099	93	6,5	86	6,2	93	6,7	Algemeen bijzonder	7,6	14,8
+Krimpenerwaard										
+Driestar College	568	93	6,7	-	-	-	-	Reformatorisch	0,7	4,9
+CSG Willem De Zwijger	1.073	88	6,5	90	6,4	98	6,9	Protestants-Christelijk	4,6	6,9
+Het Schoonhovens College	957	93	6,5	94	6,5	93	6,6	Openbaar	6,1	2,8
+Het Schoonhovens College, Vlisterweg	543	100	6,8	-	-	-	-	Openbaar	2,0	1,5
+Gemini Lekkerkerk	661	95	6,4	-	-	-	-	Openbaar	16,9	6,5
+Lansingerland										
+Sg Wolfert van Borselen	905	-	-	92	6,4	96	6,9	Openbaar	6,4	0,3
+Wolfert PRO	503	94	6,4	-	-	-	-	Openbaar	3,8	0,6
+Maassluis										
+Lentiz locatie Revius	878	-	-	90	6,5	97	7,0	Interconfessioneel	6,3	16,1
+Lentiz VMBO Maassluis	223	88	6,4	-	-	-	-	Interconfessioneel	3,1	2,7
+Nissewaard										
+MY college	324	95	6,6	-	-	-	-	Openbaar	6,8	4,3
+Charles de Foucauld	349	86	6,4	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	5,7	3,4
+De Ring van Putten	1.502	95	6,5	81	6,5	91	6,6	Openbaar	8,4	7,9
+PENTA Scala Rietvelden	1.085	91	6,4	88	6,5	-	-	Protestants-Christelijk	10,5	1,9
+PENTA college	831	-	-	96	6,6	90	6,7	Protestants-Christelijk	7,9	0,7
+Oud-Beijerland										
+Chr SGM Willem v Oranje, loc. Zoomwijck	1.435	-	-	86	6,5	91	6,8	Protestants-Christelijk	7,0	1,0
+Chr SGM Willem v Oranje, loc. Poortwijk	495	96	6,7	-	-	-	-		3,6	11,7
+Hoeksch Lyceum	1.157	84	6,4	78	6,3	80	6,5	Openbaar	8,6	3,1
+Actiefcollege	532	88	6,5	-	-	-	-	Openbaar	1,9	3,0
+Ridderkerk										
+Farelcollege	1.679	95	6,5	82	6,4	80	6,4	Protestants-Christelijk	5,2	4,5
+Gemini College	912	97	6,6	88	6,4	94	6,5	Openbaar	4,9	3,1
+Rotterdam										
+Avicenna College, loc. Schere	235	93	6,4	78	6,7	33	6,1	Islamitisch	4,3	7,2
+Avicenna College, loc. Putsebocht	354	100	6,6	-	-	-	-	Islamitisch	1,7	0,6
+Calvijn Vreewijk	946	-	-	84	6,5	75	6,6	Protestants-Christelijk	5,6	37,0
+Calvijn Juliana	408	99	6,6	-	-	-	-	Protestants-Christelijk	3,4	1,2
+Calvijn Meerpaal	515	97	6,4	-	-	-	-	Protestants-Christelijk	19,8	0,2
+Calvijn Maarten Luther	367	82	6,4	94	6,7	-	-	Protestants-Christelijk	4,6	12,5
+Calvijn Lombardijen	333	82	6,4	-	-	-	-	Protestants-Christelijk	3,6	6,9
+Comenius College Rotterdam	307	92	6,5	-	-	-	-	Protestants-Christelijk	3,3	3,9
+De Passie	497	100	6,9	82	6,5	95	7,0	Evangelisch	9,7	2,6
+Einstein Lyceum	467	100	6,5	79	6,2	92	6,5	Openbaar	4,3	11,8
+Emmauscollege	1.731	-	-	83	6,4	90	6,7	Rooms-Katholiek	5,2	1,4
+Erasmianum Gem Gymnasium	1.174	-	-	-	-	94	6,8	Openbaar	3,4	0,0
+Geref SGM Randstad	1.078	90	6,5	89	6,4	98	6,7	Gereformeerd	3,3	2,6
+Grafisch Lyceum R'dam	503	95	6,6	-	-	-	-	Algemeen bijzonder	5,4	1,0
+Het Lyceum Rotterdam	555	-	-	98	6,5	97	6,8	Rooms-Katholiek	9,2	0,7
+Laurens Lyceum	584	-	-	86	6,4	76	6,5	Rooms-Katholiek	13,2	1,5
+Marnix Gymnasium	648	-	-	-	-	98	7,0	Protestants-Christelijk	5,7	0,0
+Melanchthon	1.137	-	-	96	6,7	94	6,7	Protestants-Christelijk	11,4	1,3
+Melanchthon Kralingen	179	100	6,5	-	-	-	-	Protestants-Christelijk	2,2	2,2
+Melanchthon Mathenesse	376	94	6,3	-	-	-	-	Protestants-Christelijk	2,7	2,1
+Melanchthon Mavo Schiebroek	319	98	6,7	-	-	-	-	Protestants-Christelijk	3,5	9,7
+Melanchthon Wilgenplaslaan	328	95	6,4	-	-	-	-	Protestants-Christelijk	6,7	0,0
+Nova College	246	98	6,8	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	0,8	0,8
+Montfort College	496	85	6,3	80	6,3	82	6,8	Samenwerking PC, RK, Alg. Bijz	6,5	4,0
+Palmentuin	238	98	6,4	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	4,6	5,5
+Slinge	255	92	6,3	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	7,5	0,8
+OSG Libanon Lyceum	614	100	6,6	87	6,4	83	6,6	Openbaar	7,0	3,9
+osg Hugo de Groot	604	96	6,5	88	6,4	67	6,7	Openbaar	9,3	14,7
+Vakcollege de Hef	541	91	6,5	-	-	-	-	Openbaar	16,1	0,7
+PENTA Godfried Richter	180	94	6,6	-	-	-	-	Protestants-Christelijk	1,1	5,0
+PENTA Hoogvliet	443	91	6,5	-	-	-	-	Protestants-Christelijk	1,8	1,6
+Roncalli MAVO	728	92	6,4	-	-	-	-	Rooms-Katholiek	6,9	8,2
+Scheepvaart en Transport College	827	95	6,6	-	-	-	-	Algemeen bijzonder	6,7	1,5
+Montessori Lyceum Rotterdam	980	-	-	93	6,5	97	6,7	Algemeen bijzonder	7,7	1,4
+Thorbecke Prinsenlaan	731	-	-	88	6,4	97	6,6	Openbaar	14,0	1,6
+Thorbecke vmbo mavo	455	98	6,6	-	-	-	-	Openbaar	3,3	1,8
+Thorbecke Merkelbackstr	275	72	6,2	-	-	-	-	Openbaar	22,2	2,2
+Theater havo/vwo	483	-	-	92	6,5	95	6,9	Samenwerking PC, RK, Alg. Bijz	10,1	1,5
+Havo muziek en dans	180	-	-	97	6,6	93	7,2	Samenwerking PC, RK, Alg. Bijz	9,4	0,0
+Carré College	393	88	6,4	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	3,8	0,0
+De Toorop	403	99	6,6	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	2,7	5,2
+G.K.H.	226	96	6,5	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	3,1	1,3
+Hildegardis	288	73	6,3	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	12,5	4,2
+Horeca Vakschool	236	95	6,6	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	2,5	1,3
+Lucia Petrus MAVO	310	76	6,3	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	9,4	6,1
+Cosmicus College	465	-	-	86	6,2	74	6,3	Samenwerking PC, RK, Alg. Bijz	10,8	0,9
+Noordrand College	183	85	6,4	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	1,6	0,0
+Rudolf Steiner College	838	91	6,4	80	6,3	96	6,5	Antroposofisch	17,9	5,9
+Guido de Brès	1.613	98	6,7	93	6,6	97	7,0	Reformatorisch	5,2	1,7
+De Swaef	728	95	6,7	-	-	-	-	Reformatorisch	3,7	1,7
+Revius	848	90	6,5	90	6,5	95	6,9	Reformatorisch	3,4	2,4
+Wellantcollege	214	100	6,5	-	-	-	-	Algemeen bijzonder	12,2	2,8
+Wolfert havo/vwo	1.139	-	-	80	6,4	85	6,9	Openbaar	7,3	0,7
+Wolfert Dalton 	771	95	6,5	82	6,5	82	6,5	Openbaar	8,3	5,8
+Wolfert College	554	100	6,7	-	-	-	-	Openbaar	9,2	8,7
+Zuiderpark College	902	96	6,5	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	8,0	0,4
+De Waal, YBS	192	88	6,4	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	3,7	1,0
+Schiedam										
+Lentiz VMBO Life College	713	99	6,7	-	-	-	-	Samenwerking PC, RK	0,4	0,4
+Lyceum Schravenlant	552	-	-	98	6,5	82	6,3	Openbaar	9,2	0,4
+Mavo Schravenlant XL	507	86	6,2	-	-	-	-	Openbaar	6,1	4,1
+SGM Spieringshoek	1.496	-	-	85	6,5	82	6,8	Rooms-Katholiek	9,0	0,6
+Stedelijk	639	-	-	-	-	91	6,8	Openbaar	8,8	0,0
+Vlaardingen										
+Het Lyceum Vos	578	-	-	69	6,3	84	6,5	Openbaar	6,8	9,7
+De Mavo Vos	359	84	6,2	-	-	-	-	Openbaar	3,9	7,2
+Lentiz - Geuzencollege	864	98	6,5	-	-	-	-	Interconfessioneel	5,7	1,5
+Lentiz - Groen van Prinstererlyceum	1.323	92	6,4	77	6,4	77	6,7	Interconfessioneel	9,4	1,4
+St.- Jozefmavo	881	96	6,5	-	-	-	-	Rooms-Katholiek	6,7	4,4
+Het College Vos 	399	98	6,6	-	-	-	-	Openbaar	7,3	4,0
+Zuidplas										
+Comenius College Nieuwerkerk	452	98	6,5	-	-	-	-	Protestants-Christelijk	4,2	7,5
+Thorbecke VO	383	98	6,6	-	-	-	-	Openbaar	5,7	6,8

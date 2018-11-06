@@ -1,0 +1,53 @@
+Aalburg											
+Willem v Oranje College	620	98	6,6	-	-	-	-	Protestants-Christelijk	2,9	1,6	
+Barendrecht											
+Edudelta	356	88	6,5	-	-	-	-	Algemeen bijzonder	3,9	1,4	
+Calvijn Focus Beroepsacademie	427	98	6,8	-	-	-	-	Protestants-Christelijk	2,8	0,2	
+Calvijn Groene Hart	1.547	95	6,5	90	6,5	94	6,9	Protestants-Christelijk	3,5	5,2	
+Dalton Focus Beroepsacademie	240	98	6,9	-	-	-	-	Openbaar	2,9	0,4	
+Dalton Barendrecht	1.580	95	6,6	93	6,5	94	6,7	Openbaar	4,2	2,3	
+Dordrecht											
+Insula College vmbo	523	97	6,6	-	-	-	-	Protestants-Christelijk	2,1	8,2	
+Insula College mavo	778	92	6,6	-	-	-	-	Protestants-Christelijk	5,0	7,8	
+Insula College	1.169	-	-	80	6,4	82	6,8	Protestants-Christelijk	6,5	1,0	
+Joh De Wittgymnasium	813	-	-	-	-	91	6,8	Openbaar	6,2	0,0	
+Stedelijk Dalton Lyceum	796	-	-	-	-	88	6,6	Openbaar	7,2	0,1	
+Stedelijk Dalton Lyceum	394	97	6,4	-	-	-	-	Openbaar	3,6	12,9	
+Stedelijk Dalton Lyceum, Kapteynweg 	990	95	6,5	80	6,4	-	-	Openbaar	9,2	13,2	
+Wartburg College	688	97	6,7	-	-	-	-	Reformatorisch	2,2	2,5	
+Wellantcollege mavo Stek	327	89	6,6	-	-	-	-	Algemeen bijzonder	6,4	6,7	
+Wellantcollege	675	88	6,4	-	-	-	-	Algemeen bijzonder	4,3	5,6	
+Gorinchem											
+C S De Hoven Uilenhof	508	89	6,4	-	-	-	-	Protestants-Christelijk	2,6	9,5	
+Gem Gymn Camphusianum	742	-	-	-	-	91	6,8	Openbaar	5,5	0,0	
+Gomarusschool s.g.	1.217	98	6,8	94	6,9	91	6,8	Reformatorisch	1,8	1,9	
+Fortis Lyceum	948	90	6,4	78	6,2	91	6,5	Openbaar	5,5	12,0	
+Omnia College	597	89	6,4	-	-	-	-	Openbaar	3,9	3,7	
+Lyceum oudehoven	1.246	-	-	95	6,5	93	6,9	Protestants-Christelijk	7,1	0,6	
+Gilde	744	99	6,8	-	-	-	-	Protestants-Christelijk	1,1	10,6	
+Windroos	237	97	6,6	-	-	-	-	Protestants-Christelijk	1,3	1,3	
+Wellantcollege	152	92	6,7	-	-	-	-	Algemeen bijzonder	1,3	11,2	
+Hardinxveld-Giessendam											
+Calvijn	538	95	6,6	-	-	-	-	Protestants-Christelijk	3,9	3,5	
+Willem De Zwijger College	217	100	6,6	-	-	-	-	Openbaar	2,3	22,1	
+Leerdam											
+Heerenlanden College	1.025	92	6,6	85	6,4	98	6,8	Protestants-Christelijk	5,6	2,3	
+Heerenlanden College vmbo	265	97	6,5	-	-	-	-	Protestants-Christelijk	1,1	1,1	
+Molenwaard											
+Wellantcollege	480	100	6,8	-	-	-	-	Algemeen bijzonder	1,0	7,1	
+Papendrecht											
+De Lage Waard, Vijzellaan	1.245	-	-	86	6,5	93	6,6	Protestants-Christelijk	4,6	0,4	
+De Lage Waard, burg Keijzerweg	942	95	6,6	-	-	-	-	Protestants-Christelijk	2,0	5,5	
+Willem De Zwijger College	1.246	86	6,4	84	6,4	91	6,7	Openbaar	6,3	10,7	
+Sliedrecht											
+Grienden College	339	98	6,5	-	-	-	-	Samenwerking PC, Alg. Bijz.	1,8	0,9	
+Werkendam											
+Altena College	1.426	97	6,6	94	6,8	98	7,0	Protestants-Christelijk	3,8	3,2	
+Schans	286	93	6,4	-	-	-	-	Protestants-Christelijk	0,0	5,6	
+Woudrichem											
+Prinsentuin Andel vmbo	774	97	6,6	-	-	-	-	Samenwerking PC, RK, Alg. Bijz	1,3	3,6	
+Zwijndrecht											
+DevelsteinCollege	1.515	92	6,5	89	6,4	92	6,8	Protestants-Christelijk	4,5	3,1	
+DevelsteinCollege locatie Loket	386	97	6,5	-	-	-	-	Protestants-Christelijk	3,6	4,9	
+Walburg College locatie Loket	370	99	6,6	-	-	-	-	Openbaar	4,3	8,1	
+Walburg College Zwijndrecht	1.141	93	6,5	81	6,3	96	6,8	Openbaar	5,7	3,0	

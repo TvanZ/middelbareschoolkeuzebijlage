@@ -1,0 +1,44 @@
+Alphen aan den Rijn											
+Ashram College	1.895	85	6,4	86	6,4	86	6,8	Rooms-Katholiek	9,1	10,1	
+Chr Sgm Groene Hart Leerpark	754	97	6,7	-	-	-	-	Protestants-Christelijk	3,1	9,2	
+Chr Sgm Groene Hart Lyceum	1.308	-	-	88	6,6	89	6,9	Protestants-Christelijk	6,2	0,6	
+Chr Sgm Groene Hart Rijnwoude	354	95	6,5	-	-	-	-	Protestants-Christelijk	4,0	16,1	
+Chr Sgm Groene Hart Topmavo	715	88	6,4	-	-	-	-	Protestants-Christelijk	2,8	7,8	
+Scala College	948	94	6,4	92	6,6	-	-	Openbaar	7,1	4,1	
+Scala College	415	-	-	-	-	95	6,8	Openbaar	6,3	0,0	
+Wellantcollege	343	100	6,8	-	-	-	-	Algemeen bijzonder	1,8	11,1	
+Wellantcollege	415	97	6,7	-	-	-	-	Algemeen bijzonder	1,2	6,8	
+De Ronde Venen											
+Veenlanden College Mijdrecht	1.429	94	6,6	91	6,5	95	6,7	Samenwerking PC, RK	6,9	13,0	
+Veenlanden College Vinkeveen	354	89	6,5	-	-	-	-	Samenwerking PC, RK	3,7	18,1	
+Gouda											
+De Meander, Carmelcollege Gouda	493	100	6,7	-	-	-	-	Rooms-Katholiek	20,3	2,2	
+Antoniuscollege, Carmelcollege Gouda	442	-	-	83	6,5	96	6,7	Rooms-Katholiek	7,0	5,2	
+Driestar College	2.934	98	6,7	96	6,7	97	7,0	Reformatorisch	2,4	2,1	
+SGM De Goudse Waarden, Praktijkonderwijs	461	93	6,7	-	-	-	-	Protestants-Christelijk	3,7	6,3	
+SGM De Goudse Waarden, lyceum	1.493	-	-	87	6,5	93	6,8	Protestants-Christelijk	5,7	11,4	
+Coornhert Gymnasium	735	-	-	-	-	94	7,0	Openbaar	6,0	0,0	
+GSG Leo Vroman	1.570	91	6,5	89	6,4	98	6,9	Openbaar	7,1	9,2	
+Wellantcollege	390	98	6,6	-	-	-	-	Algemeen bijzonder	1,5	7,7	
+Kaag en Braassem											
+Bonaventuracollege	322	91	6,2	-	-	-	-	Rooms-Katholiek	3,7	14,9	
+Krimpenerwaard											
+Driestar College	568	93	6,7	-	-	-	-	Reformatorisch	0,7	4,9	
+CSG Willem De Zwijger	1.073	88	6,5	90	6,4	98	6,9	Protestants-Christelijk	4,6	6,9	
+Het Schoonhovens College	957	93	6,5	94	6,5	93	6,6	Openbaar	6,1	2,8	
+Het Schoonhovens College, Vlisterweg	543	100	6,8	-	-	-	-	Openbaar	2,0	1,5	
+Gemini Lekkerkerk	661	95	6,4	-	-	-	-	Openbaar	16,9	6,5	
+Montfoord											
+Wellantcollege	635	98	6,8	-	-	-	-	Algemeen bijzonder	0,2	8,2	
+Nieuwkoop											
+Ashram College	404	98	6,5	-	-	-	-	Rooms-Katholiek	2,5	5,2	
+Waddinxveen											
+Coenecoop College	981	91	6,5	85	6,4	86	6,5	Openbaar	7,0	1,6	
+Woerden											
+Kalsbeek College, loc. Schilderspark	1.636	-	-	95	6,6	92	6,6	Protestants-Christelijk	6,7	1,7	
+Kalsbeek College, loc. Bredius	1.398	97	6,6	-	-	-	-	Protestants-Christelijk	1,8	3,1	
+Minkema College, loc. Mink	1.631	-	-	91	6,5	92	6,8	Openbaar	5,3	0,4	
+Minkema College, loc. Stein	957	98	6,7	-	-	-	-	Openbaar	1,9	2,6	
+Zuidplas											
+Comenius College Nieuwerkerk	452	98	6,5	-	-	-	-	Protestants-Christelijk	4,2	7,5	
+Thorbecke VO	383	98	6,6	-	-	-	-	Openbaar	5,7	6,8	
