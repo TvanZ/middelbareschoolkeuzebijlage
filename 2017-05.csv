@@ -1,0 +1,1298 @@
+BRINNUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM VESTIGING;PLAATSNAAM VESTIGING;GEMEENTENUMMER VESTIGING;GEMEENTENAAM VESTIGING;PROVINCIE VESTIGING;TOTAAL LEERLINGEN;AANTAL ZITTENBLIJVERS;AANTAL AFSTROMERS;AANTAL OPSTROMERS;PERCENTAGE ZITTENBLIJVERS;PERCENTAGE AFSTROMERS;PERCENTAGE OPSTROMERS
+00AH;0;Openbare Scholengemeenschap Het Stedelijk Lyceum Havo Mavo Vbo Lwoo;ENSCHEDE;153;ENSCHEDE;Overijssel;1.001;84;25;139;8,39;2,5;13,89
+00AH;7;Openbare Scholengemeenschap Het Stedelijk Lyceum Havo Mavo Vbo Lwoo;ENSCHEDE;153;ENSCHEDE;Overijssel;927;77;6;182;8,31;0,65;19,63
+00AH;8;Openbare Scholengemeenschap Het Stedelijk Lyceum Havo Mavo Vbo Lwoo;ENSCHEDE;153;ENSCHEDE;Overijssel;258;20;1;16;7,75;0,39;6,2
+00AH;9;Openbare Scholengemeenschap Het Stedelijk Lyceum Havo Mavo Vbo Lwoo;ENSCHEDE;153;ENSCHEDE;Overijssel;159;12;2;5;7,55;1,26;3,14
+00AH;11;Openbare Scholengemeenschap Het Stedelijk Lyceum Havo Mavo Vbo Lwoo;ENSCHEDE;153;ENSCHEDE;Overijssel;125;41;0;10;32,8;0;8
+00AH;17;Openbare Scholengemeenschap Het Stedelijk Lyceum Havo Mavo Vbo Lwoo;ENSCHEDE;153;ENSCHEDE;Overijssel;761;73;8;31;9,59;1,05;4,07
+00AQ;0;Zwin College Scholengemeenschap voor Vmbo Havo Atheneum Gymnasium;OOSTBURG;1714;SLUIS;Zeeland;996;54;41;42;5,42;4,12;4,22
+00BD;0;Coenecoop College voor Atheneum Havo Mavo Voorbereidend Beroeps Onderwijs;WADDINXVEEN;627;WADDINXVEEN;Zuid-Holland;981;69;79;16;7,03;8,05;1,63
+00BD;2;Coenecoop College voor Atheneum Havo Mavo Voorbereidend Beroeps Onderwijs;BOSKOOP;484;ALPHEN AAN DEN RIJN;Zuid-Holland;107;3;21;0;2,8;19,63;0
+00CB;0;Scholengemeenschap voor Voortgezet Vrije Schoolonderwijs;NIJMEGEN;268;NIJMEGEN;Gelderland;827;79;0;94;9,55;0;11,37
+00CB;1;Scholengemeenschap voor Voortgezet Vrije Schoolonderwijs;ZEIST;355;ZEIST;Utrecht;657;23;60;150;3,5;9,13;22,83
+00CB;2;Scholengemeenschap voor Voortgezet Vrije Schoolonderwijs;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;562;63;1;88;11,21;0,18;15,66
+00DI;0;rsg de Borgen voor Lyceum Havo Mavo Vbo Lwoo;LEEK;22;LEEK;Groningen;667;24;11;31;3,6;1,65;4,65
+00DI;1;rsg de Borgen voor Lyceum Havo mavo Vbo Lwoo;RODEN;1699;NOORDENVELD;Drenthe;416;12;9;46;2,88;2,16;11,06
+00DI;2;rsg de Borgen voor Lyceym havo Mavo Vbo Lwoo;LEEK;22;LEEK;Groningen;1.338;71;49;38;5,31;3,66;2,84
+00DI;3;rsg de Borgen voor Lyceum havo mavo Vbo Lwoo;GROOTEGAST;15;GROOTEGAST;Groningen;229;0;11;14;0;4,8;6,11
+00DI;4;rsg de Borgen voor Lyceum Havo mavo Vbo Lwoo;RODEN;1699;NOORDENVELD;Drenthe;6;0;0;0;0;0;0
+00EF;0;Voortgezet Onderwijs van Amsterdam voor Vbo en Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;517;7;2;4;1,35;0,39;0,77
+00HI;0;Scholengemeenschap Dalton Vatel Voor Lyceum HAVO MAVO VBO LWOO;VOORBURG;1916;LEIDSCHENDAM-VOORBURG;Zuid-Holland;1.202;79;16;204;6,57;1,33;16,97
+00HI;3;Scholengemeenschap Dalton Vatel Voor Lyceum HAVO MAVO VBO LWOO;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;465;35;14;9;7,53;3,01;1,94
+00IP;0;Katholiek Scholengemeenschap Hoofddorp voor Lyceum HAVO en MAVO;HOOFDDORP;394;HAARLEMMERMEER;Noord-Holland;998;46;40;43;4,61;4,01;4,31
+00JR;0;Scholengemeenschap Spieringshoek voor Gymnasium Atheneum en HAVO;SCHIEDAM;606;SCHIEDAM;Zuid-Holland;1.496;134;62;9;8,96;4,14;0,6
+00JT;0;Gereformeerd Scholengemeenschap Guido De Bres Lyceum HAVO MAVO VBO LWOO;AMERSFOORT;307;AMERSFOORT;Utrecht;759;55;19;8;7,25;2,5;1,05
+00JT;2;Gereformeerd Scholengemeenschap Guido De Bres Lyceum HAVO MAVO VBO LWOO;AMERSFOORT;307;AMERSFOORT;Utrecht;389;7;2;11;1,8;0,51;2,83
+00JT;3;Gereformeerd Scholengemeenschap Guido De Bres Lyceum HAVO MAVO VBO LWOO;ARNHEM;202;ARNHEM;Gelderland;150;9;1;4;6;0,67;2,67
+00JT;6;Gereformeerd Scholengemeenschap Guido De Bres Lyceum HAVO MAVO VBO LWOO;AMERSFOORT;307;AMERSFOORT;Utrecht;519;3;11;57;0,58;2,12;10,98
+00KV;0;KSE (Katholieke Scholengemeenschap Etten-Leur e.o.);ETTEN-LEUR;777;ETTEN-LEUR;Noord-Brabant;1.979;106;30;65;5,36;1,52;3,28
+00KV;1;KSE (Katholieke Scholengemeenschap Etten-Leur e.o.);ETTEN-LEUR;777;ETTEN-LEUR;Noord-Brabant;479;14;33;22;2,92;6,89;4,59
+00LJ;0;Christelijk College Schaersvoorde voor Atheneum Havo Mavo Vbo Lwoo;AALTEN;197;AALTEN;Gelderland;939;69;19;31;7,35;2,02;3,3
+00LJ;1;Christelijk College Schaersvoorde voor Atheneum Havo Mavo Vbo Lwoo;DINXPERLO;197;AALTEN;Gelderland;155;10;7;6;6,45;4,52;3,87
+00LJ;2;Christelijk College Schaersvoorde voor Atheneum Havo Mavo Vbo Lwoo;WINTERSWIJK;294;WINTERSWIJK;Gelderland;200;3;7;12;1,5;3,5;6
+00LJ;5;Christelijk College Schaersvoorde voor Atheneum Havo Mavo Vbo Lwoo;AALTEN;197;AALTEN;Gelderland;471;15;8;13;3,18;1,7;2,76
+00LY;0;PC RK SGM Zeldenrust Steelantcollege;TERNEUZEN;715;TERNEUZEN;Zeeland;1.477;65;26;153;4,4;1,76;10,36
+00MK;0;Katholiek Scholengemeenschap De Breul voor Gymnasium Atheneum Havo en Mavo;ZEIST;355;ZEIST;Utrecht;1.671;70;37;90;4,19;2,21;5,39
+00ML;0;Meridiaancollege RK SGM v Lyc Havo Mavo Vbo Lwoo;AMERSFOORT;307;AMERSFOORT;Utrecht;1.381;84;30;31;6,08;2,17;2,24
+00ML;2;Meridiaancollege RK SGM v Lyc Havo Mavo Vbo Lwoo;AMERSFOORT;307;AMERSFOORT;Utrecht;710;23;14;16;3,24;1,97;2,25
+00ML;5;Meridiaancollege RK SGM v Lyc Havo Mavo Vbo Lwoo;AMERSFOORT;307;AMERSFOORT;Utrecht;779;26;22;40;3,34;2,82;5,13
+00ML;9;Meridiaan College RK SGM v Lyc Havo Mavo Vbo Lwoo;AMERSFOORT;307;AMERSFOORT;Utrecht;518;1;15;37;0,19;2,9;7,14
+00ML;12;Meridiaancollege RK SGM v Lyc Havo Mavo Vbo Lwoo;AMERSFOORT;307;AMERSFOORT;Utrecht;608;46;6;8;7,57;0,99;1,32
+00MP;0;Christelijk College De Noordgouw;HEERDE;246;HEERDE;Gelderland;1.061;57;43;64;5,37;4,05;6,03
+00MV;0;Scholen aan Zee 2;DEN HELDER;400;DEN HELDER;Noord-Holland;1.073;118;39;8;11;3,63;0,75
+00MV;1;Scholen aan Zee 2;DEN HELDER;400;DEN HELDER;Noord-Holland;620;33;5;25;5,32;0,81;4,03
+00MV;2;Scholen aan Zee 2;DEN HELDER;400;DEN HELDER;Noord-Holland;606;171;5;13;28,22;0,83;2,15
+00MV;6;Scholen aan Zee 2;JULIANADORP;400;DEN HELDER;Noord-Holland;366;8;16;4;2,19;4,37;1,09
+00NE;0;Jan van Brabant College vestiging Deltaweg;HELMOND;794;HELMOND;Noord-Brabant;603;7;2;9;1,16;0,33;1,49
+00NE;2;Jan van Brabant College vestiging Gasthuisstraat;HELMOND;794;HELMOND;Noord-Brabant;96;43;12;6;44,79;12,5;6,25
+00OB;0;Maaswaal College voor Gymnasium Atheneum Havo Vmbo Lwoo;WIJCHEN;296;WIJCHEN;Gelderland;1.462;78;55;135;5,34;3,76;9,23
+00OB;3;Maaswaal College voor Gymnasium Atheneum Havo Vmbo Lwoo;WIJCHEN;296;WIJCHEN;Gelderland;1.017;46;14;19;4,52;1,38;1,87
+00PF;0;Carmelcollege Emmen;EMMEN;114;EMMEN;Drenthe;1.721;88;51;49;5,11;2,96;2,85
+00PG;0;Wartburg College Gereformeerde Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;1.613;84;68;28;5,21;4,22;1,74
+00PG;2;Wartburg College Gereformeerde Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;728;27;6;12;3,71;0,82;1,65
+00PG;3;Wartburg College Gereformeerde Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;848;29;40;20;3,42;4,72;2,36
+00PG;4;Wartburg College Gereformeerde Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;DORDRECHT;505;DORDRECHT;Zuid-Holland;688;15;52;17;2,18;7,56;2,47
+00PG;8;Wartburg College Gereformeerde Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;36;2;2;0;5,56;5,56;0
+00PJ;0;Erasmuscollege voor Vwo Havo en Mavo;ZOETERMEER;637;ZOETERMEER;Zuid-Holland;1.884;117;45;35;6,21;2,39;1,86
+00PS;0;Verenigde Scholen J.A. Alberdingk Thijm Voortgezet Onderwijs;HILVERSUM;402;HILVERSUM;Noord-Holland;730;217;0;63;29,73;0;8,63
+00PS;3;Verenigde Scholen J.A. Alberdingk Thijm VO. Locatie: Laar & Berg;LAREN NH;417;LAREN;Noord-Holland;788;68;17;3;8,63;2,16;0,38
+00PS;4;Verenigde Scholen J.A. Alberdingk Thijm VO. Locatie: Groot Goylant;HILVERSUM;402;HILVERSUM;Noord-Holland;421;7;3;4;1,66;0,71;0,95
+00PS;5;Verenigde Scholen J.A. Alberdingk Thijm VO. Locatie: St. Aloysius College;HILVERSUM;402;HILVERSUM;Noord-Holland;519;21;6;74;4,05;1,16;14,26
+00PS;6;Verenigde Scholen J.A. Alberdingk Thijm VO. Locatie:  Alberdink Thijm Mavo;HILVERSUM;402;HILVERSUM;Noord-Holland;167;11;6;11;6,59;3,59;6,59
+00PS;8;Verenigde Scholen J.A. Alberdingk Thijm VO. Locatie: Alberdingk Thijm College;HILVERSUM;402;HILVERSUM;Noord-Holland;1.199;60;46;13;5;3,84;1,08
+00RO;0;Amadeus Lyceum;VLEUTEN;344;UTRECHT;Utrecht;1.312;40;37;49;3,05;2,82;3,73
+00RZ;0;Montessori College voor Vwo, Havo, Vmbo;NIJMEGEN;268;NIJMEGEN;Gelderland;1.594;81;27;39;5,08;1,69;2,45
+00RZ;1;Montessori College voor Atheneum Havo Mavo Vbo Lwoo;GROESBEEK;1945;BERG EN DAL;Gelderland;277;13;1;7;4,69;0,36;2,53
+00SZ;0;Johannes Fontanus College Christelijk Scholengemeenschap voor Mavo Havo Atheneum;BARNEVELD;203;BARNEVELD;Gelderland;2.351;130;58;141;5,53;2,47;6
+00TL;0;Het Nieuwe Lyceum Scholengemeenschap voor Gymnasium Atheneum en Havo;BILTHOVEN;310;DE BILT;Utrecht;1.083;43;17;21;3,97;1,57;1,94
+00TM;0;Christelijk Scholengemeenschap voor Atheneum Havo Mavo Vbo Lwoo;ZETTEN;1734;OVERBETUWE;Gelderland;1.102;55;43;36;4,99;3,9;3,27
+00TQ;0;Scholengemeenschap Mari‰ndael VBO LWOO;ARNHEM;202;ARNHEM;Gelderland;133;26;4;4;19,55;3,01;3,01
+00TU;0;Gereformeerde Scholengemeenschap Randstad Gymnasium Atheneum HAVO VMBO;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;1.078;36;33;28;3,34;3,06;2,6
+00TU;1;Gereformeerde Scholengemeenschap Randstad Gymnasium Atheneum HAVO VMBO;RIJSWIJK ZH;603;RIJSWIJK;Zuid-Holland;165;4;6;11;2,42;3,64;6,67
+00UM;0;Erfgooiers College Atheneum Havo VMBO-TL;HUIZEN;406;HUIZEN;Noord-Holland;1.192;84;20;62;7,05;1,68;5,2
+00UZ;0;Fioretti College voor Gymnasium Atheneum Havo Mavo Vbo Lwoo;LISSE;553;LISSE;Zuid-Holland;1.535;67;24;227;4,36;1,56;14,79
+00UZ;4;Fioretti College voor Gymnasium Atheneum Havo Mavo Vbo Lwoo;HILLEGOM;534;HILLEGOM;Zuid-Holland;1.124;19;32;43;1,69;2,85;3,83
+00VR;0;St.- Jozefmavo;VLAARDINGEN;622;VLAARDINGEN;Zuid-Holland;881;59;13;39;6,7;1,48;4,43
+00VY;0;Cals College Roomskatholiek Scholengemeenschap voor Lyceum Havo Mavo Vbo;NIEUWEGEIN;356;NIEUWEGEIN;Utrecht;2.059;92;26;7;4,47;1,26;0,34
+00VY;4;Cals College RK SGM voor Lyceum Havo Mavo Vbo;IJSSELSTEIN UT;353;IJSSELSTEIN;Utrecht;1.895;59;19;101;3,11;1;5,33
+00WD;0;Scholengemeenschap Panta Rhei voor vmbo/mavo en Lwoo;AMSTELVEEN;362;AMSTELVEEN;Noord-Holland;809;44;10;12;5,44;1,24;1,48
+00WH;0;Gomarusschool s.g.voor VMBO Havo Atheneum;GORINCHEM;512;GORINCHEM;Zuid-Holland;1.217;22;17;23;1,81;1,4;1,89
+00WH;1;Gomarusschool s.g.voor VMBO Havo Atheneum;GORINCHEM;512;GORINCHEM;Zuid-Holland;565;3;22;0;0,53;3,89;0
+00WI;0;Christelijk College Groevenbeek;ERMELO;233;ERMELO;Gelderland;2.509;104;91;93;4,15;3,63;3,71
+00WI;4;Christelijk College Groevenbeek;PUTTEN;273;PUTTEN;Gelderland;447;7;11;16;1,57;2,46;3,58
+00XA;0;Trinitas College RK scholengemeenschap voor ATHENEUM, HAVO, MAVO, VBO, LWOO;HEERHUGOWAARD;398;HEERHUGOWAARD;Noord-Holland;1.954;168;53;20;8,6;2,71;1,02
+00XA;1;Trinitas College RK scholengemeenschap voor ATHENEUM, HAVO, MAVO, VBO, LWOO;HEERHUGOWAARD;398;HEERHUGOWAARD;Noord-Holland;1.493;49;7;144;3,28;0,47;9,65
+00XK;0;Veurs College Scholengemeenschap voor Atheneum Havo Mavo Vbo Lwoo;LEIDSCHENDAM;1916;LEIDSCHENDAM-VOORBURG;Zuid-Holland;931;82;47;59;8,81;5,05;6,34
+00XK;2;Veurs College (nevenvestiging) Veurs Voorburg;VOORBURG;1916;LEIDSCHENDAM-VOORBURG;Zuid-Holland;364;25;4;30;6,87;1,1;8,24
+00XK;3;Veurs College - locatie 's-Gravendreef;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;726;17;32;32;2,34;4,41;4,41
+00XK;8;Veurs College (nevenvestiging) 's-Gravendreef College Leidschendam;LEIDSCHENDAM;1916;LEIDSCHENDAM-VOORBURG;Zuid-Holland;155;3;1;0;1,94;0,65;0
+00YH;0;Christelijke Scholengroep De Hoven;GORINCHEM;512;GORINCHEM;Zuid-Holland;508;13;13;48;2,56;2,56;9,45
+00YH;1;Protestants Christelijke Scholengemeenschap Oude Hoven voor Lyceum Havo Mavo Vbo;SLEEUWIJK;870;WERKENDAM;Noord-Brabant;286;0;3;16;0;1,05;5,59
+00YH;2;Protestants Christelijke Scholengemeenschap Oude Hoven voor Lyceum Havo Mavo Vbo;HARDINXVELD-GIESSENDAM;523;HARDINXVELD-GIESSENDAM;Zuid-Holland;538;21;30;19;3,9;5,58;3,53
+00YH;3;Protestants Christelijke Scholengemeenschap Oude Hoven voor Lyceum Havo Mavo Vbo;GORINCHEM;512;GORINCHEM;Zuid-Holland;1.246;89;43;8;7,14;3,45;0,64
+00YH;5;Protestants Christelijke Scholengemeenschap Oude Hoven voor Lyceum Havo Mavo Vbo;GORINCHEM;512;GORINCHEM;Zuid-Holland;744;8;0;79;1,08;0;10,62
+00YH;6;Protestants Christelijke Scholengemeenschap Oude Hoven voor Lyceum Havo Mavo Vbo;GORINCHEM;512;GORINCHEM;Zuid-Holland;237;3;0;3;1,27;0;1,27
+00YH;9;Christelijke Scholengroep De Hoven;GORINCHEM;512;GORINCHEM;Zuid-Holland;30;2;0;1;6,67;0;3,33
+00YO;0;Protestants Christelijk Mavo Waldheim;BAARN;308;BAARN;Utrecht;375;13;7;15;3,47;1,87;4
+00ZD;0;Bonhoeffer College Scholengemeenschap voor Mavo Havo Vwo;CASTRICUM;383;CASTRICUM;Noord-Holland;1.563;84;25;246;5,37;1,6;15,74
+00ZH;0;Scholengemeenschap Gaasterland voor Christelijk Mavo en Lhno;BALK;1940;DE FRYSKE MARREN;Friesland;238;4;14;17;1,68;5,88;7,14
+00ZO;0;Interconfessionele Scholengemeenschap Arcus voor Atheneum Havo Mavo Vbo Lwoo;LELYSTAD;995;LELYSTAD;Flevoland;1.004;72;28;43;7,17;2,79;4,28
+00ZV;0;Lauwers College Christelijk Scholengemeenschap voor Atheneum Havo Mavo Vbo;BUITENPOST;59;ACHTKARSPELEN;Friesland;1.079;62;45;33;5,75;4,17;3,06
+00ZV;2;Lauwers College Christelijk Scholengemeenschap voor Atheneum Havo Mavo Vbo;KOLLUM;79;KOLLUMERLAND CA;Friesland;301;3;13;19;1;4,32;6,31
+00ZV;5;Lauwers College Christelijk Scholengemeenschap voor Atheneum Havo Mavo Vbo;GRIJPSKERK;56;ZUIDHORN;Groningen;246;4;25;17;1,63;10,16;6,91
+00ZX;0;Dockingacollege Chr SGS VMBO/HAVO/VWO;DOKKUM;58;DONGERADEEL;Friesland;483;53;2;2;10,97;0,41;0,41
+00ZX;2;Dockingacollege Chr SGS VMBO/HAVO/VWO;DOKKUM;58;DONGERADEEL;Friesland;357;19;12;17;5,32;3,36;4,76
+00ZX;3;Dockingacollege Chr SGS VMBO/HAVO/VWO;DOKKUM;58;DONGERADEEL;Friesland;452;4;0;4;0,88;0;0,88
+00ZX;4;Dockingacollege Chr SGS VMBO/HAVO/VWO;FERWERT;1722;FERWERDERADIEL;Friesland;200;2;8;9;1;4;4,5
+00ZX;8;Dockingacollege Chr SGS VMBO/HAVO/VWO;DOKKUM;58;DONGERADEEL;Friesland;480;7;43;0;1,46;8,96;0
+01AA;57;Landstede loc. Thomas a Kempis Beroepscollege;ZWOLLE;193;ZWOLLE;Overijssel;699;45;38;23;6,44;5,44;3,29
+01AA;58;Landstede loc. TalentStad Beroepscollege;ZWOLLE;193;ZWOLLE;Overijssel;142;2;0;2;1,41;0;1,41
+01AA;59;Landstede loc. JenaXL;ZWOLLE;193;ZWOLLE;Overijssel;226;18;22;10;7,96;9,73;4,42
+01AA;60;Landstede loc. Landstede Internationale Schakelklas (ISK);ZWOLLE;193;ZWOLLE;Overijssel;169;35;0;12;20,71;0;7,1
+01AA;61;Landstede loc. Centre for Sports & Education;ZWOLLE;193;ZWOLLE;Overijssel;485;28;30;25;5,77;6,19;5,15
+01BE;0;Scholengemeenschap Ulbe Van Houten Christelijke SGM voor Vmbo;ST.-ANNAPAROCHIE;63;HET BILDT;Friesland;332;3;0;13;0,9;0;3,92
+01EO;0;Purmerendse Scholengroep voor Gymn Lyc Havo Mavo Vbo Lwoo;PURMEREND;439;PURMEREND;Noord-Holland;1.210;56;55;12;4,63;4,55;0,99
+01EO;1;Purmerendse Scholengroep locatie SG Gerrit Rietveld;PURMEREND;439;PURMEREND;Noord-Holland;479;17;8;21;3,55;1,67;4,38
+01EO;2;Purmerendse Scholengroep locatie Jan v. Egmond Lyceum;PURMEREND;439;PURMEREND;Noord-Holland;1.540;124;45;17;8,05;2,92;1,1
+01EO;6;Purmerendse Scholengroep locatie SG. W.J. Bladergroen;PURMEREND;439;PURMEREND;Noord-Holland;125;18;1;6;14,4;0,8;4,8
+01EO;8;Purmerendse Scholengroep locatie SG. Nelson Mandela;PURMEREND;439;PURMEREND;Noord-Holland;485;13;7;36;2,68;1,44;7,42
+01EO;12;Purmerendse Scholengroep locatie SG. Antoni Gaudi;PURMEREND;439;PURMEREND;Noord-Holland;366;21;9;20;5,74;2,46;5,46
+01ET;0;Sint Ignatiusgymnasium;AMSTERDAM;363;AMSTERDAM;Noord-Holland;784;17;2;0;2,17;0,26;0
+01FP;0;Het Baken;ALMERE;34;ALMERE;Flevoland;497;28;8;14;5,63;1,61;2,82
+01FP;1;Het Baken;ALMERE;34;ALMERE;Flevoland;757;71;45;28;9,38;5,94;3,7
+01FP;4;Het Baken;ALMERE;34;ALMERE;Flevoland;607;41;12;0;6,75;1,98;0
+01FP;5;Het Baken;ALMERE;34;ALMERE;Flevoland;467;32;0;62;6,85;0;13,28
+01FP;6;Het Baken International School Almere;ALMERE;34;ALMERE;Flevoland;225;10;0;16;4,44;0;7,11
+01FU;0;Nuborgh College;ELBURG;230;ELBURG;Gelderland;1.006;31;15;20;3,08;1,49;1,99
+01FU;1;Nuborgh College - locatie Lambert Franckens;ELBURG;230;ELBURG;Gelderland;958;31;20;17;3,24;2,09;1,77
+01FU;4;Nuborgh College - locatie Veluvine;NUNSPEET;302;NUNSPEET;Gelderland;461;6;22;22;1,3;4,77;4,77
+01FY;0;Augustinianum Scholengemeenschap voor Vwo en Havo;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;999;58;13;8;5,81;1,3;0,8
+01GH;0;W v Oranje Coll Chr SGM v Ath Havo Mavo Vbo Lwoo;WAALWIJK;867;WAALWIJK;Noord-Brabant;1.175;65;24;40;5,53;2,04;3,4
+01GH;1;W v Oranje Coll Chr SGM v Ath Havo Mavo Vbo Lwoo;WIJK EN AALBURG;738;AALBURG;Noord-Brabant;620;18;7;10;2,9;1,13;1,61
+01GH;3;W v Oranje Coll Chr SGM v Ath Havo Mavo Vbo Lwoo;WAALWIJK;867;WAALWIJK;Noord-Brabant;284;16;7;1;5,63;2,46;0,35
+01GH;4;W v Oranje Coll Chr SGM v Ath Havo Mavo Vbo Lwoo loc. Wereldschool;WAALWIJK;867;WAALWIJK;Noord-Brabant;67;41;0;2;61,19;0;2,99
+01GL;0;Sophianum Scholengemeenschap in het Heuvelland;GULPEN;1729;GULPEN-WITTEM;Limburg;1.576;104;60;89;6,6;3,81;5,65
+01GN;0;Valuascollege Lyc Ath Havo Mavo Vbo Lwoo;VENLO;983;VENLO;Limburg;2.635;184;18;370;6,98;0,68;14,04
+01GV;0;Mavoschool Sancta Maria;'S-HERTOGENBOSCH;796;S HERTOGENBOSCH;Noord-Brabant;437;38;6;10;8,7;1,37;2,29
+01GX;0;Christelijk Lyceum Delft Scholengemeenschap voor Lyceum Havo Mavo Vbo;DELFT;503;DELFT;Zuid-Holland;1.681;114;60;16;6,78;3,57;0,95
+01GX;2;Christelijk Lyceum Delft Scholengemeenschap voor Lyceum Havo Mavo Vbo;DELFT;503;DELFT;Zuid-Holland;508;23;3;43;4,53;0,59;8,46
+01GX;3;Christelijk Lyceum Delft Scholengemeenschap voor Lyceum Havo Mavo Vbo;DELFT;503;DELFT;Zuid-Holland;168;11;1;2;6,55;0,6;1,19
+01IC;1;AOC Oost;DOETINCHEM;222;DOETINCHEM;Gelderland;621;16;16;15;2,58;2,58;2,42
+01IC;2;AOC Oost;BORCULO;1859;BERKELLAND;Gelderland;384;42;8;46;10,94;2,08;11,98
+01IC;5;AOC Oost;TWELLO;285;VOORST;Gelderland;861;20;32;10;2,32;3,72;1,16
+01IC;11;AOC Oost;ENSCHEDE;153;ENSCHEDE;Overijssel;632;13;8;36;2,06;1,27;5,7
+01IC;15;AOC Oost;ALMELO;141;ALMELO;Overijssel;646;7;23;38;1,08;3,56;5,88
+01IC;18;Agrarisch Opleidingen Centrum Oost;DOETINCHEM;222;DOETINCHEM;Gelderland;256;3;1;7;1,17;0,39;2,73
+01IW;0;Dongemond College voor Atheneum Havo en Vmbo;RAAMSDONKSVEER;779;GEERTRUIDENBERG;Noord-Brabant;1.676;77;62;84;4,59;3,7;5,01
+01IW;3;Dongemond College voor Atheneum Havo en Vmbo;MADE;1719;DRIMMELEN;Noord-Brabant;691;17;23;38;2,46;3,33;5,5
+01KF;0;Sint Gregorius College Scholengemeenschap voor Atheneum Havo Mavo;UTRECHT;344;UTRECHT;Utrecht;1.163;66;55;62;5,67;4,73;5,33
+01KL;0;Noordzee Onderwijs Groep voor Gymnasium, Atheneum, Havo, Vmbo;DRIEHUIS NH;453;VELSEN;Noord-Holland;1.162;76;27;9;6,54;2,32;0,77
+01KL;6;Noordzee Onderwijs Groep- locatie Technisch College Velsen;IJMUIDEN;453;VELSEN;Noord-Holland;421;10;19;49;2,38;4,51;11,64
+01KL;7;Noordzee Onderwijs Groep- locatie Maritiem College IJmuiden;IJMUIDEN;453;VELSEN;Noord-Holland;102;0;20;2;0;19,61;1,96
+01KL;8;Noordzee Onderwijs Groep -locatie Sterren College Haarlem;HAARLEM;392;HAARLEM;Noord-Holland;760;42;12;46;5,53;1,58;6,05
+01KL;9;Noordzee Onderwijs Groep- locatie Maritieme Academie Harlingen;HARLINGEN;72;HARLINGEN;Friesland;224;5;29;1;2,23;12,95;0,45
+01KL;10;Noordzee Onderwijs Groep- locatie Wim Gertenbach College;ZANDVOORT;473;ZANDVOORT;Noord-Holland;207;26;4;11;12,56;1,93;5,31
+01KL;14;Noordzee Onderwijs Groep- locatie Tender College IJmuiden;IJMUIDEN;453;VELSEN;Noord-Holland;169;36;2;0;21,3;1,18;0
+01LZ;0;Scholengemeenschap Eerste Christelijk Lyceum Vwo en Havo;HAARLEM;392;HAARLEM;Noord-Holland;1.224;72;50;28;5,88;4,08;2,29
+01MB;0;Rooms Katholiek Alfrink College Scholengemeenschap voor Atheneum en Havo;ZOETERMEER;637;ZOETERMEER;Zuid-Holland;1.816;142;41;7;7,82;2,26;0,39
+01MO;0;Atheneum van de Trevianum Scholengroep;SITTARD;1883;SITTARD-GELEEN;Limburg;1.134;104;46;0;9,17;4,06;0
+01MU;0;De Meerwaarde;BARNEVELD;203;BARNEVELD;Gelderland;1.978;35;54;32;1,77;2,73;1,62
+01NJ;1;Agrarisch Opleidingscentrum Terra;WINSUM GN;53;WINSUM;Groningen;609;12;11;13;1,97;1,81;2,13
+01NJ;2;Agrarisch Opleidingscentrum Terra;OLDEKERK;15;GROOTEGAST;Groningen;396;8;9;14;2,02;2,27;3,54
+01NJ;8;Agrarisch Opleidingscentrum Terra;ASSEN;106;ASSEN;Drenthe;881;14;31;34;1,59;3,52;3,86
+01NJ;9;Agrarisch Opleidingscentrum Terra;EELDE;1730;TYNAARLO;Drenthe;507;11;10;44;2,17;1,97;8,68
+01NJ;10;Agrarisch Opleidingscentrum Terra;EMMEN;114;EMMEN;Drenthe;690;34;21;13;4,93;3,04;1,88
+01NJ;11;Agrarisch Opleidingscentrum Terra;MEPPEL;119;MEPPEL;Drenthe;320;5;9;21;1,56;2,81;6,56
+01NJ;12;Agrarisch Opleidingscentrum Terra;WOLVEGA;98;WESTSTELLINGWERF;Friesland;294;9;5;5;3,06;1,7;1,7
+01NJ;15;Agrarisch Opleidingscentrum Terra;MEPPEL;119;MEPPEL;Drenthe;432;11;6;10;2,55;1,39;2,31
+01NZ;0;Christelijk College Griftland School voor Atheneum Havo en Mavo;SOEST;342;SOEST;Utrecht;1.474;73;38;129;4,95;2,58;8,75
+01OE;2;Wellantcollege;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;214;26;3;6;12,15;1,4;2,8
+01OE;3;Wellantcollege;OEGSTGEEST;579;OEGSTGEEST;Zuid-Holland;412;7;2;17;1,7;0,49;4,13
+01OE;4;Wellantcollege;GORINCHEM;512;GORINCHEM;Zuid-Holland;152;2;1;17;1,32;0,66;11,18
+01OE;5;Wellantcollege;KLAASWAAL;611;CROMSTRIJEN;Zuid-Holland;385;12;1;28;3,12;0,26;7,27
+01OE;6;Wellantcollege;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;273;8;2;0;2,93;0,73;0
+01OE;7;Wellantcollege;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;576;14;2;38;2,43;0,35;6,6
+01OE;11;Wellantcollege;DORDRECHT;505;DORDRECHT;Zuid-Holland;327;21;0;22;6,42;0;6,73
+01OE;12;Wellantcollege;DORDRECHT;505;DORDRECHT;Zuid-Holland;675;29;0;38;4,3;0;5,63
+01OE;13;Wellantcollege;BRIELLE;501;BRIELLE;Zuid-Holland;333;5;3;24;1,5;0,9;7,21
+01OE;16;Wellantcollege;AMERSFOORT;307;AMERSFOORT;Utrecht;386;6;2;24;1,55;0,52;6,22
+01OE;17;Wellantcollege;MONTFOORT;335;MONTFOORT;Utrecht;635;1;0;52;0,16;0;8,19
+01OE;18;Wellantcollege;UTRECHT;344;UTRECHT;Utrecht;350;8;1;15;2,29;0,29;4,29
+01OE;21;Wellantcollege;AALSMEER;358;AALSMEER;Noord-Holland;636;13;3;41;2,04;0,47;6,45
+01OE;22;Wellantcollege;AMSTERDAM;363;AMSTERDAM;Noord-Holland;402;18;0;28;4,48;0;6,97
+01OE;23;Wellantcollege;AMSTERDAM;363;AMSTERDAM;Noord-Holland;101;13;0;3;12,87;0;2,97
+01OE;25;Wellantcollege;NAARDEN;1942;GOOISE MEREN;Noord-Holland;316;13;0;12;4,11;0;3,8
+01OE;26;Wellantcollege;AALSMEER;358;AALSMEER;Noord-Holland;376;13;6;31;3,46;1,6;8,24
+01OE;27;Wellantcollege;BOSKOOP;484;ALPHEN AAN DEN RIJN;Zuid-Holland;343;6;8;38;1,75;2,33;11,08
+01OE;28;Wellantcollege;GOUDA;513;GOUDA;Zuid-Holland;390;6;3;30;1,54;0,77;7,69
+01OE;30;Wellantcollege;ALPHEN AAN DEN RIJN;484;ALPHEN AAN DEN RIJN;Zuid-Holland;415;5;3;28;1,2;0,72;6,75
+01OE;32;Wellantcollege;OTTOLAND;1927;MOLENWAARD;Zuid-Holland;480;5;2;34;1,04;0,42;7,08
+01OE;33;Wellantcollege;RIJNSBURG;537;KATWIJK;Zuid-Holland;481;15;0;40;3,12;0;8,32
+01OE;37;Wellantcollege;HOUTEN;321;HOUTEN;Utrecht;382;6;4;29;1,57;1,05;7,59
+01PU;0;Aloysiuscollege Katholiek Scholengemeenschap voor Vwo Havo en Mavo;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;567;80;10;35;14,11;1,76;6,17
+01RL;0;Jacobus Fruijtier Scholengemeenschap v Lyceum Havo Mavo Vbo Lwoo;APELDOORN;200;APELDOORN;Gelderland;1.204;84;29;22;6,98;2,41;1,83
+01RL;1;Jacobus Fruijtier Scholengemeenschap v Lyceum Havo Mavo Vbo Lwoo;RIJSSEN;1742;RIJSSEN-HOLTEN;Overijssel;600;9;33;12;1,5;5,5;2
+01RL;2;Jacobus Fruijtier Scholengemeenschap v Lyceum Havo Mavo Vbo Lwoo;UDDEL;200;APELDOORN;Gelderland;541;7;33;19;1,29;6,1;3,51
+01RL;3;Jacobus Fruijtier Scholengemeenschap v Lyceum Havo Mavo Vbo Lwoo;APELDOORN;200;APELDOORN;Gelderland;128;0;1;0;0;0,78;0
+01TC;0;Scholengemeenschap voor Vwo Havo Mavo Het Hervormd Lyceum;AMSTERDAM;363;AMSTERDAM;Noord-Holland;906;75;48;64;8,28;5,3;7,06
+01UH;0;Maartenscollege voor Lyceum Havo Mavo;HAREN GN;17;HAREN;Groningen;1.529;140;27;70;9,16;1,77;4,58
+01VJ;0;Etty Hillesum Lyceum voor Gymnasium Atheneum Havo Vmbo Pro;DEVENTER;150;DEVENTER;Overijssel;981;33;35;98;3,36;3,57;9,99
+01VJ;1;Etty Hillesum Lyceum voor Gymnasium Atheneum Havo Vmbo Pro;DEVENTER;150;DEVENTER;Overijssel;951;12;69;1;1,26;7,26;0,11
+01VJ;3;Etty Hillesum Lyceum voor Gymnasium Atheneum Havo Vmbo Pro;DEVENTER;150;DEVENTER;Overijssel;1.311;59;64;199;4,5;4,88;15,18
+01VJ;4;Etty Hillesum Lyceum voor Gymnasium Atheneum Havo Vmbo Pro;DEVENTER;150;DEVENTER;Overijssel;1.420;141;5;22;9,93;0,35;1,55
+01VJ;5;Etty Hillesum Lyceum voor Gymnasium Atheneum Havo Vmbo Pro;DEVENTER;150;DEVENTER;Overijssel;330;9;0;4;2,73;0;1,21
+01VJ;10;Etty Hillesum Lyceum voor Gymnasium Atheneum Havo Vmbo Pro;DEVENTER;150;DEVENTER;Overijssel;54;8;0;2;14,81;0;3,7
+01VN;0;Canisius College Lyceum Havo Mavo Vbo Lwoo;NIJMEGEN;268;NIJMEGEN;Gelderland;1.459;96;12;240;6,58;0,82;16,45
+01VN;3;Canisius College Lyceum Havo Mavo Vbo Lwoo locatie Pontem College;NIJMEGEN;268;NIJMEGEN;Gelderland;199;97;0;3;48,74;0;1,51
+01VN;4;Canisius College Lyceum Havo Mavo Vbo Lwoo locatie Het Rijks VMBO-Campus;NIJMEGEN;268;NIJMEGEN;Gelderland;493;18;4;7;3,65;0,81;1,42
+01WM;0;Burg Harmsma SGM voor VO Mavo Lhno en Lto;GORREDIJK;86;OPSTERLAND;Friesland;751;30;8;31;3,99;1,07;4,13
+01XF;0;osg Willem Blaeu voor vwo havo mavo en vbo;ALKMAAR;361;ALKMAAR;Noord-Holland;981;55;5;98;5,61;0,51;9,99
+01XF;1;osg Willem Blaeu voor vwo havo mavo en vbo, vestiging Van der Meij College;ALKMAAR;361;ALKMAAR;Noord-Holland;220;4;0;16;1,82;0;7,27
+01XL;0;Strabrechtcollege Scholengemeenschap voor LYC HAVO MAVO;GELDROP;1771;GELDROP-MIERLO;Noord-Brabant;1.505;91;18;42;6,05;1,2;2,79
+01XN;0;Almere College, Ontmoetingsschool voor PRO LWOO VMBO HAVO VWO;KAMPEN;166;KAMPEN;Overijssel;576;47;34;9;8,16;5,9;1,56
+01XN;1;Almere College Ontmoetingsschool voor PRO LWOO VMBO HAVO VWO;DRONTEN;303;DRONTEN;Flevoland;1.208;21;15;77;1,74;1,24;6,37
+01XN;2;Almere College Ontmoetingsschool voor PRO LWOO VMBO HAVO VWO;KAMPEN;166;KAMPEN;Overijssel;172;1;8;4;0,58;4,65;2,33
+01XN;7;Almere College, Ontmoetingsschool voor PRO LWOO VMBO HAVO VWO;DRONTEN;303;DRONTEN;Flevoland;212;78;0;10;36,79;0;4,72
+02AN;0;Fons Vitae Lyceum Rooms Katholiek Scholengemeenschap voor Vwo en Havo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;1.017;50;27;20;4,92;2,65;1,97
+02AP;0;Het Amsterdams Lyceum;AMSTERDAM;363;AMSTERDAM;Noord-Holland;1.091;43;6;0;3,94;0,55;0
+02AR;0;Scholengemeenschap voor Athenum en Havo Het Hervormd Lyceum Zuid;AMSTERDAM;363;AMSTERDAM;Noord-Holland;947;66;20;6;6,97;2,11;0,63
+02CI;0;Christelijk Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo Insula College;DORDRECHT;505;DORDRECHT;Zuid-Holland;1.169;76;52;12;6,5;4,45;1,03
+02CI;1;Christelijk Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo Insula;DORDRECHT;505;DORDRECHT;Zuid-Holland;523;11;5;43;2,1;0,96;8,22
+02CI;2;Christelijk Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo Insula;DORDRECHT;505;DORDRECHT;Zuid-Holland;778;39;10;61;5,01;1,29;7,84
+02CR;0;Willem Lodewijkgymnasium;GRONINGEN;14;GRONINGEN;Groningen;721;34;5;0;4,72;0,69;0
+02DC;0;Corlaer College;NIJKERK GLD;267;NIJKERK;Gelderland;1.020;44;17;34;4,31;1,67;3,33
+02DC;3;Corlaer College;NIJKERK GLD;267;NIJKERK;Gelderland;895;31;77;32;3,46;8,6;3,58
+02DF;0;Grotiuscollege Stedelijke Scholengemeenschap voor Lyceum Havo Mavo;HEERLEN;917;HEERLEN;Limburg;1.122;92;13;110;8,2;1,16;9,8
+02DO;0;Protestants Scholengemeenschap Het Noordik voor Lyceum Havo Mavo Vbo Lwoo;ALMELO;141;ALMELO;Overijssel;1.591;97;104;59;6,1;6,54;3,71
+02DO;1;Protestants Scholengemeenschap Het Noordik voor Lyceum Havo Mavo Vbo Lwoo;ALMELO;141;ALMELO;Overijssel;646;13;8;81;2,01;1,24;12,54
+02DO;2;Protestants Scholengemeenschap Het Noordik voor Lyceum Havo Mavo Vbo Lwoo;VRIEZENVEEN;1700;TWENTERAND;Overijssel;649;13;14;47;2;2,16;7,24
+02DO;3;Protestants Scholengemeenschap Het Noordik voor Lyceum Havo Mavo Vbo Lwoo;VROOMSHOOP;1700;TWENTERAND;Overijssel;541;16;30;14;2,96;5,55;2,59
+02DQ;0;Christelijk Gymnasium Sorghvliet;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;750;30;3;0;4;0,4;0
+02DW;0;Gymnasium Bernrode;HEESWIJK-DINTHER;1721;BERNHEZE;Noord-Brabant;666;42;11;0;6,31;1,65;0
+02DZ;0;St Stanislascoll RK SGM v Lyc Havo Mavo Vbo Lwoo;DELFT;503;DELFT;Zuid-Holland;1.824;87;28;13;4,77;1,54;0,71
+02DZ;2;St Stanislascoll RK SGM v Lyc Havo Mavo Vbo Lwoo;DELFT;503;DELFT;Zuid-Holland;630;9;11;18;1,43;1,75;2,86
+02DZ;3;St Stanislascoll RK SGM v Lyc Havo Mavo Vbo Lwoo;PIJNACKER;1926;PIJNACKER-NOOTDORP;Zuid-Holland;1.310;73;61;61;5,57;4,66;4,66
+02DZ;4;St Stanislascoll RK SGM v Lyc Havo Mavo Vbo Lwoo;DELFT;503;DELFT;Zuid-Holland;731;26;27;109;3,56;3,69;14,91
+02DZ;6;St Stanislascoll RK SGM v Lyc Havo Mavo Vbo Lwoo;RIJSWIJK ZH;603;RIJSWIJK;Zuid-Holland;486;29;5;8;5,97;1,03;1,65
+02EA;0;Chr SGM op Ref Grondsl voor Pro, Lwoo, Vmbo, Havo en Vwo;GOUDA;513;GOUDA;Zuid-Holland;2.934;70;79;62;2,39;2,69;2,11
+02EA;2;Chr SGM op Ref Grondsl v Lyc Havo Mavo Vbo Lwoo;LEKKERKERK;1931;KRIMPENERWAARD;Zuid-Holland;568;4;24;28;0,7;4,23;4,93
+02EA;3;Chr SGM op Ref Grondsl v Lyc Havo Mavo Vbo Lwoo;LEIDEN;546;LEIDEN;Zuid-Holland;457;4;19;45;0,88;4,16;9,85
+02EB;0;Christelijk Scholengemeenschap Vincent van Gogh Lyceum Havo Mavo Vbo Lwoo;ASSEN;106;ASSEN;Drenthe;1.387;94;81;15;6,78;5,84;1,08
+02EB;4;Christelijk Scholengemeenschap Vincent van Gogh Lyceum Havo Mavo Vbo Lwoo;ASSEN;106;ASSEN;Drenthe;772;37;28;48;4,79;3,63;6,22
+02EB;6;Christelijk Scholengemeenschap Vincent van Gogh Lyceum Havo Mavo Vbo Lwoo;ASSEN;106;ASSEN;Drenthe;58;26;0;3;44,83;0;5,17
+02EB;7;Christelijk Scholengemeenschap Vincent van Gogh Lyceum Havo Mavo Vbo Lwoo;BEILEN;1731;MIDDEN-DRENTHE;Drenthe;617;25;9;65;4,05;1,46;10,53
+02EB;8;Christelijk Scholengemeenschap Vincent van Gogh Lyceum Havo Mavo Vbo Lwoo;SMILDE;1731;MIDDEN-DRENTHE;Drenthe;105;41;0;7;39,05;0;6,67
+02EK;0;Pius X College Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;ALMELO;141;ALMELO;Overijssel;705;41;33;29;5,82;4,68;4,11
+02EK;1;Pius X College Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;ALMELO;141;ALMELO;Overijssel;441;13;17;19;2,95;3,85;4,31
+02EK;2;Pius X College Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;RIJSSEN;1742;RIJSSEN-HOLTEN;Overijssel;446;20;13;35;4,48;2,91;7,85
+02EV;0;W De Zwijgercoll Chr SGM Vwo Havo op Chr Grndslg;BUSSUM;1942;GOOISE MEREN;Noord-Holland;1.076;99;28;13;9,2;2,6;1,21
+02EX;0;Morgen College christelijke scholengemeenschap voor vmbo;HARDERWIJK;243;HARDERWIJK;Gelderland;617;52;8;12;8,43;1,3;1,94
+02EX;4;Christelijke Scholengemeenschap voor VMBO Harderwijk;ZEEWOLDE;50;ZEEWOLDE;Flevoland;57;3;0;3;5,26;0;5,26
+02EX;5;Christelijke Scholengemeenschap voor VMBO Harderwijk;HARDERWIJK;243;HARDERWIJK;Gelderland;287;5;25;16;1,74;8,71;5,57
+02FB;0;Christelijk College Nassau-Veluwe;HARDERWIJK;243;HARDERWIJK;Gelderland;1.246;91;32;15;7,3;2,57;1,2
+02FC;0;PC SGM Ulenhof College v Ath Havo Mavo Vbo Lwoo;DOETINCHEM;222;DOETINCHEM;Gelderland;1.566;111;34;45;7,09;2,17;2,87
+02FC;4;PC SGM Ulenhof College v Ath Havo Mavo Vbo Lwoo;VORDEN;1876;BRONCKHORST;Gelderland;303;5;3;22;1,65;0,99;7,26
+02FC;7;PC SGM Ulenhof College v Ath Havo Mavo Vbo Lwoo;VORDEN;1876;BRONCKHORST;Gelderland;147;4;6;2;2,72;4,08;1,36
+02FY;0;OMO Scholengroep Bergen op Zoom e.o. voor Lyceum Havo Mavo Vbo Lwoo;BERGEN OP ZOOM;748;BERGEN OP ZOOM;Noord-Brabant;688;41;34;7;5,96;4,94;1,02
+02FY;1;"OMO Scholengroep Bergen op Zoom e.o.; ZuidWestHoek College";OSSENDRECHT;873;WOENSDRECHT;Noord-Brabant;533;7;27;17;1,31;5,07;3,19
+02FY;2;"OMO Scholengroep Bergen op Zoom e.o.; 't Ravelijn";STEENBERGEN NB;851;STEENBERGEN;Noord-Brabant;579;7;8;5;1,21;1,38;0,86
+02FY;4;"OMO Scholengroep Bergen op Zoom e.o.; ZoomMAVO";BERGEN OP ZOOM;748;BERGEN OP ZOOM;Noord-Brabant;279;26;5;10;9,32;1,79;3,58
+02GF;0;Mgr Frencken College voor Atheneum en Havo;OOSTERHOUT NB;826;OOSTERHOUT;Noord-Brabant;1.420;99;35;6;6,97;2,46;0,42
+02GJ;0;Christelijk College De Populier;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;853;24;27;36;2,81;3,17;4,22
+02GJ;1;Christelijk College De Populier;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;275;10;17;0;3,64;6,18;0
+02GN;0;SGM Kennemer Lyc Bz Sch Alg Grondsl v Vwo Havo;OVERVEEN;377;BLOEMENDAAL;Noord-Holland;1.005;87;33;14;8,66;3,28;1,39
+02GP;0;Het Rijnlands Lyceum Scholengemeenschap voor Havo VWO;WASSENAAR;629;WASSENAAR;Zuid-Holland;774;39;29;10;5,04;3,75;1,29
+02GP;4;Het Rijnlands Lyceum vestiging School voorJong Talent;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;144;13;2;2;9,03;1,39;1,39
+02GP;5;Het Rijnlands Lyceum vestiging International School of The Haque;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;999;19;0;107;1,9;0;10,71
+02GP;6;Het Rijnlands Lyceum Scholengemeenschap voor Mavo Havo Lyceum;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;141;2;0;0;1,42;0;0
+02GS;0;Scholengemeenschap Montessori Lyceum Rotterdam voor Gymnasium Atheneum en Havo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;980;75;21;14;7,65;2,14;1,43
+02HI;0;Steenspil  VMBO;HALSTEREN;748;BERGEN OP ZOOM;Noord-Brabant;650;14;3;5;2,15;0,46;0,77
+02HI;6;Steenspil VMBO, locatie Pomona;BERGEN OP ZOOM;748;BERGEN OP ZOOM;Noord-Brabant;141;2;0;3;1,42;0;2,13
+02HI;8;Internationale Schakelklas Bergen op Zoom;BERGEN OP ZOOM;748;BERGEN OP ZOOM;Noord-Brabant;128;57;0;2;44,53;0;1,56
+02IB;0;DaCapocollege Rijksweg Zuid voor Mavo Vbo Lwoo;SITTARD;1883;SITTARD-GELEEN;Limburg;266;11;1;4;4,14;0,38;1,5
+02IB;2;DaCapocollege Locatie Rijksweg Zuid voor Mavo Vbo Lwoo;SITTARD;1883;SITTARD-GELEEN;Limburg;280;22;0;14;7,86;0;5
+02IB;3;DaCapo College Locatie Rijksweg Zuid voor Mavo Vbo Lwoo;GELEEN;1883;SITTARD-GELEEN;Limburg;92;26;0;0;28,26;0;0
+02IB;5;DaCapocollege Rijksweg Zuid voor Mavo Vbo Lwoo;GELEEN;1883;SITTARD-GELEEN;Limburg;75;23;0;2;30,67;0;2,67
+02IC;0;Edudelta College Middelharnis locatie Schoolstraat afd. Techniek en Economie;MIDDELHARNIS;1924;GOEREE-OVERFLAKKEE;Zuid-Holland;466;5;10;21;1,07;2,15;4,51
+02IS;0;Vakcollege Tilburg, sectoren Zorg & Welzijn en Techniek;TILBURG;855;TILBURG;Noord-Brabant;662;20;17;25;3,02;2,57;3,78
+02IS;1;Vakcollege Tilburg, sectoren Zorg & Welzijn en Techniek;TILBURG;855;TILBURG;Noord-Brabant;298;83;0;20;27,85;0;6,71
+02JG;0;Emelwerda College Christelijke Scholengemeenschap voor Lwoo Mavo Havo Vwo;EMMELOORD;171;NOORDOOSTPOLDER;Flevoland;1.062;76;56;17;7,16;5,27;1,6
+02JG;4;Emelwerda College Christelijke Scholengemeenschap voor Lwoo Mavo Havo Vwo;EMMELOORD;171;NOORDOOSTPOLDER;Flevoland;327;12;5;5;3,67;1,53;1,53
+02JG;5;Emelwerda College Christelijke Scholengemeenschap voor Lwoo Mavo Havo Vwo;EMMELOORD;171;NOORDOOSTPOLDER;Flevoland;228;15;12;27;6,58;5,26;11,84
+02KB;0;Teylingen College voor Gymnasium Atheneum Havo Mavo Vbo Lwoo;VOORHOUT;1525;TEYLINGEN;Zuid-Holland;804;9;2;16;1,12;0,25;1,99
+02KB;1;Teylingen College voor Atheneum Havo Mavo Vbo Lwoo;NOORDWIJKERHOUT;576;NOORDWIJKERHOUT;Zuid-Holland;1.649;89;63;220;5,4;3,82;13,34
+02KB;2;Teylingen College voor Atheneum Havo Mavo Vbo Lwoo;OEGSTGEEST;579;OEGSTGEEST;Zuid-Holland;608;35;14;65;5,76;2,3;10,69
+02KM;0;Haarlem College Scholengemeenschap voor Mavo Vbo Lwoo;HAARLEM;392;HAARLEM;Noord-Holland;919;35;18;26;3,81;1,96;2,83
+02KR;0;St Bonifatius Mavo;EMMELOORD;171;NOORDOOSTPOLDER;Flevoland;510;11;6;27;2,16;1,18;5,29
+02LB;0;Openbare Scholengemeenschap Nieuw Zuid voor Lyceum Havo Mavo Vbo Lwoo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;541;87;1;4;16,08;0,18;0,74
+02LB;1;Openbare Scholengemeenschap Nieuw Zuid voor Lyceum Havo Mavo Vbo Lwoo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;152;37;0;0;24,34;0;0
+02LB;8;Openbare Scholengemeenschap Nieuw Zuid voor Lyceum Havo Mavo Vbo en Lwoo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;604;56;5;89;9,27;0,83;14,74
+02LG;0;Carmelcollege Gouda voor tto gym ath havo mavo vmbo lwoo eoa;GOUDA;513;GOUDA;Zuid-Holland;493;100;12;11;20,28;2,43;2,23
+02LG;6;Carmelcollege Gouda voor tto gym ath havo mavo vmbo lwoo eoa;GOUDA;513;GOUDA;Zuid-Holland;442;31;15;23;7,01;3,39;5,2
+02ME;0;Rooms Katholieke Scholengemeenschap Tabor voor Lyceum Havo Mavo Vbo Lwoo;HOORN NH;405;HOORN;Noord-Holland;1.409;37;11;30;2,63;0,78;2,13
+02ME;1;Rooms Katholieke Scholengemeenschap Tabor voor Lyceum Havo Mavo Vbo Lwoo;HOORN NH;405;HOORN;Noord-Holland;1.524;102;45;16;6,69;2,95;1,05
+02ME;2;Rooms Katholieke Scholengemeenschap Tabor voor Lyceum Havo Mavo Vbo Lwoo;HOORN NH;405;HOORN;Noord-Holland;1.620;74;65;56;4,57;4,01;3,46
+02MF;0;Christelijke Scholengemeenschap voor VMBO en Praktijkonderwijs;VEENENDAAL;345;VEENENDAAL;Utrecht;1.052;14;45;59;1,33;4,28;5,61
+02MU;0;Sint Maartenscollege Scholengemeenschap voor Vwo Havo en Mavo;VOORBURG;1916;LEIDSCHENDAM-VOORBURG;Zuid-Holland;1.292;49;66;53;3,79;5,11;4,1
+02MY;0;DaCapo College Milaanstraat;SITTARD;1883;SITTARD-GELEEN;Limburg;179;2;5;0;1,12;2,79;0
+02MY;1;DaCapo College President Kennedysingel;SITTARD;1883;SITTARD-GELEEN;Limburg;231;17;0;6;7,36;0;2,6
+02MY;2;Da Capo College Broeksittarderweg;SITTARD;1883;SITTARD-GELEEN;Limburg;84;19;0;0;22,62;0;0
+02NZ;0;Ludger College voor Lyceum Havo Mavo Vbo Lwoo;DOETINCHEM;222;DOETINCHEM;Gelderland;1.265;87;31;49;6,88;2,45;3,87
+02NZ;1;Ludger College voor Lyceum Havo Mavo Vbo Lwoo;DOETINCHEM;222;DOETINCHEM;Gelderland;1.263;73;53;42;5,78;4,2;3,33
+02NZ;9;Ludger College voor Lyceum Havo Mavo Vbo Lwoo;DOETINCHEM;222;DOETINCHEM;Gelderland;689;14;0;214;2,03;0;31,06
+02PA;0;Stichting Media Amsterdam;AMSTERDAM;363;AMSTERDAM;Noord-Holland;299;8;11;19;2,68;3,68;6,35
+02QN;0;Rooms Katholieke Scholengemeenschap Marianum voor Lyc Havo Mavo Vbo Lwoo;GROENLO;1586;OOST GELRE;Gelderland;1.020;76;46;13;7,45;4,51;1,27
+02QN;2;Rooms Katholieke Scholengemeenschap Marianum voor Lyc Havo Mavo Vbo Lwoo;LICHTENVOORDE;1586;OOST GELRE;Gelderland;848;23;36;30;2,71;4,25;3,54
+02QO;0;Sint Oelbert Gymnasium;OOSTERHOUT NB;826;OOSTERHOUT;Noord-Brabant;756;49;8;0;6,48;1,06;0
+02QP;0;St Willibrord Gymnasium;DEURNE;762;DEURNE;Noord-Brabant;443;30;7;0;6,77;1,58;0
+02QQ;0;Notre Dame Des Anges Havo;UBBERGEN;1945;BERG EN DAL;Gelderland;586;44;8;15;7,51;1,37;2,56
+02QT;0;Maurick College Scholengemeenschap voor vmbo, havo, atheneum en gymnasium;VUGHT;865;VUGHT;Noord-Brabant;1.699;106;35;87;6,24;2,06;5,12
+02QX;0;Petrus Canisius Colleg Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;ALKMAAR;361;ALKMAAR;Noord-Holland;1.052;85;29;5;8,08;2,76;0,48
+02QX;1;Petrus Canisius Colleg Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;ALKMAAR;361;ALKMAAR;Noord-Holland;582;33;7;46;5,67;1,2;7,9
+02QX;3;Petrus Canisius Colleg Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;ALKMAAR;361;ALKMAAR;Noord-Holland;702;29;8;37;4,13;1,14;5,27
+02QX;6;Petrus Canisius Colleg Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;BERGEN NH;373;BERGEN NH;Noord-Holland;190;3;13;45;1,58;6,84;23,68
+02QX;7;Petrus Canisius Colleg Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;HEILOO;399;HEILOO;Noord-Holland;331;1;5;70;0,3;1,51;21,15
+02QZ;0;Keizer Karel College Vwo Havo;AMSTELVEEN;362;AMSTELVEEN;Noord-Holland;1.728;112;32;10;6,48;1,85;0,58
+02RA;0;Katholieke Scholengemeenschap Veluws College voor Gymn Ath Havo Mavo en Vmbo;APELDOORN;200;APELDOORN;Gelderland;1.592;115;27;10;7,22;1,7;0,63
+02RA;1;Katholieke SGM Veluws College voor Gymn Ath Havo Mavo en Vmbo vest Cortenbosch;APELDOORN;200;APELDOORN;Gelderland;877;26;8;13;2,96;0,91;1,48
+02RA;2;Katholieke SGM Veluws College voor Gymn Ath Havo Mavo en Vmbo vest Mheenpark;APELDOORN;200;APELDOORN;Gelderland;715;41;14;36;5,73;1,96;5,03
+02RA;3;Katholieke SGM Veluws College voor Gymn Ath Havo Mavo en Vmbo oec vst Twello;TWELLO;285;VOORST;Gelderland;312;13;17;34;4,17;5,45;10,9
+02RA;4;Katholieke SGM Veluws College voor Gymn Ath Havo Mavo en Vmbo vest Cortenbosch;APELDOORN;200;APELDOORN;Gelderland;130;0;0;7;0;0;5,38
+02RA;5;Katholieke SGM Veluws College voor Gymn Ath Havo Mavo en Vmbo vest Mheenpark;APELDOORN;200;APELDOORN;Gelderland;265;1;4;52;0,38;1,51;19,62
+02SB;0;Sancta Maria Lyceum voor Havo, Atheneum en Gymnasium;HAARLEM;392;HAARLEM;Noord-Holland;1.612;158;59;13;9,8;3,66;0,81
+02ST;0;Kandinsky College voor Lyceum Havo Mavo Vbo Lwoo;NIJMEGEN;268;NIJMEGEN;Gelderland;1.524;89;34;73;5,84;2,23;4,79
+02ST;3;Kandinsky College voor Lyc Havo Mavo Vbo Lwoo locatie Het Rijks VMBO Campus;NIJMEGEN;268;NIJMEGEN;Gelderland;461;44;7;9;9,54;1,52;1,95
+02ST;4;Kandinsky College voor Lyc Havo Mavo Vbo Lwoo;MOLENHOEK LB;944;MOOK EN MIDDELAAR;Limburg;271;8;1;36;2,95;0,37;13,28
+02ST;5;Jorismavo;NIJMEGEN;268;NIJMEGEN;Gelderland;130;5;0;8;3,85;0;6,15
+02SY;0;Scholengemeenschap voor Vwo Dorenweerd College;DOORWERTH;274;RENKUM;Gelderland;1.183;318;10;192;26,88;0,85;16,23
+02TC;0;Christiaan Huygens College voor Lyceum Havo Mavo Vbo Lwoo;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;1.076;38;31;4;3,53;2,88;0,37
+02TC;3;Christiaan Huygens College voor Lyceum Havo Mavo Vbo Lwoo locatie Olympia;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;499;32;16;17;6,41;3,21;3,41
+02TC;4;Christiaan Huygens Coll. voor Lyc Havo Mavo Vbo Lwoo loc. Frits Philips lyc-mavo;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;798;60;47;50;7,52;5,89;6,27
+02TD;0;Jan Arentsz Christelijke Scholengemeenschap voor Lyceum Havo Mavo Vbo;ALKMAAR;361;ALKMAAR;Noord-Holland;1.815;132;45;72;7,27;2,48;3,97
+02TD;3;CSG Jan Arentsz, SGM voor Lyceum Havo Mavo Vbo,  vestiging Van der Meij College;ALKMAAR;361;ALKMAAR;Noord-Holland;104;4;1;3;3,85;0,96;2,88
+02TD;4;Jan Arentsz Christelijke Scholengemeenschap voor Lyceum Havo Mavo Vbo;ZUID-SCHARWOUDE;416;LANGEDIJK;Noord-Holland;395;8;23;27;2,03;5,82;6,84
+02TE;0;H Wesselink College Christelijke Scholengemeenschap voor Vwo Havo Mavo;AMSTELVEEN;362;AMSTELVEEN;Noord-Holland;1.655;76;24;149;4,59;1,45;9
+02TG;0;Het Baarnsch Lyceum;BAARN;308;BAARN;Utrecht;1.002;35;7;14;3,49;0,7;1,4
+02TH;0;Herman Jordanlyceum voor Gymnasium Atheneum en Havo Top;ZEIST;355;ZEIST;Utrecht;878;65;5;9;7,4;0,57;1,03
+02TZ;0;Rooms Katholieke Scholengemeenschap St Michaelcollege voor Atheneum en Havo;ZAANDAM;479;ZAANSTAD;Noord-Holland;1.332;83;41;13;6,23;3,08;0,98
+02UB;0;St Vituscollege Bussum/Naarden;BUSSUM;1942;GOOISE MEREN;Noord-Holland;1.207;70;25;16;5,8;2,07;1,33
+02UC;0;Atheneum College Hageveld;HEEMSTEDE;397;HEEMSTEDE;Noord-Holland;1.403;90;16;0;6,41;1,14;0
+02UE;0;Scholengemeenschap St Bonifatius College Lyceum Havo;UTRECHT;344;UTRECHT;Utrecht;1.507;90;24;35;5,97;1,59;2,32
+02UG;0;Laurens Lyceum voor Vwo en Havo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;584;77;12;9;13,18;2,05;1,54
+02UP;0;Marnix College  Scholengemeenschap voor Gymnasium Atheneum Havo Mavo;EDE GLD;228;EDE;Gelderland;1.036;101;23;8;9,75;2,22;0,77
+02UP;1;Marnix College Scholengemeenschap voor Atheneum Havo Mavo;EDE GLD;228;EDE;Gelderland;533;38;30;21;7,13;5,63;3,94
+02US;0;Scholengemeenschap Haags Montessori Lyceum voor Lyceum Havo Mavo Vbo;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;907;47;26;148;5,18;2,87;16,32
+02UT;0;Vrijzinnig Christelijk Lyceum Scholengemeenschap voor Vwo en Havo;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;786;50;16;19;6,36;2,04;2,42
+02UV;0;Gereformeerde Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;GRONINGEN;14;GRONINGEN;Groningen;781;87;7;4;11,14;0,9;0,51
+02UV;2;Gereformeerde Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;ZUIDHORN;56;ZUIDHORN;Groningen;220;2;11;7;0,91;5;3,18
+02UV;3;Gereformeerde Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;DRACHTEN;90;SMALLINGERLAND;Friesland;304;6;19;14;1,97;6,25;4,61
+02UV;4;Gereformeerde Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;LEEUWARDEN;80;LEEUWARDEN;Friesland;213;0;8;15;0;3,76;7,04
+02UV;5;Gereformeerde Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;ASSEN;106;ASSEN;Drenthe;266;5;12;13;1,88;4,51;4,89
+02UV;8;Gereformeerde Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;GRONINGEN;14;GRONINGEN;Groningen;384;5;19;24;1,3;4,95;6,25
+02UV;17;Gomarus College;GRONINGEN;14;GRONINGEN;Groningen;577;23;8;27;3,99;1,39;4,68
+02UV;18;Gomarus College;GRONINGEN;14;GRONINGEN;Groningen;370;7;24;1;1,89;6,49;0,27
+02UX;0;Vechtdal College Scholengemeenschap voor Atheneum Havo Mavo Vbo Lwoo;HARDENBERG;160;HARDENBERG;Overijssel;1.931;88;55;54;4,56;2,85;2,8
+02UX;1;Vechtdal College Scholengemeenschap voor Atheneum Havo Mavo Vbo Lwoo;DEDEMSVAART;160;HARDENBERG;Overijssel;580;10;12;46;1,72;2,07;7,93
+02UX;6;Vechtdal College Scholengemeenschap voor Atheneum Havo Mavo Vbo Lwoo;OMMEN;175;OMMEN;Overijssel;1.396;58;37;73;4,15;2,65;5,23
+02VA;0;Roelof van Echten College;HOOGEVEEN;118;HOOGEVEEN;Drenthe;1.348;89;61;31;6,6;4,53;2,3
+02VA;2;St. Roelof van Echten College voor Christelijk Voortgezet Onderwijs Hoogeveen;HOOGEVEEN;118;HOOGEVEEN;Drenthe;723;19;3;1;2,63;0,41;0,14
+02VA;4;St. Roelof van Echten College voor Christelijk Voortgezet Onderwijs Hoogeveen;HOOGEVEEN;118;HOOGEVEEN;Drenthe;13;9;0;0;69,23;0;0
+02VB;0;Ichthus College Scholengemeenschap voor Lyceum, Havo, Vmbo, Lwoo;KAMPEN;166;KAMPEN;Overijssel;825;49;27;25;5,94;3,27;3,03
+02VB;1;Ichthus College Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;KAMPEN;166;KAMPEN;Overijssel;350;18;18;0;5,14;5,14;0
+02VB;2;Ichthus College Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;DRONTEN;303;DRONTEN;Flevoland;1.113;48;54;42;4,31;4,85;3,77
+02VB;3;Ichthus College Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;IJSSELMUIDEN;166;KAMPEN;Overijssel;104;0;16;3;0;15,38;2,88
+02VB;7;Ichthus College Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;KAMPEN;166;KAMPEN;Overijssel;469;0;14;12;0;2,99;2,56
+02VC;0;Comenius Christelijke Scholengemeenschap voor Atheneum Havo Vmbo Lwoo Pro;LEEUWARDEN;80;LEEUWARDEN;Friesland;1.525;76;224;89;4,98;14,69;5,84
+02VC;2;Comenius Christelijke Scholengemeenschap voor Atheneum Havo Vmbo Lwoo Pro;LEEUWARDEN;80;LEEUWARDEN;Friesland;501;22;7;7;4,39;1,4;1,4
+02VC;3;Comenius Christelijke Scholengemeenschap voor Atheneum Havo Vmbo Lwoo Pro;LEEUWARDEN;80;LEEUWARDEN;Friesland;485;12;16;28;2,47;3,3;5,77
+02VC;8;Comenius Christelijke Scholengemeenschap voor Atheneum Havo Vmbo Lwoo Pro;ST.-ANNAPAROCHIE;63;HET BILDT;Friesland;66;0;9;4;0;13,64;6,06
+02VD;0;Visser t Hooft Lyceum Lyceum Havo Mavo Vbo Lwoo;LEIDEN;546;LEIDEN;Zuid-Holland;1.177;79;29;19;6,71;2,46;1,61
+02VD;2;Visser t Hooft Lyceum Lyceum Havo Mavo Vbo Lwoo;LEIDEN;546;LEIDEN;Zuid-Holland;89;10;2;0;11,24;2,25;0
+02VD;4;Visser t Hooft Lyceum Lyceum Havo Mavo Vbo Lwoo;LEIDERDORP;547;LEIDERDORP;Zuid-Holland;526;22;23;29;4,18;4,37;5,51
+02VD;5;Visser t Hooft Lyceum Lyceum Havo Mavo Vbo Lwoo;RIJNSBURG;537;KATWIJK;Zuid-Holland;330;9;9;24;2,73;2,73;7,27
+02VD;7;Visser t Hooft Lyceum Lyceum Havo Mavo Vbo Lwoo;LEIDEN;546;LEIDEN;Zuid-Holland;124;11;3;16;8,87;2,42;12,9
+02VE;0;NSG Groenewoud voor Vwo Havo en Mavo;NIJMEGEN;268;NIJMEGEN;Gelderland;1.625;93;31;86;5,72;1,91;5,29
+02VG;0;Unie Noord;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;483;49;31;7;10,14;6,42;1,45
+02VG;3;Unie Noord- Havo voor Muziek en Dans;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;180;17;5;0;9,44;2,78;0
+02VG;4;Unie Noord- locatie Lucia Petrus MAVO;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;310;29;13;19;9,35;4,19;6,13
+02VG;5;Unie Noord- locatie Gijsbert Karel van Hogendorp;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;226;7;1;3;3,1;0,44;1,33
+02VG;8;Unie Noord- locatie Carr‚ College;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;393;15;4;0;3,82;1,02;0
+02VG;10;Unie Noord - locatie Carre College Middellande;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;261;132;0;0;50,57;0;0
+02VG;11;Unie Noord- locatie Horeca Vakschool Rotterdam;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;236;6;0;3;2,54;0;1,27
+02VG;14;Unie Noord- locatie Hildegardis MAVO;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;288;36;1;12;12,5;0,35;4,17
+02VG;15;Unie Noord- locatie De Toorop MAVO;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;403;11;7;21;2,73;1,74;5,21
+02VG;17;Unie Noord - De Mavo voor Theater;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;121;5;0;7;4,13;0;5,79
+02VG;22;Unie Noord - locatie Lyceum Kralingen;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;465;50;12;4;10,75;2,58;0,86
+02VG;25;Unie Noord - locatie Vakcollege Hillegersberg;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;183;3;2;0;1,64;1,09;0
+02VJ;0;PC en RK SGM Ubbo Emmius SGM v Lyc Havo Mavo Vbo;STADSKANAAL;37;STADSKANAAL;Groningen;688;74;3;9;10,76;0,44;1,31
+02VJ;1;PC en RK SGM Ubbo Emmius SGM v Lyc Havo Mavo Vbo;WINSCHOTEN;1895;OLDAMBT;Groningen;477;18;9;13;3,77;1,89;2,73
+02VJ;2;PC en RK SGM Ubbo Emmius SGM v Lyc Havo Mavo Vbo;VEENDAM;47;VEENDAM;Groningen;196;4;2;11;2,04;1,02;5,61
+02VJ;3;Ubbo Emmius Lyceum Christelijke Scholengemeenschap voor Lyceum Havo Mavo Vbo;STADSKANAAL;37;STADSKANAAL;Groningen;444;8;0;148;1,8;0;33,33
+02VJ;6;PC en RK SGM Ubbo Emmius SGM v Lyc Havo Mavo Vbo;ONSTWEDDE;37;STADSKANAAL;Groningen;243;3;5;23;1,23;2,06;9,47
+02VJ;7;PC en RK SGM Ubbo Emmius SGM v Lyc Havo Mavo Vbo;STADSKANAAL;37;STADSKANAAL;Groningen;451;15;5;7;3,33;1,11;1,55
+02VJ;8;PC en RK SGM Ubbo Emmius SGM v Lyc Havo Mavo Vbo;STADSKANAAL;37;STADSKANAAL;Groningen;592;23;0;15;3,89;0;2,53
+02VM;0;Christelijk Lyceum Scholengemeenschap voor Mavo Havo Lyceum;VEENENDAAL;345;VEENENDAAL;Utrecht;2.093;148;46;79;7,07;2,2;3,77
+02VN;0;Regionale Scholengemeenschap Het Rhedens voor Lyceum Havo Mavo Vbo;ROZENDAAL;277;ROZENDAAL;Gelderland;949;111;16;9;11,7;1,69;0,95
+02VN;1;Regionale Scholengemeenschap Het Rhedens voor Lyceum Havo Mavo Vbo;DIEREN;275;RHEDEN;Gelderland;1.047;36;46;22;3,44;4,39;2,1
+02VO;0;Gymnasium Novum;VOORBURG;1916;LEIDSCHENDAM-VOORBURG;Zuid-Holland;724;50;11;0;6,91;1,52;0
+02VQ;0;Pascal College  voor Vwo Havo Mavo Vbo Lwoo;ZAANDAM;479;ZAANSTAD;Noord-Holland;933;80;65;1;8,57;6,97;0,11
+02VQ;1;Pascal College voorVwo Havo Mavo Vbo Lwoo;ZAANDAM;479;ZAANSTAD;Noord-Holland;675;15;12;20;2,22;1,78;2,96
+02VR;0;Stichting voor Christelijk Voortgezet Onderwijs voor Zuidoost-Utrecht;ZEIST;355;ZEIST;Utrecht;1.391;73;28;60;5,25;2,01;4,31
+02VR;2;Christelijk Voortgezet Onderwijs Groep Zuidoost Utrecht Lyceum Havo Mavo Vbo;ZEIST;355;ZEIST;Utrecht;331;10;3;8;3,02;0,91;2,42
+02VR;4;Christelijk Voortgezet Onderwijs Groep Zuidoost Utrecht Lyceum Havo Mavo Vbo;DOORN;1581;UTRECHTSE HEUVELRUG;Utrecht;1.533;67;24;68;4,37;1,57;4,44
+02VR;5;Christelijk Voortgezet Onderwijs Groep Zuidoost Utrecht Lyceum Havo Mavo Vbo;WIJK BIJ DUURSTEDE;352;WIJK BIJ DUURSTEDE;Utrecht;880;17;49;15;1,93;5,57;1,7
+02VR;7;Stichting voor Christelijk Voortgezet Onderwijs voor Zuidoost-Utrecht;OVERBERG;1581;UTRECHTSE HEUVELRUG;Utrecht;217;105;0;1;48,39;0;0,46
+02VS;0;Baudartius College Chr SGM voor Mavo- Havo- Atheneum- Gymnasium;ZUTPHEN;301;ZUTPHEN;Gelderland;1.687;143;65;32;8,48;3,85;1,9
+02VT;0;Agnieten College voor Lyceum Havo Mavo Vbo Lwoo;ZWOLLE;193;ZWOLLE;Overijssel;1.760;103;100;53;5,85;5,68;3,01
+02VT;1;Agnieten College Zwartsluis voor Lyceum Havo Mavo Vbo Lwoo;ZWARTSLUIS;1896;ZWARTEWATERLAND;Overijssel;659;17;44;33;2,58;6,68;5,01
+02VT;2;Agnieten College locatie Talentstad voor Lyceum Havo Mavo Vbo Lwoo;ZWOLLE;193;ZWOLLE;Overijssel;584;9;10;13;1,54;1,71;2,23
+02VT;4;Agnieten College Nieuwleusen voor Lyceum Havo Mavo Vbo Lwoo;NIEUWLEUSEN;148;DALFSEN;Overijssel;201;0;4;15;0;1,99;7,46
+02VT;5;Agnieten College locatie Meander voor Lyceum Havo Mavo Vbo Lwoo;ZWOLLE;193;ZWOLLE;Overijssel;1.038;36;52;30;3,47;5,01;2,89
+02VT;6;Agnieten College Wezep voor Lyceum Havo Mavo Vbo Lwoo;WEZEP;269;OLDEBROEK;Gelderland;313;8;21;15;2,56;6,71;4,79
+02XE;0;School voor Christelijk Mavo De Saad;DAMWALD;1891;DANTUMADIEL;Friesland;413;13;2;13;3,15;0,48;3,15
+02XJ;0;Reggesteyn Christelijke Scholengemeenschap voor Pro-Vmbo-Havo-Atheneum-Gymnasiu;NIJVERDAL;163;HELLENDOORN;Overijssel;1.122;66;47;23;5,88;4,19;2,05
+02XJ;1;Reggesteijn Christelijke Scholengemeenschap voor Pro-Vmbo-Havo-Atheneum-Gymnasiu;NIJVERDAL;163;HELLENDOORN;Overijssel;550;21;17;16;3,82;3,09;2,91
+02XJ;2;Reggesteijn Christelijke Scholengemeenschap voor Pro-Vmbo-Havo-Atheneum-Gymnasiu;RIJSSEN;1742;RIJSSEN-HOLTEN;Overijssel;1.110;35;87;7;3,15;7,84;0,63
+02XQ;0;Inspecteur Boelensschool voor Mavo;SCHIERMONNIKOOG;88;SCHIERMONNIKOOG;Friesland;27;0;0;2;0;0;7,41
+02XS;0;Altena College Christelijke Scholengemeenschap voor Atheneum Havo en Mavo;SLEEUWIJK;870;WERKENDAM;Noord-Brabant;1.426;54;62;45;3,79;4,35;3,16
+02YH;0;Montessori College voor Mavo Aerdenhout;AERDENHOUT;377;BLOEMENDAAL;Noord-Holland;407;9;2;40;2,21;0,49;9,83
+02ZC;0;Gymnasium voor het Bernardinuscollege;HEERLEN;917;HEERLEN;Limburg;339;12;2;0;3,54;0,59;0
+02ZR;0;Het College voor Lyc Havo Mavo Vbo lwoo;WEERT;988;WEERT;Limburg;1.195;55;40;15;4,6;3,35;1,26
+02ZR;2;Het College voor Lyceum Havo Mavo Vbo Lwoo locatie Bravo College;BUDEL;1706;CRANENDONCK;Noord-Brabant;308;3;24;25;0,97;7,79;8,12
+02ZR;3;Het College Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo loc. Het Kwadrant;WEERT;988;WEERT;Limburg;99;1;0;5;1,01;0;5,05
+03AM;0;Stedelijk Gymnasium;BREDA;758;BREDA;Noord-Brabant;935;47;8;0;5,03;0,86;0
+03AQ;0;Open Sgm Bylmer Vath Havo Mavo Lhno Lto Leao;AMSTERDAM;363;AMSTERDAM;Noord-Holland;1.570;60;38;142;3,82;2,42;9,04
+03FO;0;CVO 't Gooi  voor Lyc Havo VMBO Lwoo;HILVERSUM;402;HILVERSUM;Noord-Holland;1.496;83;24;96;5,55;1,6;6,42
+03FO;1;PC Voortgezet Ond Groep V Lyc Havo Mavo Vbo Lwoo;HILVERSUM;402;HILVERSUM;Noord-Holland;414;14;23;32;3,38;5,56;7,73
+03FO;2;PC Voortgezet Ond Groep V Lyc Havo Mavo Vbo Lwoo;HILVERSUM;402;HILVERSUM;Noord-Holland;225;7;0;15;3,11;0;6,67
+03FO;4;PC Voortgezet Ond Groep V Lyc Havo Mavo Vbo Lwoo;HILVERSUM;402;HILVERSUM;Noord-Holland;232;20;1;9;8,62;0,43;3,88
+03JY;0;Calvijn College voor Reformatorisch Vmbo Havo Vwo;GOES;664;GOES;Zeeland;1.384;37;93;21;2,67;6,72;1,52
+03JY;1;Calvijn College voor Reformatorisch Atheneum Havo Mavo Vbo Lwoo;MIDDELBURG;687;MIDDELBURG;Zeeland;401;4;24;6;1;5,99;1,5
+03JY;2;Calvijn College voor Reformatorisch Atheneum Havo Mavo Vbo Lwoo;KRABBENDIJKE;703;REIMERSWAAL;Zeeland;407;4;1;0;0,98;0,25;0
+03JY;3;Calvijn College voor Reformatorisch Atheneum Havo Mavo Vbo Lwoo;THOLEN;716;THOLEN;Zeeland;325;5;22;8;1,54;6,77;2,46
+03JY;6;Calvijn College voor Reformatorisch Vmbo Havo Vwo;KRABBENDIJKE;703;REIMERSWAAL;Zeeland;459;7;27;8;1,53;5,88;1,74
+03JY;7;Calvijn College voor Reformatorisch Vmbo Havo Vwo;GOES;664;GOES;Zeeland;112;0;3;3;0;2,68;2,68
+03KN;0;Rooms Katholieke SGM Pius X voor Gymnasium Atheneum Havo Mavo Vbo Pro Lwoo;BLADEL;1728;BLADEL;Noord-Brabant;2.029;63;50;31;3,1;2,46;1,53
+03OY;0;Niftarlake College Christelijke Scholengemeenschap voor Atheneum Havo Mavo;MAARSSEN;1904;STICHTSE VECHT;Utrecht;1.580;81;27;59;5,13;1,71;3,73
+03RB;0;Christelijke Scholengemeenschap voor Atheneum Havo Mavo Vbo Lwoo Prins Maurits;MIDDELHARNIS;1924;GOEREE-OVERFLAKKEE;Zuid-Holland;1.474;31;62;31;2,1;4,21;2,1
+03RR;0;Candea College Atheneum Havo Mavo Vbo;DUIVEN;226;DUIVEN;Gelderland;1.042;74;9;30;7,1;0,86;2,88
+03RR;4;Candea College Atheneum Havo Mavo Vbo;DUIVEN;226;DUIVEN;Gelderland;931;24;30;108;2,58;3,22;11,6
+03RR;7;Candea College Atheneum Havo Mavo Vbo;DUIVEN;226;DUIVEN;Gelderland;222;10;1;1;4,5;0,45;0,45
+03RU;0;Herbert Vissers College Christelijke Scholengemeenschap voor Lyceu Havo Mavo Vbo;NIEUW-VENNEP;394;HAARLEMMERMEER;Noord-Holland;1.762;109;52;73;6,19;2,95;4,14
+03WO;0;Van Lodensteincollege Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;AMERSFOORT;307;AMERSFOORT;Utrecht;1.140;36;39;42;3,16;3,42;3,68
+03WO;1;Van Lodensteincollege Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;HOEVELAKEN;267;NIJKERK;Gelderland;797;10;7;5;1,25;0,88;0,63
+03WO;2;Van Lodensteincollege Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;KESTEREN;1740;NEDER-BETUWE;Gelderland;1.140;30;58;22;2,63;5,09;1,93
+03WO;3;Van Lodensteincollege Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;BARNEVELD;203;BARNEVELD;Gelderland;843;2;52;79;0,24;6,17;9,37
+03XF;0;Mundium College voor vwo, havo, mavo, vbo en lwoo;ROERMOND;957;ROERMOND;Limburg;1.249;103;56;4;8,25;4,48;0,32
+03XF;3;Mundium College SGM v LYC HAVO MAVO LWOO locatie Havo Roermond;ROERMOND;957;ROERMOND;Limburg;524;20;13;30;3,82;2,48;5,73
+03XF;4;Mundium College SGM v LYC HAVO MAVO LWOO locatie  Niek‚e;ROERMOND;957;ROERMOND;Limburg;516;12;20;44;2,33;3,88;8,53
+03XF;5;Mundium College SGM v LYC HAVO MAVO LWOO locatie NT-2;ROERMOND;957;ROERMOND;Limburg;220;81;1;3;36,82;0,45;1,36
+03XM;0;Christelijke Scholengemeenschap Dingstede voor Mavo Havo en Atheneum;MEPPEL;119;MEPPEL;Drenthe;1.280;80;52;40;6,25;4,06;3,13
+03XS;0;Christelijke Scholengemeenschap Walcheren voor Lyceum Havo Mavo Vbo Lwoo;MIDDELBURG;687;MIDDELBURG;Zeeland;1.177;60;47;40;5,1;3,99;3,4
+03XS;3;Christelijke Scholengemeenschap Walcheren voor Lyceum Havo Mavo Vbo Lwoo;VLISSINGEN;718;VLISSINGEN;Zeeland;240;9;24;4;3,75;10;1,67
+03XS;7;Christelijke Scholengemeenschap Walcheren voor Lyceum Havo Mavo Vbo Lwoo;MIDDELBURG;687;MIDDELBURG;Zeeland;757;58;33;39;7,66;4,36;5,15
+04DF;0;Ashram College Rooms Katholieke Scholengemeenschap voor Atheneum Havo Mavo Vbo;ALPHEN AAN DEN RIJN;484;ALPHEN AAN DEN RIJN;Zuid-Holland;1.895;172;48;192;9,08;2,53;10,13
+04DF;1;Ashram College Rooms Katholieke Scholengemeenschap voor Atheneum Havo Mavo Vbo;NIEUWKOOP;569;NIEUWKOOP;Zuid-Holland;404;10;4;21;2,48;0,99;5,2
+04DS;0;Gymnasium van de Trevianum Scholengroep;SITTARD;1883;SITTARD-GELEEN;Limburg;487;30;1;0;6,16;0,21;0
+04GU;0;Elde College Schijndel voor VWO HAVO VMBO LWOO en PRO;SCHIJNDEL;1948;MEIERIJSTAD;Noord-Brabant;1.991;58;40;49;2,91;2,01;2,46
+04GU;3;Elde College Schijndel voor VWO HAVO VMBO LWOO en PRO;SINT-MICHIELSGESTEL;845;SINT-MICHIELSGESTEL;Noord-Brabant;410;14;13;26;3,41;3,17;6,34
+04HR;0;Openbare Scholengemeenschap Erasmus Lyceum Havo Mavo Vbo Lwoo;ALMELO;141;ALMELO;Overijssel;1.075;49;74;47;4,56;6,88;4,37
+04HR;4;Openbare Scholengemeenschap Erasmus Lyceum Havo Mavo Vbo Lwoo;ALMELO;141;ALMELO;Overijssel;836;114;4;32;13,64;0,48;3,83
+04IX;0;Kalsbeek College Christelijke Scholengemeenschap voor Vmbo, Havo, Ath. en Gymn.;WOERDEN;632;WOERDEN;Utrecht;1.636;109;50;27;6,66;3,06;1,65
+04IX;1;Kalsbeek College Christelijke Scholengemeenschap voor Vmbo, Havo, Ath. en Gymn.;WOERDEN;632;WOERDEN;Utrecht;1.398;25;1;43;1,79;0,07;3,08
+04OY;0;Carmel College Salland Katholieke Scholengemeenschap;RAALTE;177;RAALTE;Overijssel;1.284;30;37;30;2,34;2,88;2,34
+04OY;2;Carmel College Salland Katholieke Scholengemeenschap;RAALTE;177;RAALTE;Overijssel;1.542;83;74;76;5,38;4,8;4,93
+04SU;0;Voortgezet Onderwijs Veghel;VEGHEL;1948;MEIERIJSTAD;Noord-Brabant;1.530;99;51;34;6,47;3,33;2,22
+04SU;2;"Voortgezet Onderwijs Veghel; Fioretti College";VEGHEL;1948;MEIERIJSTAD;Noord-Brabant;1.393;39;31;45;2,8;2,23;3,23
+04XU;0;Baanderherencollege Vmbo;BOXTEL;757;BOXTEL;Noord-Brabant;675;9;13;17;1,33;1,93;2,52
+04YE;0;Openbare Scholengemeenschap Singelland voor Lyceum Havo Mavo Vbo Lwoo;DRACHTEN;90;SMALLINGERLAND;Friesland;1.106;31;38;104;2,8;3,44;9,4
+04YE;1;Openbare Scholengemeenschap Singelland voor Lyceum Havo Mavo Vbo Lwoo;BURGUM;737;TYTSJERKSTERADIEL;Friesland;358;12;25;38;3,35;6,98;10,61
+04YE;2;Openbare Scholengemeenschap Singelland voor Lyceum Havo Mavo Vbo Lwoo;SURHUISTERVEEN;59;ACHTKARSPELEN;Friesland;519;2;13;13;0,39;2,5;2,5
+04YE;3;Openbare Scholengemeenschap Singelland voor Lyceum Havo Mavo Vbo Lwoo;DRACHTEN;90;SMALLINGERLAND;Friesland;1.365;79;46;21;5,79;3,37;1,54
+04YE;8;Openbare Scholengemeenschap Singelland voor Lyceum Havo Mavo Vbo Lwoo;DRACHTEN;90;SMALLINGERLAND;Friesland;227;87;0;1;38,33;0;0,44
+04YE;11;Openbare Scholengemeenschap Singelland voor Lyceum Havo Mavo Vbo Lwoo;BURGUM;737;TYTSJERKSTERADIEL;Friesland;60;9;0;0;15;0;0
+04YX;0;Munnikenheide College voor MAVO VBO LWOO;ETTEN-LEUR;777;ETTEN-LEUR;Noord-Brabant;730;20;16;37;2,74;2,19;5,07
+04YX;2;Munnikenheide College voor MAVO VBO LWOO;RUCPHEN;840;RUCPHEN;Noord-Brabant;367;10;11;15;2,72;3;4,09
+05AC;0;Vakcollege Sevenwolden;HEERENVEEN;74;HEERENVEEN;Friesland;422;12;6;15;2,84;1,42;3,55
+05AV;0;Twents Carmel College voor Gymnasium, Atheneum, Havo, Vmbo met Lwoo, Pro;OLDENZAAL;173;OLDENZAAL;Overijssel;1.373;36;6;102;2,62;0,44;7,43
+05AV;1;Twents Carmel College voor Gymnasium, Atheneum, Havo, Vmbo met Lwoo, Pro;OLDENZAAL;173;OLDENZAAL;Overijssel;1.357;70;26;22;5,16;1,92;1,62
+05AV;2;Twents Carmel College voor Gymnasium, Atheneum, Havo, Vmbo met Lwoo, Pro;OLDENZAAL;173;OLDENZAAL;Overijssel;1.403;84;39;21;5,99;2,78;1,5
+05AV;3;Twents Carmel College voor Gymnasium, Atheneum, Havo, Vmbo met Lwoo, Pro;LOSSER;168;LOSSER;Overijssel;676;15;23;30;2,22;3,4;4,44
+05AV;4;Twents Carmel College voor Gymnasium, Atheneum, Havo, Vmbo met Lwoo, Pro;DENEKAMP;1774;DINKELLAND;Overijssel;341;2;22;7;0,59;6,45;2,05
+05AX;0;Scholengemeenschap De Overlaat Mavo Vbo Lwoo;WAALWIJK;867;WAALWIJK;Noord-Brabant;1.052;17;16;69;1,62;1,52;6,56
+05EA;0;Scheepvaart en Transport College;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;827;55;141;12;6,65;17,05;1,45
+05FB;0;Het Assink lyceum voor Lyceum Havo Mavo Vbo Lwoo;HAAKSBERGEN;158;HAAKSBERGEN;Overijssel;1.101;94;41;6;8,54;3,72;0,54
+05FB;1;Het Assink lyceum voor Lyceum Havo Mavo Vbo Lwoo;EIBERGEN;1859;BERKELLAND;Gelderland;351;0;14;3;0;3,99;0,85
+05FB;2;Het Assink lyceum voor Lyceum Havo Mavo Vbo Lwoo;NEEDE;1859;BERKELLAND;Gelderland;228;1;20;0;0,44;8,77;0
+05FB;6;Het Assink lyceum voor Lyceum Havo Mavo Vbo Lwoo;EIBERGEN;1859;BERKELLAND;Gelderland;503;6;2;7;1,19;0,4;1,39
+05FB;7;Het Assink lyceum voor Lyceum Havo Mavo Vbo Lwoo;HAAKSBERGEN;158;HAAKSBERGEN;Overijssel;543;11;0;17;2,03;0;3,13
+05FE;0;Rooms Katholieke Scholengemeenschap Thamen voor Mavo Vbo Lwoo;UITHOORN;451;UITHOORN;Noord-Holland;868;21;13;77;2,42;1,5;8,87
+05FF;0;Olympuscollege PC RK SGM voor Lyceum Havo Mavo;ARNHEM;202;ARNHEM;Gelderland;1.323;261;52;91;19,73;3,93;6,88
+05FJ;0;Emmacollege voor Havo Mavo Vbo Lwoo;HEERLEN;917;HEERLEN;Limburg;431;14;2;1;3,25;0,46;0,23
+05FJ;1;Emmacollege voor Havo Mavo Vbo Lwoo locatie Broekland;HOENSBROEK;917;HEERLEN;Limburg;511;16;0;33;3,13;0;6,46
+05FJ;10;Emmacollege voor havo mavo Vbo Lwoo;HEERLEN;917;HEERLEN;Limburg;492;80;0;2;16,26;0;0,41
+05OH;0;Ostrea Lyceum voor Lyceum Havo Mavo Vbo Lwoo;GOES;664;GOES;Zeeland;557;35;28;0;6,28;5,03;0
+05OH;3;Ostrea Lyceum voor Lyceum Havo Mavo Vbo Lwoo;GOES;664;GOES;Zeeland;1.232;121;54;139;9,82;4,38;11,28
+05OH;7;Ostrea Lyceum voor Lyceum Havo Mavo Vbo Lwoo;GOES;664;GOES;Zeeland;499;20;9;21;4,01;1,8;4,21
+05PL;0;Ds. Pierson College voor Mavo Havo Atheneum;'S-HERTOGENBOSCH;796;S HERTOGENBOSCH;Noord-Brabant;1.649;83;41;81;5,03;2,49;4,91
+05RA;0;Veenlanden College PC SGM v Mavo Havo Atheneum;MIJDRECHT;736;DE RONDE VENEN;Utrecht;1.429;98;44;186;6,86;3,08;13,02
+05RA;1;Veenlanden College PC SGM v Mavo Havo Atheneum;VINKEVEEN;736;DE RONDE VENEN;Utrecht;354;13;15;64;3,67;4,24;18,08
+05TA;0;Christelijke Scholengemeenschap voor Atheneum Havo Mavo Willem De Zwijger;SCHOONHOVEN;1931;KRIMPENERWAARD;Zuid-Holland;1.073;49;10;74;4,57;0,93;6,9
+05XJ;0;Het Lyceum Rotterdam voor Vwo en Havo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;555;51;22;4;9,19;3,96;0,72
+06HF;0;Udens College voor Lyceum Havo Mavo Vbo Lwoo;UDEN;856;UDEN;Noord-Brabant;1.505;65;50;20;4,32;3,32;1,33
+06HF;2;Udens College voor Lyceum Havo Mavo Vbo Lwoo;UDEN;856;UDEN;Noord-Brabant;1.511;31;25;57;2,05;1,65;3,77
+06SU;0;Ichthus College Scholengemeenschap voor Atheneum Havo Mavo;VEENENDAAL;345;VEENENDAAL;Utrecht;2.037;84;72;68;4,12;3,53;3,34
+06WY;0;Griendencollege voor VMBO;SLIEDRECHT;610;SLIEDRECHT;Zuid-Holland;339;6;1;3;1,77;0,29;0,88
+06XL;0;Markland College Oudenbosch Katholieke SGM voor Gymn Ath Havo Mavo Vmbo Pro;OUDENBOSCH;1655;HALDERBERGE;Noord-Brabant;1.241;55;18;71;4,43;1,45;5,72
+07BQ;0;HAVO van de Trevianum Scholengroep;SITTARD;1883;SITTARD-GELEEN;Limburg;1.278;115;52;31;9;4,07;2,43
+07FH;0;Mendel College Interconfessionele Scholengemeenschap Voor Mavo Havo Vwo;HAARLEM;392;HAARLEM;Noord-Holland;1.786;99;42;46;5,54;2,35;2,58
+07KP;0;Vakcollege Maarsbergen voor Mavo Vbo;MAARSBERGEN;1581;UTRECHTSE HEUVELRUG;Utrecht;420;6;4;32;1,43;0,95;7,62
+07MU;0;Rodenborch-College voor Atheneum Havo Mavo;ROSMALEN;796;S HERTOGENBOSCH;Noord-Brabant;1.495;88;28;71;5,89;1,87;4,75
+07PK;0;Arentheem College Interconfessionele School voor Atheneum Gymnasium Havo Vmbo;ARNHEM;202;ARNHEM;Gelderland;1.398;89;43;16;6,37;3,08;1,14
+07PK;4;Arentheem College Interconfessionele School voor Atheneum Gymnasium Havo Vmbo;VELP GLD;275;RHEDEN;Gelderland;52;44;0;4;84,62;0;7,69
+07PK;5;Arentheem College Interconfessionele School voor Gymnasium Atheneum Havo Vmbo;ARNHEM;202;ARNHEM;Gelderland;228;5;1;3;2,19;0,44;1,32
+07PK;7;Arentheem College Interconfessionele School voor Atheneum Gymnasium Havo Vmbo;VELP GLD;275;RHEDEN;Gelderland;487;18;12;98;3,7;2,46;20,12
+08CU;0;Emmauscollege Rooms Katholieke Scholengemeenschap voor Vwo en Havo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;1.731;90;40;24;5,2;2,31;1,39
+08LP;0;Isendoorn College voor Mavo Havo en Atheneum;WARNSVELD;301;ZUTPHEN;Gelderland;1.786;84;26;53;4,7;1,46;2,97
+08SG;0;Christelijk Voortgezet Onderwijs Apeldoorn voor Gymn Ath Havo Mavo en Vmbo;APELDOORN;200;APELDOORN;Gelderland;1.375;81;55;106;5,89;4;7,71
+08SG;1;Chr VO Apeldoorn voor Gymn Ath Havo Mavo en Vmbo, vest. Sprengeloo;APELDOORN;200;APELDOORN;Gelderland;823;14;32;90;1,7;3,89;10,94
+08SG;6;Chr VO Apeldoorn voor Gymn Ath Havo Mavo en Vmbo, vest. Christelijk Lyceum;APELDOORN;200;APELDOORN;Gelderland;1.206;77;34;68;6,38;2,82;5,64
+08VU;0;Christelijke Scholengemeenschap Willem van Oranje voor ATH HAVO MAVO;OUD-BEIJERLAND;584;OUD-BEIJERLAND;Zuid-Holland;1.435;101;47;14;7,04;3,28;0,98
+08VU;2;Christelijke Scholengemeenschap Willem van Oranje voor ATH HAVO MAVO;OUD-BEIJERLAND;584;OUD-BEIJERLAND;Zuid-Holland;495;18;8;58;3,64;1,62;11,72
+09VG;0;Onderwijsgroep Tilburg VMBO Reeshof, VMBO LWOO;TILBURG;855;TILBURG;Noord-Brabant;330;2;5;25;0,61;1,52;7,58
+10AN;0;Scala College voor Atheneum Havo Vmbo-Loot;ALPHEN AAN DEN RIJN;484;ALPHEN AAN DEN RIJN;Zuid-Holland;1.024;9;77;120;0,88;7,52;11,72
+10AN;3;Scala College voor Atheneum Havo Vmbo-Loot;ALPHEN AAN DEN RIJN;484;ALPHEN AAN DEN RIJN;Zuid-Holland;948;67;11;39;7,07;1,16;4,11
+10AN;4;Scala College voor Atheneum Havo Vmbo-Loot;ALPHEN AAN DEN RIJN;484;ALPHEN AAN DEN RIJN;Zuid-Holland;415;26;8;0;6,27;1,93;0
+10LU;0;Regionale Scholengemeenschap 't Rijks School voor Lyceum Havo Mavo;BERGEN OP ZOOM;748;BERGEN OP ZOOM;Noord-Brabant;2.668;194;70;115;7,27;2,62;4,31
+11NY;0;Regionale Scholengemeenschap Broklede voor Atheneum en Havo;BREUKELEN UT;1904;STICHTSE VECHT;Utrecht;1.337;110;24;13;8,23;1,8;0,97
+11UL;1;Agrarisch Opleidingen Centrum Holland Zeeland;GOES;664;GOES;Zeeland;273;11;6;7;4,03;2,2;2,56
+11UL;2;Agrarisch Opleidingen Centrum Holland Zeeland;SOMMELSDIJK;1924;GOEREE-OVERFLAKKEE;Zuid-Holland;122;3;2;10;2,46;1,64;8,2
+11UL;3;Agrarisch Opleidingen Centrum Edudelta Onderwijsgroep;BARENDRECHT;489;BARENDRECHT;Zuid-Holland;356;14;11;5;3,93;3,09;1,4
+11ZH;0;Scholengemeenschap Maerlant College voor Lyceum Havo Mavo Vbo Lwoo;BRIELLE;501;BRIELLE;Zuid-Holland;1.332;60;66;54;4,5;4,95;4,05
+12IR;0;Scholengemeenschap de Nieuwe Veste voor Lyceum Havo Mavo Vbo Lwoo;COEVORDEN;109;COEVORDEN;Drenthe;1.635;107;68;31;6,54;4,16;1,9
+12IR;5;Scholengemeenschap de Nieuwe Veste voor Lyceum Havo Mavo Vbo Lwoo;HARDENBERG;160;HARDENBERG;Overijssel;311;13;3;12;4,18;0,96;3,86
+12RB;0;SG Helinium voor Atheneum Havo Mavo Vbo Lwoo;HELLEVOETSLUIS;530;HELLEVOETSLUIS;Zuid-Holland;1.337;49;27;38;3,66;2,02;2,84
+12VI;1;Nordwin College;BUITENPOST;59;ACHTKARSPELEN;Friesland;369;11;8;23;2,98;2,17;6,23
+12VI;2;Nordwin College;SNEEK;1900;SUDWEST-FRYSLAN;Friesland;515;14;9;7;2,72;1,75;1,36
+12VI;8;Nordwin College;HEERENVEEN;74;HEERENVEEN;Friesland;363;9;17;32;2,48;4,68;8,82
+12VI;13;Nordwin College;LEEUWARDEN;80;LEEUWARDEN;Friesland;592;10;12;21;1,69;2,03;3,55
+13EE;0;Regionale Scholengemeenschap Enkhuizen voor MAVO HAVO VWO;ENKHUIZEN;388;ENKHUIZEN;Noord-Holland;1.635;142;39;208;8,69;2,39;12,72
+13JO;0;Rsgm Noord Oost Veluwe Ath Havo Mavo Vbo Lwoo;EPE;232;EPE;Gelderland;1.107;50;14;37;4,52;1,26;3,34
+13OR;0;Pontes voor Lyceum Atheneum Havo Mavo Vbo Pro en Lwoo;GOES;664;GOES;Zeeland;1.608;108;36;180;6,72;2,24;11,19
+13OR;1;Pontes voor Lyceum Atheneum Havo Mavo Vbo Pro en Lwoo;GOES;664;GOES;Zeeland;468;6;4;1;1,28;0,85;0,21
+13OR;3;Pontes voor Lyceum Atheneum Havo Mavo Vbo Pro en Lwoo;ZIERIKZEE;1676;SCHOUWEN-DUIVELAND;Zeeland;1.090;59;7;87;5,41;0,64;7,98
+13PE;0;Varendonck College voor Atheneum Gymnasium Havo Vmbo Lwoo Pro;ASTEN;743;ASTEN;Noord-Brabant;1.104;77;20;17;6,97;1,81;1,54
+13PE;1;Varendonck College voor Atheneum Gymnasium Havo Vmbo Lwoo Pro;SOMEREN;847;SOMEREN;Noord-Brabant;860;35;10;36;4,07;1,16;4,19
+13US;0;Agrarisch Opleidingen Centrum De Groene Welle;ZWOLLE;193;ZWOLLE;Overijssel;470;5;11;42;1,06;2,34;8,94
+13WH;0;De Goudse Scholengemeenschap voor VMBO-TL, HAVO en VWO Leo Vroman;GOUDA;513;GOUDA;Zuid-Holland;1.570;112;90;144;7,13;5,73;9,17
+13ZU;0;Reitdiepcollege voor Atheneum Havo Mavo Vbo Lwoo;GRONINGEN;14;GRONINGEN;Groningen;878;45;65;53;5,13;7,4;6,04
+13ZU;2;Reitdiepcollege voor Atheneum Havo Mavo Vbo Lwoo;GRONINGEN;14;GRONINGEN;Groningen;636;13;18;27;2,04;2,83;4,25
+13ZU;3;Reitdiepcollege voor Atheneum Havo Mavo Vbo Lwoo;GRONINGEN;14;GRONINGEN;Groningen;97;20;4;3;20,62;4,12;3,09
+14DC;0;RSG Simon Vestdijk voor Ath Havo Mavo Vbo;HARLINGEN;72;HARLINGEN;Friesland;1.049;57;40;23;5,43;3,81;2,19
+14DC;2;RSG Simon Vestdijk voor Ath Havo Mavo Vbo;FRANEKER;70;FRANEKERADEEL;Friesland;197;3;5;3;1,52;2,54;1,52
+14DC;4;RSG Simon Vestdijk voor Ath Havo Mavo Vbo;HARLINGEN;72;HARLINGEN;Friesland;117;1;3;0;0,85;2,56;0
+14FW;0;Openbare Scholengroep  voor VMBO, Havo, Atheneum en Gymnasium;HEERENVEEN;74;HEERENVEEN;Friesland;1.169;146;44;7;12,49;3,76;0,6
+14FW;1;Openbare Scholengemeenschap Sevenwolden voor Lyc Havo Mavo Vbo;HEERENVEEN;74;HEERENVEEN;Friesland;681;4;40;87;0,59;5,87;12,78
+14FW;2;Openbare Scholengemeenschap Sevenwolden locatie VMBO-Plein;HEERENVEEN;74;HEERENVEEN;Friesland;352;30;3;15;8,52;0,85;4,26
+14FW;4;Openbare Scholengemeenschap Sevenwolden voor Lyc Havo Mavo Vbo;JOURE;1940;DE FRYSKE MARREN;Friesland;311;4;9;39;1,29;2,89;12,54
+14FW;5;Openbare Scholengemeenschap Sevenwolden voor Lyc Havo Mavo Vbo;GROU;80;LEEUWARDEN;Friesland;212;2;4;22;0,94;1,89;10,38
+14LF;0;Jan van Brabant College vestiging Molenstraat;HELMOND;794;HELMOND;Noord-Brabant;1.088;90;37;39;8,27;3,4;3,58
+14NQ;0;Dominicus Mavo/Havo/Atheneum/Gymnasium;NIJMEGEN;268;NIJMEGEN;Gelderland;1.084;108;32;6;9,96;2,95;0,55
+14NS;0;Christelijke Scholengemeenschap A.M. van Schurman voor Havo Mavo Vbo;FRANEKER;70;FRANEKERADEEL;Friesland;1.201;32;7;117;2,66;0,58;9,74
+14OY;0;Gerrit Rietveld College;UTRECHT;344;UTRECHT;Utrecht;1.176;28;35;40;2,38;2,98;3,4
+14PS;0;Bisschop College Broekhin voor Lyceum Havo Mavo Vbo;ROERMOND;957;ROERMOND;Limburg;1.606;99;24;132;6,16;1,49;8,22
+14PS;2;Bisschop College Broekhin voor Lyceum Havo Mavo Vbo;SWALMEN;957;ROERMOND;Limburg;250;7;4;9;2,8;1,6;3,6
+14PS;3;Bisschop College Broekhin voor Lyceum Havo Mavo Vbo;REUVER;889;BEESEL;Limburg;314;9;3;22;2,87;0,96;7,01
+14QT;0;Marnix Gymnasium;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;648;37;10;0;5,71;1,54;0
+14RC;0;Meerwegen College;AMERSFOORT;307;AMERSFOORT;Utrecht;1.282;87;37;54;6,79;2,89;4,21
+14RC;3;Meerwegen College vestiging Farel locatie Bunschoten;BUNSCHOTEN-SPAKENBURG;313;BUNSCHOTEN;Utrecht;444;9;6;23;2,03;1,35;5,18
+14RC;4;Meerwegen College vestiging Corderius;AMERSFOORT;307;AMERSFOORT;Utrecht;1.720;76;44;72;4,42;2,56;4,19
+14RC;6;Meerwegen College vestiging Keistad;AMERSFOORT;307;AMERSFOORT;Utrecht;716;52;18;63;7,26;2,51;8,8
+14RF;0;Scholengemeenschap ZAAM Oost voor Vwo  Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;963;76;32;2;7,89;3,32;0,21
+14RF;3;Scholengemeenschap ZAAM  Oost voor Vwo Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;547;14;8;55;2,56;1,46;10,05
+14RF;4;Scholengemeenschap ZAAM  Oost voor Vwo Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;476;17;18;5;3,57;3,78;1,05
+14RF;6;Scholengemeenschap ZAAM  Oost voor Vwo Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;783;38;9;0;4,85;1,15;0
+14RF;8;Scholengemeenschap Oost/Zuidoost voor Lyceum Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;245;14;12;0;5,71;4,9;0
+14RL;0;Voorgezet Onderwijs van Amsterdam voor Vbo, Lwoo en Praktijkonderwijs;AMSTERDAM;363;AMSTERDAM;Noord-Holland;229;3;7;2;1,31;3,06;0,87
+14RL;2;Voorgezet Onderwijs van Amsterdam voor Vbo, Lwoo en Praktijkonderwijs;AMSTERDAM;363;AMSTERDAM;Noord-Holland;50;0;0;0;0;0;0
+14RL;3;Voortgezet Onderwijs van Amsterdam voor Vbo, Lwoo en Praktijkonderwijs;AMSTERDAM;363;AMSTERDAM;Noord-Holland;183;1;4;6;0,55;2,19;3,28
+14RL;6;Voortgezet Onderwijs van Amsterdam voor Vbo, Lwoo en Praktijkonderwijs;AMSTERDAM;363;AMSTERDAM;Noord-Holland;13;0;0;0;0;0;0
+14RL;7;Voortgezet Onderwijs van Amsterdam voor Vbo Lwoo en Praktijkonderwijs;AMSTERDAM;363;AMSTERDAM;Noord-Holland;77;0;0;0;0;0;0
+14RP;0;Christelijke Scholengemeenschap Groningen Vmbo Havo Atheneum;GRONINGEN;14;GRONINGEN;Groningen;795;61;16;114;7,67;2,01;14,34
+14RP;1;Christelijke Scholengemeenschap Groningen - locatie Augustinus;GRONINGEN;14;GRONINGEN;Groningen;1.158;58;12;174;5,01;1,04;15,03
+14RP;2;Christelijke Scholengemeenschap Groningen - locatie Kluiverboom;GRONINGEN;14;GRONINGEN;Groningen;211;7;0;0;3,32;0;0
+14RP;3;Christelijke Scholengemeenschap Groningen - locatie Diamantlaan;GRONINGEN;14;GRONINGEN;Groningen;479;35;1;8;7,31;0,21;1,67
+14RP;4;Christelijke Scholengemeenschap Groningen - locatie Winsum;WINSUM GN;53;WINSUM;Groningen;215;7;3;13;3,26;1,4;6,05
+14RP;5;Christelijke Scholengemeenschap Groningen - locatie Rehoboth;HOOGEZAND;18;HOOGEZAND-SAPPEMEER;Groningen;273;15;6;3;5,49;2,2;1,1
+14RR;0;DevelsteinCollege Christelijke Scholengemeenschap voor Voortgezet Onderwijs;ZWIJNDRECHT;642;ZWIJNDRECHT;Zuid-Holland;1.515;68;65;47;4,49;4,29;3,1
+14RR;1;DevelsteinCollege Christelijke Scholengemeenschap voor Voortgezet Onderwijs;ZWIJNDRECHT;642;ZWIJNDRECHT;Zuid-Holland;386;14;20;19;3,63;5,18;4,92
+14SE;0;Scholengemeenschap Sint Nicolaas Lyceum voor Lyceum en Havo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;1.205;98;69;8;8,13;5,73;0,66
+14SF;0;Christelijke Scholengemeenschap De Goudse Waarden Lyc Havo Mavo Vbo Lwoo Pro;GOUDA;513;GOUDA;Zuid-Holland;461;17;7;29;3,69;1,52;6,29
+14SF;1;Christelijke Scholengemeenschap De Goudse Waarden Lyc Havo Mavo Vbo Lwoo Pro;GOUDA;513;GOUDA;Zuid-Holland;1.493;85;48;170;5,69;3,22;11,39
+14SF;3;Christelijke Scholengemeenschap De Goudse Waarden Lyc Havo Mavo Vbo Lwoo Pro;GOUDA;513;GOUDA;Zuid-Holland;445;28;5;20;6,29;1,12;4,49
+14SM;0;Gooise Scholenfederatie vwo, havo, vmbo;BUSSUM;1942;GOOISE MEREN;Noord-Holland;1.266;46;24;14;3,63;1,9;1,11
+14SM;2;Gooise Scholenfederatie, vwo, havo, vmbo, locatie De Fontein;BUSSUM;1942;GOOISE MEREN;Noord-Holland;397;18;6;50;4,53;1,51;12,59
+14SM;3;Gooise Scholenfederatie, vwo, havo, vmbo, locatie SG Huizermaat;HUIZEN;406;HUIZEN;Noord-Holland;1.135;40;23;54;3,52;2,03;4,76
+14SM;4;Gooise Scholenfederatie, vwo, havo, vmbo, locatie A. Roland Holst College;HILVERSUM;402;HILVERSUM;Noord-Holland;870;41;15;50;4,71;1,72;5,75
+14SM;5;Gooise Scholenfederatie, vwo, havo, vmbo, locatie College De Brink;LAREN NH;417;LAREN;Noord-Holland;933;7;45;45;0,75;4,82;4,82
+14SM;13;Gooise Scholenfederatie, vwo, havo, vmbo, locatie A. Roland Holst College;HILVERSUM;402;HILVERSUM;Noord-Holland;634;31;5;56;4,89;0,79;8,83
+14SM;14;Gooise Scholenfederatie, vwo, havo, vmbo, locatie ISK Het Gooi;LAREN NH;417;LAREN;Noord-Holland;71;20;0;8;28,17;0;11,27
+14SW;0;Roncalli Scholengemeenschap voor Ath Havo Mavo;BERGEN OP ZOOM;748;BERGEN OP ZOOM;Noord-Brabant;1.232;73;46;136;5,93;3,73;11,04
+14SZ;0;Newmancollege Rooms Katholieke Scholengemeenschap voor Vwo Havo Mavo;BREDA;758;BREDA;Noord-Brabant;1.383;77;92;163;5,57;6,65;11,79
+14TA;0;Christelijk Lyceum Zandvliet voor Lyceum en Havo;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;807;56;37;5;6,94;4,58;0,62
+14TD;0;Het Rijnlands Sassenheim Scholengemeenschap voor Atheneum Havo Mavo;SASSENHEIM;1525;TEYLINGEN;Zuid-Holland;1.322;62;35;161;4,69;2,65;12,18
+14UM;0;Almende College voor Gymnasium Atheneum Havo Mavo Vbo Lwoo;SILVOLDE;1509;OUDE IJSSELSTREEK;Gelderland;1.050;89;24;2;8,48;2,29;0,19
+14UM;1;Almende College voor Gymnasium Atheneum Havo Mavo Vbo Lwoo;SILVOLDE;1509;OUDE IJSSELSTREEK;Gelderland;522;25;4;48;4,79;0,77;9,2
+14UM;2;Almende College voor Gymnasium Atheneum Havo Mavo Vbo Lwoo;ULFT;1509;OUDE IJSSELSTREEK;Gelderland;825;10;8;28;1,21;0,97;3,39
+14VG;0;Alkwin Kollege Rooms Katholieke Scholengemeenschap voor Vwo en Havo;UITHOORN;451;UITHOORN;Noord-Holland;1.512;94;27;11;6,22;1,79;0,73
+14VY;0;Chr Sgm Buitenveldert v Gymn Ath Havo en Mavo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;843;98;3;102;11,63;0,36;12,1
+14WE;0;S. Adelbert College voor Lyceum Havo en Mavo;WASSENAAR;629;WASSENAAR;Zuid-Holland;1.293;111;48;132;8,58;3,71;10,21
+14WI;0;Christelijk Gymnasium Beyers Naude;LEEUWARDEN;80;LEEUWARDEN;Friesland;508;23;11;0;4,53;2,17;0
+14WJ;0;Het Vlietland College Scholengemeenschap voor Vwo Havo Mavo;LEIDEN;546;LEIDEN;Zuid-Holland;1.002;38;29;176;3,79;2,89;17,56
+14WL;0;Krimpenerwaard College voor Lyceum Havo Mavo;KRIMPEN AAN DEN IJSSEL;542;KRIMPEN AAN DEN IJSSEL;Zuid-Holland;1.099;84;32;163;7,64;2,91;14,83
+14YD;3;Lentiz locatie Floracollege;NAALDWIJK;1783;WESTLAND;Zuid-Holland;867;13;7;8;1,5;0,81;0,92
+14YD;6;Lentiz locatie Maaslandcollege;MAASLAND;1842;MIDDEN-DELFLAND;Zuid-Holland;537;9;10;4;1,68;1,86;0,74
+14YD;9;Lentiz locatie Dalton Mavo;NAALDWIJK;1783;WESTLAND;Zuid-Holland;801;9;3;35;1,12;0,37;4,37
+15BH;0;Chr Scholengemeenschap Groene Hart;ALPHEN AAN DEN RIJN;484;ALPHEN AAN DEN RIJN;Zuid-Holland;754;23;3;69;3,05;0,4;9,15
+15BH;1;Chr Scholengemeenschap Groene Hart Lyceum voor Lyceum Havo Mavo Vbo Lwoo;ALPHEN AAN DEN RIJN;484;ALPHEN AAN DEN RIJN;Zuid-Holland;1.308;81;44;8;6,19;3,36;0,61
+15BH;4;Chr Scholengemeenschap Groene Hart vestiging Rijnwoude;HAZERSWOUDE-DORP;484;ALPHEN AAN DEN RIJN;Zuid-Holland;354;14;19;57;3,95;5,37;16,1
+15BH;5;Chr Scholengemeenschap Groene Hart vestiging Topmavo;ALPHEN AAN DEN RIJN;484;ALPHEN AAN DEN RIJN;Zuid-Holland;715;20;21;56;2,8;2,94;7,83
+15BS;0;Sondervick College RK Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;VELDHOVEN;861;VELDHOVEN;Noord-Brabant;2.293;162;126;92;7,06;5,49;4,01
+15EO;0;Openbare Scholengemeenschap Libanon Lyceum voor VWO HAVO MAVO;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;614;43;2;24;7;0,33;3,91
+15EO;1;Openbare Scholengemeenschap Libanon Lyceum voor VWO HAVO MAVOHavo Mavo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;754;7;29;23;0,93;3,85;3,05
+15HX;0;Thorbecke Voortgezet Onderwijs voor Atheneum Havo Mavo Vbo Lwoo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;731;102;25;12;13,95;3,42;1,64
+15HX;2;Thorbecke Voortgezet Onderwijs voor Atheneum Havo Mavo Vbo Lwoo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;455;15;0;8;3,3;0;1,76
+15HX;3;Thorbecke Voortgezet Onderwijs voor Atheneum Havo Mavo Vbo Lwoo;NIEUWERKERK AD IJSSEL;1892;ZUIDPLAS;Zuid-Holland;383;22;11;26;5,74;2,87;6,79
+15HX;7;Thorbecke Voortgezet Onderwijs voor Atheneum Havo Mavo Vbo Lwoo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;275;61;8;6;22,18;2,91;2,18
+15JM;0;Utrechts Stedelijk Gymnasium, openbare school voor vwo;UTRECHT;344;UTRECHT;Utrecht;869;27;0;0;3,11;0;0
+15KR;0;Wolfert van Borselen scholengroep;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;1.139;83;27;8;7,29;2,37;0,7
+15KR;5;Wolfert van Borselen Scholengroep;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;771;64;26;45;8,3;3,37;5,84
+15KR;6;Wolfert van Borselen Scholengroep;BERGSCHENHOEK;1621;LANSINGERLAND;Zuid-Holland;905;58;38;3;6,41;4,2;0,33
+15KR;9;Wolfert van Borselen Scholengroep;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;109;59;0;27;54,13;0;24,77
+15KR;10;Wolfert van Borselen Scholengroep;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;554;51;30;48;9,21;5,42;8,66
+15KR;11;Wolfert van Borselen Scholengroep;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;277;21;0;39;7,58;0;14,08
+15KR;12;Wolfert van Borselen Scholengroep;BERGSCHENHOEK;1621;LANSINGERLAND;Zuid-Holland;503;19;4;3;3,78;0,8;0,6
+15OM;0;Het Schoonhovens College;SCHOONHOVEN;1931;KRIMPENERWAARD;Zuid-Holland;957;58;35;27;6,06;3,66;2,82
+15OM;1;Het Schoonhovens College;SCHOONHOVEN;1931;KRIMPENERWAARD;Zuid-Holland;543;11;1;8;2,03;0,18;1,47
+15QW;0;Regionale Scholengemeenschap Goeree-Overflakkee voor Vwo Havo Mavo Vmbo;MIDDELHARNIS;1924;GOEREE-OVERFLAKKEE;Zuid-Holland;1.080;39;11;136;3,61;1,02;12,59
+15SC;0;Erasmianum Gemeente Gymnasium;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;1.174;40;5;0;3,41;0,43;0
+15VQ;0;Stellingwerf College;OOSTERWOLDE FR;85;OOSTSTELLINGWERF;Friesland;1.481;86;28;66;5,81;1,89;4,46
+15XV;0;Regionale Scholengemeenschap Hoeksche Waard;OUD-BEIJERLAND;584;OUD-BEIJERLAND;Zuid-Holland;1.157;100;52;36;8,64;4,49;3,11
+15XV;1;Regionale Scholengemeenschap Hoeksche Waard;OUD-BEIJERLAND;584;OUD-BEIJERLAND;Zuid-Holland;532;10;13;16;1,88;2,44;3,01
+16AW;0;Openbare Scholengemeenschap Echnaton;ALMERE;34;ALMERE;Flevoland;1.330;56;30;44;4,21;2,26;3,31
+16AW;1;Openbare Scholengemeenschap Echnaton locatie Helen Parkhurst;ALMERE;34;ALMERE;Flevoland;1.776;163;48;30;9,18;2,7;1,69
+16AW;6;Openbare Scholengemeenschap Echnaton;ALMERE;34;ALMERE;Flevoland;119;44;0;6;36,97;0;5,04
+16CX;0;Regius College Schagen voor Gym, Ath, Havo, Vmbo tl, Vmbo basis/kader;SCHAGEN;441;SCHAGEN;Noord-Holland;1.571;95;86;48;6,05;5,47;3,06
+16CX;4;Regius College Schagen voor Gym, Ath, Havo, Vmbotl. Vmbo basis/kader;SCHAGEN;441;SCHAGEN;Noord-Holland;640;12;4;41;1,88;0,63;6,41
+16CX;8;Regius College Schagen voor Gym, Havo, Vmbo tl, Vmbo basis/kader;SCHAGEN;441;SCHAGEN;Noord-Holland;745;38;25;52;5,1;3,36;6,98
+16CX;9;Regius College Schagen voor Gym, Havo, Vmbo tl, VMBO basis/kader;SCHAGEN;441;SCHAGEN;Noord-Holland;156;1;0;16;0,64;0;10,26
+16EI;0;Lyceum Schravenlant voor Atheneum en Havo;SCHIEDAM;606;SCHIEDAM;Zuid-Holland;552;51;44;2;9,24;7,97;0,36
+16FP;0;Regionale Scholengemeenschap Magister Alvinus voor Vwo Havo Mavo Vbo;SNEEK;1900;SUDWEST-FRYSLAN;Friesland;2.041;138;66;71;6,76;3,23;3,48
+16GZ;0;Regionale Scholengemeenschap Tromp Meesters voor Lyc Havo Mavo Vbo Lwoo;STEENWIJK;1708;STEENWIJKERLAND;Overijssel;1.344;100;56;110;7,44;4,17;8,18
+16GZ;1;Regionale Scholengemeenschap Tromp Meesters voor Lyc Havo mavo Vbo Lwoo;STEENWIJK;1708;STEENWIJKERLAND;Overijssel;153;3;2;27;1,96;1,31;17,65
+16IH;0;Regionale Scholengemeenschap Ter Apel voor Ath Havo Mavo Lhno;TER APEL;48;VLAGTWEDDE;Groningen;1.124;50;34;71;4,45;3,02;6,32
+16IH;3;Regionale Scholengemeenschap Ter Apel voor Ath Havo Mavo Lhno;TER APEL;48;VLAGTWEDDE;Groningen;157;77;0;5;49,04;0;3,18
+16JO;0;Stedelijke Scholengemeenschap De Rede voor Lyc Havo Mavo Vbo Lwoo;TERNEUZEN;715;TERNEUZEN;Zeeland;1.095;50;17;96;4,57;1,55;8,77
+16KP;0;Openbare Scholengemeensschap Texel voor Ath Havo Mavo Vbo Lwoo;DEN BURG;448;TEXEL;Noord-Holland;949;72;14;70;7,59;1,48;7,38
+16MQ;0;Koning Willem II College voor Lyc Havo Mavo;TILBURG;855;TILBURG;Noord-Brabant;1.712;120;45;211;7,01;2,63;12,32
+16NK;0;Vrije school Zutphen-Groningen;ZUTPHEN;301;ZUTPHEN;Gelderland;1.216;124;7;221;10,2;0,58;18,17
+16NK;1;Vrije school Zutphen-Groningen;GRONINGEN;14;GRONINGEN;Groningen;802;75;70;138;9,35;8,73;17,21
+16OX;0;2College voor Lyceum Havo Mavo Vbo;OISTERWIJK;824;OISTERWIJK;Noord-Brabant;1.557;63;35;68;4,05;2,25;4,37
+16OX;1;2College voorLyceum Havo Mavo Vbo locatie De Nieuwste School;TILBURG;855;TILBURG;Noord-Brabant;743;26;3;132;3,5;0,4;17,77
+16OX;2;2College voor Lyceum Havo Mavo Vbo locatie Cobbenhagenlyceum;TILBURG;855;TILBURG;Noord-Brabant;656;62;25;3;9,45;3,81;0,46
+16OX;3;2College voor Lyceum Havo Mavo Vbo locatie Ruivenmavo;BERKEL-ENSCHOT;855;TILBURG;Noord-Brabant;451;35;6;19;7,76;1,33;4,21
+16OX;4;2College voor Lyceum Havo Mavo Vbo locatie Jozefmavo;TILBURG;855;TILBURG;Noord-Brabant;492;34;4;13;6,91;0,81;2,64
+16OX;9;2College voor Lyceum Havo Mavo Vbo locatie vluchtelingen;OISTERWIJK;824;OISTERWIJK;Noord-Brabant;142;76;0;2;53,52;0;1,41
+16OX;10;2College voor Lyceum Havo Mavo Vbo locatie Cobbenhagenmavo;TILBURG;855;TILBURG;Noord-Brabant;338;9;0;14;2,66;0;4,14
+16OX;11;2College voor Lyceum Havo Mavo Vbo;OISTERWIJK;824;OISTERWIJK;Noord-Brabant;162;6;12;1;3,7;7,41;0,62
+16PA;0;Christelijk Gymnasium;UTRECHT;344;UTRECHT;Utrecht;969;28;1;0;2,89;0,1;0
+16PE;0;Connect College;ECHT;1711;ECHT-SUSTEREN;Limburg;866;38;19;46;4,39;2,19;5,31
+16PE;1;Connect College;ECHT;1711;ECHT-SUSTEREN;Limburg;675;16;22;17;2,37;3,26;2,52
+16PI;0;Openbare Scholengemeenschap Winkler Prins voor ATH HAVO MAVO VBO LWOO;VEENDAM;47;VEENDAM;Groningen;862;29;38;129;3,36;4,41;14,97
+16PI;1;Openbare Scholengemeenschap Winkler Prins voor ATH HAVO MAVO VBO LWOO;VEENDAM;47;VEENDAM;Groningen;901;57;30;14;6,33;3,33;1,55
+16PI;3;Openbare Scholengemeenschap Winkler Prins voor ATH HAVO MAVO VBO LWOO;VEENDAM;47;VEENDAM;Groningen;219;9;1;1;4,11;0,46;0,46
+16PK;0;Calvijn Chr. SGM voor vwo havo mavo vmbo lwoo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;946;53;14;350;5,6;1,48;37
+16PK;4;Calvijn Chr. SGM voor vwo havo mavo vmbo lwoo, loc. Focus;BARENDRECHT;489;BARENDRECHT;Zuid-Holland;427;12;1;1;2,81;0,23;0,23
+16PK;5;Calvijn Christelijke SGM voor vwo havo mavo vmbo lwoo loc. Zuidermavo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;333;12;0;23;3,6;0;6,91
+16PK;7;Calvijn Chr. SGM voor vwo havo mavo vmbo lwoo, loc. Juliana;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;408;14;11;5;3,43;2,7;1,23
+16PK;8;Calvijn Chr. SGM voor vwo havo mavo vmbo lwoo, loc. Meerpaal;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;515;102;0;1;19,81;0;0,19
+16PK;9;Calvijn Chr. SGM voor vwo havo mavo vmbo lwoo, loc. Groene Hart;BARENDRECHT;489;BARENDRECHT;Zuid-Holland;1.547;54;69;80;3,49;4,46;5,17
+16PK;10;Calvijn Christelijke SGM voor vwo havo mavo vmbo lwoo loc. Business School;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;367;17;10;46;4,63;2,72;12,53
+16PN;0;Joodse Scholengemeenschap Maimonides voor Ath Mavo En Afd Havo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;167;2;0;43;1,2;0;25,75
+16PS;0;Montessori Scholengemeenschap Amsterdam voor Lyceum Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;1.500;60;32;22;4;2,13;1,47
+16PS;4;Montessori Scholengemeenschap Amsterdam voor Lyceum Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;425;42;22;15;9,88;5,18;3,53
+16PS;7;Montessori Scholengemeenschap Amsterdam locatie Metis Montessori Lyceum;AMSTERDAM;363;AMSTERDAM;Noord-Holland;709;89;22;17;12,55;3,1;2,4
+16PS;8;Montessori Scholengemeenschap Amsterdam voor Lyceum Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;928;108;33;33;11,64;3,56;3,56
+16PS;16;Montessori Scholengemeenschap Amsterdam voor Lyceum Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;114;7;0;8;6,14;0;7,02
+16PS;17;Montessori Scholengemeenschap Amsterdam voor Lyceum Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;417;28;3;73;6,71;0,72;17,51
+16QA;0;Christelijke Scholengemeenschap De Lage Waard voor Ath Havo Mavo Vbo Lwoo;PAPENDRECHT;590;PAPENDRECHT;Zuid-Holland;1.245;57;40;5;4,58;3,21;0,4
+16QA;1;Christelijke Scholengemeenschap De Lage Waard voor Ath Havo Mavo Vbo Lwoo;PAPENDRECHT;590;PAPENDRECHT;Zuid-Holland;942;19;15;52;2,02;1,59;5,52
+16QA;3;Christelijke Scholengemeenschap De Lage Waard voor Ath Havo Mavo Vbo Lwoo;PAPENDRECHT;590;PAPENDRECHT;Zuid-Holland;125;7;0;13;5,6;0;10,4
+16QH;0;De Nassa, Scholengemeenschap voor Gymn Ath Havo Mavo;BREDA;758;BREDA;Noord-Brabant;497;16;7;32;3,22;1,41;6,44
+16QH;1;De Nassau Scholengemeenschap voor Gymn Ath Havo Mavo;BREDA;758;BREDA;Noord-Brabant;1.221;70;32;153;5,73;2,62;12,53
+16QN;0;Rooms Katholiek Gymnasium Juvenaat Heilig Hart;BERGEN OP ZOOM;748;BERGEN OP ZOOM;Noord-Brabant;415;23;2;0;5,54;0,48;0
+16RB;0;Jacob Roelandslyceum;BOXTEL;757;BOXTEL;Noord-Brabant;1.343;86;50;3;6,4;3,72;0,22
+16RF;0;Onze Lieve Vrouwelyceum - Breda;BREDA;758;BREDA;Noord-Brabant;1.532;98;37;6;6,4;2,42;0,39
+16RH;0;Het Rijnlands Lyc Scholengemeenschap Vwo Havo;OEGSTGEEST;579;OEGSTGEEST;Zuid-Holland;1.427;90;12;46;6,31;0,84;3,22
+16RT;0;Voortgezet Onderwijs Best-Oirschot;BEST;753;BEST;Noord-Brabant;1.946;47;72;121;2,42;3,7;6,22
+16RT;1;Voortgezet Onderwijs Best-Oirschot locatie Kempenhorst VMBO College;OIRSCHOT;823;OIRSCHOT;Noord-Brabant;1.133;10;10;32;0,88;0,88;2,82
+16SK;0;Liemers College SGM voor LYC HAVO MAVO VBO LWOO;ZEVENAAR;299;ZEVENAAR;Gelderland;971;105;25;8;10,81;2,57;0,82
+16SK;1;Liemers College Scholengemeenschap voor LYC HAVO MAVO VBO LWOO;DIDAM;1955;MONTFERLAND;Gelderland;517;11;23;47;2,13;4,45;9,09
+16SK;5;Liemers College SGM voor LYC HAVO MAVO VBO LWOO;ZEVENAAR;299;ZEVENAAR;Gelderland;664;27;2;7;4,07;0,3;1,05
+16SK;7;Liemers College SGM voor Lyc Havo Mavo Vbo Lwoo;ZEVENAAR;299;ZEVENAAR;Gelderland;894;22;47;124;2,46;5,26;13,87
+16SL;0;Sint-Janscollege voor Vwo Havo;HOENSBROEK;917;HEERLEN;Limburg;1.340;105;41;2;7,84;3,06;0,15
+16ST;0;Berger Scholengemeenschap voor vwo havo en mavo;BERGEN NH;373;BERGEN NH;Noord-Holland;990;37;12;115;3,74;1,21;11,62
+16SW;0;Rooms Katholieke Scholengemeenschap METAMEER voor ATH HAVO VMBO LWOO;STEVENSBEEK;1702;SINT ANTHONIS;Noord-Brabant;941;52;15;18;5,53;1,59;1,91
+16SW;3;Rooms Katholieke Scholengemeenschap METAMEER voor ATH HAVO VMBO LWOO;BOXMEER;756;BOXMEER;Noord-Brabant;1.084;13;25;59;1,2;2,31;5,44
+16SW;5;Rooms katholieke Scholengemeenschap METAMEER voor ATH HAVO VMBO LWOO;STEVENSBEEK;1702;SINT ANTHONIS;Noord-Brabant;356;3;1;11;0,84;0,28;3,09
+16TS;0;Vrije School Noord Holland voor Atheneum Havo Mavo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;852;87;13;22;10,21;1,53;2,58
+16TS;2;Vrije School Noord Holland voor Atheneum Havo Mavo;HAARLEM;392;HAARLEM;Noord-Holland;823;109;4;64;13,24;0,49;7,78
+16TS;3;Vrije School Noord-Holland;BERGEN NH;373;BERGEN NH;Noord-Holland;776;81;6;62;10,44;0,77;7,99
+16TV;0;Vrije School Zuid-Holland voor Atheneum Havo Mavo;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;770;616;2;14;80;0,26;1,82
+16TV;1;Vrije School Zuid-Holland voor Atheneum Havo Mavo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;838;150;12;49;17,9;1,43;5,85
+16TV;2;Vrije School Zuid-Holland voor Atheneum Havo Mavo;LEIDEN;546;LEIDEN;Zuid-Holland;526;36;6;72;6,84;1,14;13,69
+16VI;0;R.K. Scholengemeenschap  Canisius voor vmbo havo vwo;ALMELO;141;ALMELO;Overijssel;1.047;58;69;35;5,54;6,59;3,34
+16VI;1;R.K. Scholengemeenschap Canisius voor vmbo havo vwo;TUBBERGEN;183;TUBBERGEN;Overijssel;839;20;85;80;2,38;10,13;9,54
+16VK;0;OMO Scholengroep De Langstraat;WAALWIJK;867;WAALWIJK;Noord-Brabant;1.146;97;32;34;8,46;2,79;2,97
+16VK;1;OMO Scholengr. De Langstraat Rk Sgm V Lyc Havo Mavo Vbo;KAATSHEUVEL;809;LOON OP ZAND;Noord-Brabant;323;21;9;9;6,5;2,79;2,79
+16VK;2;OMO Scholengroep De Langstraat;WAALWIJK;867;WAALWIJK;Noord-Brabant;639;22;2;26;3,44;0,31;4,07
+16VK;3;OMO Scholengroep De Langstraat;DRUNEN;797;HEUSDEN;Noord-Brabant;1.186;88;117;98;7,42;9,87;8,26
+16VM;0;Herlecollege Scholengemeenschap voor Vmbo;HEERLEN;917;HEERLEN;Limburg;472;8;9;12;1,69;1,91;2,54
+16VM;4;Herle College Scholengemeenschap voor Mavo Vbo Lwoo;HEERLEN;917;HEERLEN;Limburg;142;12;2;0;8,45;1,41;0
+16VP;0;Hondsrug College Christelijke SGM voor LYC HAVO MAVO VBO LWOO;EMMEN;114;EMMEN;Drenthe;2.071;94;69;55;4,54;3,33;2,66
+16XD;0;College Den Hulster Scholengemeenschap voor ATH HAVO MAVO VBO LWOO;VENLO;983;VENLO;Limburg;1.552;76;32;128;4,9;2,06;8,25
+16YC;0;Scheldemond College;VLISSINGEN;718;VLISSINGEN;Zeeland;1.116;48;69;63;4,3;6,18;5,65
+16YV;0;Regionale Scholengemeenschap Pantarijn voor Lyc Havo Mavo Vbo Pro Lwoo;WAGENINGEN;289;WAGENINGEN;Gelderland;1.685;111;100;110;6,59;5,93;6,53
+16YV;1;Regionale Scholengemeenschap Pantarijn voor Lyc Havo Mavo Vbo Pro Lwoo;WAGENINGEN;289;WAGENINGEN;Gelderland;355;8;8;56;2,25;2,25;15,77
+16YV;2;Regionale Scholengemeenschap Pantarijn voor Lyc Havo Mavo Vbo Pro Lwoo;RHENEN;340;RHENEN;Utrecht;286;3;5;52;1,05;1,75;18,18
+16YV;4;Regionale Scholengemeenschap Pantarijn voor Lyc Havo Mavo Vbo Pro Lwoo;KESTEREN;1740;NEDER-BETUWE;Gelderland;280;5;9;73;1,79;3,21;26,07
+16ZK;0;Hogeland College voor Ath Havo Mavo Vbo Lwoo;WARFFUM;1651;EEMSMOND;Groningen;773;74;37;3;9,57;4,79;0,39
+16ZK;1;Hogeland College voor Ath Havo Mavo Vbo Lwoo;WEHE-DEN HOORN;1663;DE MARNE;Groningen;191;3;2;2;1,57;1,05;1,05
+16ZK;2;Hogeland College voor Ath Havo Mavo Vbo Lwoo;UITHUIZEN;1651;EEMSMOND;Groningen;439;19;2;10;4,33;0,46;2,28
+17AA;0;Gerrit Komrij College Gemeentelijke Scholengemeenschap voor Vwo Havo Vmbo;WINTERSWIJK;294;WINTERSWIJK;Gelderland;1.413;66;51;85;4,67;3,61;6,02
+17AA;3;Gerrit Komrij College Gemeentelijke Scholengemeenschap voor Vwo Havo Vmbo;WINTERSWIJK;294;WINTERSWIJK;Gelderland;56;25;0;6;44,64;0;10,71
+17AN;0;Minkema College voor Lwoo Vmbo Havo Atheneum Gymnasium;WOERDEN;632;WOERDEN;Utrecht;1.631;87;80;6;5,33;4,9;0,37
+17AN;1;Minkema College voor Lwoo Vmbo Havo Atheneum Gymnasium;WOERDEN;632;WOERDEN;Utrecht;957;18;0;25;1,88;0;2,61
+17AY;0;Cambium College voor Atheneum Havo Mavo Vbo Lwoo;ZALTBOMMEL;297;ZALTBOMMEL;Gelderland;1.375;53;7;176;3,85;0,51;12,8
+17AY;4;Scholengroep Cambium Gem Ath Havo Mavo Vbo Lwoo;ZALTBOMMEL;297;ZALTBOMMEL;Gelderland;458;3;1;5;0,66;0,22;1,09
+17BI;0;Openbare Scholengroep Schoonoord;ZEIST;355;ZEIST;Utrecht;1.680;123;47;107;7,32;2,8;6,37
+17BI;2;Opb Sgm Schoonoord Voor Lyc Havo Mavo Vbo Lwoo;DOORN;1581;UTRECHTSE HEUVELRUG;Utrecht;331;9;16;13;2,72;4,83;3,93
+17BZ;0;Scholengemeenschap van de Capellen voor ATH HAVO MAVO VBO LWOO;ZWOLLE;193;ZWOLLE;Overijssel;1.039;68;60;38;6,54;5,77;3,66
+17BZ;2;Scholengemeenschap van de Capellen voor ATH HAVO MAVO VBO LWOO;WIJHE;1773;OLST-WIJHE;Overijssel;458;25;23;23;5,46;5,02;5,02
+17BZ;3;Scholengemeenschap van de Capellen voor ATH HAVO MAVO VBO LWOO;ELBURG;230;ELBURG;Gelderland;184;9;5;20;4,89;2,72;10,87
+17BZ;4;Scholengemeenschap van de Capellen voor ATH HAVO MAVO VBO LWOO;DEDEMSVAART;160;HARDENBERG;Overijssel;416;14;24;21;3,37;5,77;5,05
+17BZ;15;Scholengemeenschap van de Capellen voor ATH HAVO MAVO VBO LWOO;ZWOLLE;193;ZWOLLE;Overijssel;69;0;3;12;0;4,35;17,39
+17CK;0;Regionale Scholengemeenschap Slingerbos/Levant voor Ath Havo Mavo;HARDERWIJK;243;HARDERWIJK;Gelderland;1.788;105;46;69;5,87;2,57;3,86
+17CK;1;Regionale Scholengemeenschap 't Slingerbos voor Ath Havo Mavo;ZEEWOLDE;50;ZEEWOLDE;Flevoland;626;11;25;34;1,76;3,99;5,43
+17CR;0;Einstein Lyceum Openbare Scholengemeenschap voor Mavo Havo Ath Gymn;HOOGVLIET ROTTERDAM;599;ROTTERDAM;Zuid-Holland;467;20;11;55;4,28;2,36;11,78
+17DD;0;rsg Wiringherlant voor vwo havo mavo en vbo;WIERINGERWERF;1911;HOLLANDS KROON;Noord-Holland;1.150;39;26;57;3,39;2,26;4,96
+17DN;0;Openbare Scholengemeenschap De Meergronden voor Lyc Havo Mavo Vbo Lwoo;ALMERE;34;ALMERE;Flevoland;1.498;114;23;31;7,61;1,54;2,07
+17DN;1;Openbare Scholengemeenschap De Meergronden -  locatie Arte College;ALMERE;34;ALMERE;Flevoland;803;72;6;15;8,97;0,75;1,87
+17GM;0;Oosterlicht College PC SGM V ATH HAVO MAVO VBO;NIEUWEGEIN;356;NIEUWEGEIN;Utrecht;1.911;72;27;56;3,77;1,41;2,93
+17GM;2;Oosterlicht College Pc Sgm V Ath Havo Mavo Vbo;VIANEN UT;620;VIANEN;Utrecht;719;7;6;21;0,97;0,83;2,92
+17GT;0;Rooms Katholieke Scholengemeenschap St Ursula voor Vwo Havo Vmbo Lwoo;HORN;1640;LEUDAL;Limburg;1.604;80;48;49;4,99;2,99;3,05
+17GT;2;Rooms katholieke Scholengemeenschap St Ursula voor Vwo Havo Vmbo Lwoo;HEYTHUYSEN;1640;LEUDAL;Limburg;721;7;8;7;0,97;1,11;0,97
+17HB;0;Scholengemeenschap ZAAM West voor Vwo Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;734;130;36;4;17,71;4,9;0,54
+17HB;3;Scholengemeenschap ZAAM West voor Vwo  Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;267;21;1;15;7,87;0,37;5,62
+17HB;6;Scholengemeenschap ZAAM West voor Vwo Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;458;5;47;14;1,09;10,26;3,06
+17HB;7;Scholengemeenschap ZAAM West voorVwo Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;233;11;2;4;4,72;0,86;1,72
+17HH;0;Haemstede Barger MAVO;HEEMSTEDE;397;HEEMSTEDE;Noord-Holland;408;38;9;32;9,31;2,21;7,84
+17HN;0;Elzendaalcollege Rooms Katholieke Scholengemeenschap voor Lyc Havo Mavo;BOXMEER;756;BOXMEER;Noord-Brabant;1.663;72;42;74;4,33;2,53;4,45
+17HN;2;Elzendaalcollege Rooms Katholieke Scholengemeenschap voor Lyc Havo Mavo;GENNEP;907;GENNEP;Limburg;482;7;1;15;1,45;0,21;3,11
+17HR;0;Interconf Hofstadcollege voor LYC HAVO MAVO VBO LWOO;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;518;41;26;47;7,92;5,02;9,07
+17HR;2;Interconf Hofstadcollege voor LYC HAVO MAVO VBO LWOO;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;999;59;49;7;5,91;4,9;0,7
+17HR;5;Interconf Hofstadcollege voor LYC HAVO MAVO VBO LWOO;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;490;12;11;71;2,45;2,24;14,49
+17HX;0;Mgr A E Rientjes Mavo;MAARSSEN;1904;STICHTSE VECHT;Utrecht;652;27;5;35;4,14;0,77;5,37
+17IM;0;Over Betuwe College voor Ath Havo Mavo Vbo Lwoo;BEMMEL;1705;LINGEWAARD;Gelderland;1.380;92;56;6;6,67;4,06;0,43
+17IM;1;Over Betuwe College voor Ath Havo Mavo Vbo Lwoo;ELST GLD;1734;OVERBETUWE;Gelderland;312;13;16;21;4,17;5,13;6,73
+17IM;2;Over Betuwe College voor Ath Havo Mavo Vbo Lwoo;HUISSEN;1705;LINGEWAARD;Gelderland;785;9;18;22;1,15;2,29;2,8
+17IM;4;Over Betuwe College junior;BEMMEL;1705;LINGEWAARD;Gelderland;471;32;13;26;6,79;2,76;5,52
+17IM;5;Over Betuwe College voor Ath Havo Mavo Vbo Lwoo;ELST GLD;1734;OVERBETUWE;Gelderland;318;27;5;18;8,49;1,57;5,66
+17IR;0;Pax Christi College - scholengemeenschap voor vwo havo vmbo lwoo;DRUTEN;225;DRUTEN;Gelderland;1.257;99;15;24;7,88;1,19;1,91
+17IR;1;Pax Christi College - scholengemeenschap voor vwo havo vmbo lwoo;BENEDEN-LEEUWEN;668;WEST MAAS EN WAAL;Gelderland;277;2;21;11;0,72;7,58;3,97
+17IR;2;Pax Christi College - scholengemeenschap voor vwo havo vmbo lwoo;DRUTEN;225;DRUTEN;Gelderland;565;11;19;14;1,95;3,36;2,48
+17JB;0;Charlemagne College voor VWO (ath.-gymn.), havo, vmbo, vmbo-t, lwoo;LANDGRAAF;882;LANDGRAAF;Limburg;1.354;56;42;52;4,14;3,1;3,84
+17JB;1;Charlemagne College locatie Brandenberg;LANDGRAAF;882;LANDGRAAF;Limburg;699;57;23;21;8,15;3,29;3
+17JB;2;Charlemagne College, locatie Holz;KERKRADE;928;KERKRADE;Limburg;453;28;14;10;6,18;3,09;2,21
+17JB;5;Charlemagne College, locatie Schandelermolenweg;HEERLEN;917;HEERLEN;Limburg;51;5;0;0;9,8;0;0
+17JY;0;Gymnasium Beekvliet;SINT-MICHIELSGESTEL;845;SINT-MICHIELSGESTEL;Noord-Brabant;820;46;14;0;5,61;1,71;0
+17KF;0;Van Maerlant voor Mavo Vbo Lwoo;'S-HERTOGENBOSCH;796;S HERTOGENBOSCH;Noord-Brabant;568;3;1;19;0,53;0,18;3,35
+17KF;2;Van Maerlant voor Mavo Vbo Lwoo;'S-HERTOGENBOSCH;796;S HERTOGENBOSCH;Noord-Brabant;92;1;0;4;1,09;0;4,35
+17KY;0;Roncalli MAVO;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;728;50;8;60;6,87;1,1;8,24
+17VF;0;Scholengemeenschap ZAAM Noord voor Vwo Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;1.134;98;32;37;8,64;2,82;3,26
+17VF;1;Scholengemeenschap ZAAM Noord voor Vwo Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;212;11;2;16;5,19;0,94;7,55
+17VF;2;Scholengemeenschap ZAAM Noord voor Vwo Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;287;12;0;5;4,18;0;1,74
+17VF;3;Scholengemeenschap ZAAM Noord voor Vwo Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;555;23;6;35;4,14;1,08;6,31
+17VF;4;Scholengemeenschap ZAAM Noord voor Vwo Havo Mavo Vbo Lwoo;MONNICKENDAM;852;WATERLAND;Noord-Holland;303;19;6;30;6,27;1,98;9,9
+17VF;6;Scholengemeenschap Zaam Noord Vwo  Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;100;44;0;0;44;0;0
+17VN;1;Bonhoeffer College voor Gymnasium, Atheneum, Havo, VMBO, LWOO en PrO;ENSCHEDE;153;ENSCHEDE;Overijssel;506;40;18;29;7,91;3,56;5,73
+17VN;5;Bonhoeffer College voor Gymnasium, Atheneum, Havo, VMBO, LWOO en PrO;ENSCHEDE;153;ENSCHEDE;Overijssel;1.763;195;108;48;11,06;6,13;2,72
+17VN;6;Bonhoeffer College voor Gymnasium, Atheneum, Havo, VMBO, LWOO en PrO;ENSCHEDE;153;ENSCHEDE;Overijssel;1.235;78;111;35;6,32;8,99;2,83
+17VN;7;Bonhoeffer College voor Gymnasium, Atheneum, Havo, VMBO, LWOO en PrO;ENSCHEDE;153;ENSCHEDE;Overijssel;58;1;0;1;1,72;0;1,72
+17VN;8;Bonhoeffer College voor Gymnasium, Atheneum, Havo, VMBO, LWOO en PrO;ENSCHEDE;153;ENSCHEDE;Overijssel;15;0;0;0;0;0;0
+17VN;9;Bonhoeffer College voor Gymnasium, Atheneum, Havo, VMBO, LWOO en PrO;ENSCHEDE;153;ENSCHEDE;Overijssel;756;39;14;28;5,16;1,85;3,7
+17VP;0;Instelling Voortgezet Onderwijs Deurne voor ATH HAVO MAVO VBO LWOO;DEURNE;762;DEURNE;Noord-Brabant;1.111;63;39;5;5,67;3,51;0,45
+17VP;1;"Instelling Voortgezet Onderwijs Deurne; Alfrinkcollege  ATH HAVO MAVO VBO LWOO";DEURNE;762;DEURNE;Noord-Brabant;591;14;3;69;2,37;0,51;11,68
+17VP;2;Instelling Voortgezet Onderwijs Deurne -   Hub van Doornecollege;DEURNE;762;DEURNE;Noord-Brabant;686;5;9;56;0,73;1,31;8,16
+17VS;0;Prof dr S Greijdanus College voor Vwo Havo Mavo Vbo Lwoo;ZWOLLE;193;ZWOLLE;Overijssel;2.217;48;63;86;2,17;2,84;3,88
+17VS;2;Prof dr S Greijdanus College voor Vwo Havo Mavo Vbo Lwoo;ENSCHEDE;153;ENSCHEDE;Overijssel;148;8;6;5;5,41;4,05;3,38
+17VS;3;Prof dr S Greijdanus College voor Vwo Havo Mavo Vbo Lwoo;HARDENBERG;160;HARDENBERG;Overijssel;877;8;40;35;0,91;4,56;3,99
+17VS;4;Prof dr S Greijdanus College voor Vwo Havo Mavo Vbo Lwoo;MEPPEL;119;MEPPEL;Drenthe;452;9;13;24;1,99;2,88;5,31
+17WP;0;Werkplaats Kindergemeenschap;BILTHOVEN;310;DE BILT;Utrecht;1.293;49;14;94;3,79;1,08;7,27
+17WQ;0;Lentiz onderwijsgroep;VLAARDINGEN;622;VLAARDINGEN;Zuid-Holland;1.323;124;57;18;9,37;4,31;1,36
+17WQ;5;Lentiz locatie Geuzencollege;VLAARDINGEN;622;VLAARDINGEN;Zuid-Holland;864;49;7;13;5,67;0,81;1,5
+17WQ;6;Lentiz locatie Revius;MAASSLUIS;556;MAASSLUIS;Zuid-Holland;878;55;28;141;6,26;3,19;16,06
+17WQ;8;Lentiz locatie Lentiz VMBO Life College;SCHIEDAM;606;SCHIEDAM;Zuid-Holland;713;3;9;3;0,42;1,26;0,42
+17WQ;11;VMBO Maassluis (Lentiz VMBO Maassluis);MAASSLUIS;556;MAASSLUIS;Zuid-Holland;223;7;1;6;3,14;0,45;2,69
+17XU;0;Heerenlanden College;LEERDAM;545;LEERDAM;Zuid-Holland;1.025;57;39;24;5,56;3,8;2,34
+17XU;1;Heerenlanden College;LEERDAM;545;LEERDAM;Zuid-Holland;265;3;3;3;1,13;1,13;1,13
+17YF;0;Zuiderpark College voor Mavo Vbo en Lwoo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;902;72;17;4;7,98;1,88;0,44
+17YF;2;Zuiderpark locatie Young Business School voor  vmbo en mavo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;192;7;6;2;3,65;3,13;1,04
+17YS;0;Esprit Scholen voor Lyceum Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;648;57;24;42;8,8;3,7;6,48
+17YS;2;Esprit Scholengroep voor Lyceum Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;154;19;3;41;12,34;1,95;26,62
+17YS;3;Esprit Scholengroep Voor Lyceum Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;1.143;75;61;29;6,56;5,34;2,54
+17YS;4;Esprit Scholengroep voor Lyceum Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;662;25;24;33;3,78;3,63;4,98
+17YS;8;Esprit Scholengroep voor Lyceum Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;819;57;7;18;6,96;0,85;2,2
+17YS;12;Esprit Scholengroep voor Luceum Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;42;19;0;1;45,24;0;2,38
+17YS;18;Esprit Scholengroep voor Lyceum Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;439;22;0;56;5,01;0;12,76
+18AN;0;Globe College, brede school voor vmbo, basis, kader en theoretische leerweg;UTRECHT;344;UTRECHT;Utrecht;591;15;8;17;2,54;1,35;2,88
+18CH;0;Melanchthon Chr. SGM voor gymnasium atheneum havo vmbo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;1.137;129;54;15;11,35;4,75;1,32
+18CH;2;Melanchthon Chr. SGM voor gymnasium atheneum havo vmbo, loc. Wilgenplaslaan;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;328;22;12;0;6,71;3,66;0
+18CH;3;Melanchthon Chr. SGM voor gymnasium atheneum havo vmbo, loc. Mavo Schiebroek;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;319;11;11;31;3,45;3,45;9,72
+18CH;4;Melanchthon Chr. SGM voor gymnasium atheneum havo vmbo, loc. Business School;BLEISWIJK;1621;LANSINGERLAND;Zuid-Holland;438;5;8;13;1,14;1,83;2,97
+18CH;6;Melanchthon Chr. SGM voor gymnasium atheneum havo vmbo, loc. De Blesewic;BLEISWIJK;1621;LANSINGERLAND;Zuid-Holland;549;32;25;85;5,83;4,55;15,48
+18CH;7;Melanchthon Chr. SGM voor gymnasium atheneum havo vmbo, loc. Bergschenhoek;BERGSCHENHOEK;1621;LANSINGERLAND;Zuid-Holland;1.038;59;70;10;5,68;6,74;0,96
+18CH;9;Melanchthon Chr. SGM voor gymnasium atheneum havo vmbo, loc. Kralingen;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;179;4;5;4;2,23;2,79;2,23
+18CH;10;Melanchthon Chr. SGM voor gymnasium atheneum havo vmbo, loc. Mathenesse;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;376;10;2;8;2,66;0,53;2,13
+18CH;12;Melanchthon Chr. SGM voor gymnasium atheneum havo vmbo, loc. Berkroden;BERKEL EN RODENRIJS;1621;LANSINGERLAND;Zuid-Holland;569;0;35;16;0;6,15;2,81
+18CH;13;Melanchthon Chr. SGM voor gymnasium atheneum havo vmbo, loc. Business School;BLEISWIJK;1621;LANSINGERLAND;Zuid-Holland;146;0;0;0;0;0;0
+18CH;15;Melanchthon Chr. SGM voor gymnasium atheneum havo vmbo, loc. Kralingen;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;160;2;14;2;1,25;8,75;1,25
+18CR;0;PC/RK Scholengemeenschap De Grundel voor Lyceum Havo Mavo Vbo Lwoo;HENGELO OV;164;HENGELO;Overijssel;1.106;73;18;8;6,6;1,63;0,72
+18CR;1;PC/RK Scholengemeenschap De Grundel voor Lyceum Havo Mavo Vbo Lwoo;HENGELO OV;164;HENGELO;Overijssel;267;1;0;2;0,37;0;0,75
+18CR;2;PC/RK Scholengemeenschap De Grundel voor Lyceum Havo Mavo Vbo Lwoo;HENGELO OV;164;HENGELO;Overijssel;642;31;3;48;4,83;0,47;7,48
+18CR;5;PC/RK Scholengemeenschap De Grundel voor Lyceum Havo Mavo Vbo Lwoo;HENGELO OV;164;HENGELO;Overijssel;147;30;0;0;20,41;0;0
+18CR;8;PC/RK Scholengemeenschap De Grundel voor Lyceum Havo Mavo Vbo Lwoo;HENGELO OV;164;HENGELO;Overijssel;82;4;0;5;4,88;0;6,1
+18CV;0;Martinus College Christelijke Scholengemeenschap voor LYC HAVO MAVO VBO LWOO;GROOTEBROEK;532;STEDE BROEC;Noord-Holland;2.121;98;39;75;4,62;1,84;3,54
+18DD;0;Scholengemeenschap Philips van Horne voor LYC HAVO MAVO VBO LWOO;WEERT;988;WEERT;Limburg;1.692;53;54;65;3,13;3,19;3,84
+18DD;2;Scholengemeenschap Philips van Horne voor Lyc Havo Mavo Vbo Lwoo loc. Kwadrant;WEERT;988;WEERT;Limburg;495;8;1;12;1,62;0,2;2,42
+18DD;6;Scholengemeenschap Philips van Horne voor LYC HAVO MAVO VBO LWOO;BUDEL;1706;CRANENDONCK;Noord-Brabant;205;55;0;3;26,83;0;1,46
+18DE;0;DaCapo College Born;BORN;1883;SITTARD-GELEEN;Limburg;366;25;22;22;6,83;6,01;6,01
+18DO;0;Romboutscollege voor Atheneum Havo en Mavo;BRUNSSUM;899;BRUNSSUM;Limburg;627;41;22;22;6,54;3,51;3,51
+18DQ;0;Scholengemeenschap Lelystad voor Ath Havo Mavo Vbo Lwoo;LELYSTAD;995;LELYSTAD;Flevoland;1.581;99;35;50;6,26;2,21;3,16
+18GC;0;Scholengemeenschap De Rietlanden Ath Havo Mavo Vbo Lwoo;LELYSTAD;995;LELYSTAD;Flevoland;1.282;85;35;140;6,63;2,73;10,92
+18TR;0;Onderwijsgr. Zuid-Hollandse Waarden gymnasium, atheneum, havo, mavo, vmbo, lwoo;RIDDERKERK;597;RIDDERKERK;Zuid-Holland;912;45;6;28;4,93;0,66;3,07
+18TR;1;Onderwijsgroep Zuid-Hollandse Waarden locatie Gemini Lekkerkerk;LEKKERKERK;1931;KRIMPENERWAARD;Zuid-Holland;661;112;6;43;16,94;0,91;6,51
+18TR;2;Onderwijsgroep Zuid-Hollandse Waarden locatie Walburg Zwijndrecht;ZWIJNDRECHT;642;ZWIJNDRECHT;Zuid-Holland;1.141;65;35;34;5,7;3,07;2,98
+18TR;3;Onderwijsgroep Zuid-Hollandse Waarden locatie LOC@ Walburg;ZWIJNDRECHT;642;ZWIJNDRECHT;Zuid-Holland;370;16;15;30;4,32;4,05;8,11
+18TR;7;Onderwijsgroep Zuid-Hollandse Waarden locatie Dalton Barendrecht;BARENDRECHT;489;BARENDRECHT;Zuid-Holland;1.580;66;87;37;4,18;5,51;2,34
+18TR;11;Onderwijsgroep Zuid-Hollandse Waarden locatie  Focus;BARENDRECHT;489;BARENDRECHT;Zuid-Holland;240;7;0;1;2,92;0;0,42
+18WS;0;Anna Van Ryn College Opbare Scholengemeenschap voor Ath Havo Mavo Vbo;NIEUWEGEIN;356;NIEUWEGEIN;Utrecht;946;63;20;31;6,66;2,11;3,28
+18WS;1;Anna Van Ryn College Opbare Scholengemeenschap voor Ath Havo Mavo Vbo;NIEUWEGEIN;356;NIEUWEGEIN;Utrecht;484;14;2;7;2,89;0,41;1,45
+18WS;2;Anna van Ryn College Openbare Scholengemeenschap voor Ath Havo Mavo Vbo Lwoo;NIEUWEGEIN;356;NIEUWEGEIN;Utrecht;153;3;0;0;1,96;0;0
+18XR;0;Rythovius College Scholengemeenschap voor Lyc Havo Mavo;EERSEL;770;EERSEL;Noord-Brabant;1.341;62;64;55;4,62;4,77;4,1
+18XU;0;Beatrix College voor Mavo, Havo, Atheneum;TILBURG;855;TILBURG;Noord-Brabant;2.622;144;81;144;5,49;3,09;5,49
+18XU;1;Beatrix College voor Mavo, Havo, Atheneum locatie Reeshof College;TILBURG;855;TILBURG;Noord-Brabant;422;13;15;6;3,08;3,55;1,42
+18XX;0;Berechja College voor MAVO HAVO VBO;URK;184;URK;Flevoland;366;15;16;6;4,1;4,37;1,64
+19DH;0;Openbare Scholengemeenschap De Ring voor Putten voor Ath Havo Mavo;SPIJKENISSE;1930;NISSEWAARD;Zuid-Holland;1.502;126;46;118;8,39;3,06;7,86
+19EN;0;Jan Tinbergen College Openbare Scholengemeenschap voor Ath Havo Mavo;ROOSENDAAL;1674;ROOSENDAAL;Noord-Brabant;1.263;88;63;108;6,97;4,99;8,55
+19EN;2;Jan Tinbergen College Openbare Scholengemeenschap voor Ath Havo Mavo;ROOSENDAAL;1674;ROOSENDAAL;Noord-Brabant;296;20;0;14;6,76;0;4,73
+19EO;0;"VMBO ""De Jutter"" Vlieland";VLIELAND;96;VLIELAND;Friesland;35;1;0;4;2,86;0;11,43
+19EQ;0;Hartenlustsch voor Mavo;BLOEMENDAAL;377;BLOEMENDAAL;Noord-Holland;381;23;1;22;6,04;0,26;5,77
+19ET;0;Gemeentelijke Scholengemeenschap t Schylger Jouw voor vmbo;MIDSLAND;93;TERSCHELLING;Friesland;134;2;1;12;1,49;0,75;8,96
+19EW;0;Openbare Regionale Scholengemeenschap Lek en Linge voor atheneum havo vmbo lwoo;CULEMBORG;216;CULEMBORG;Gelderland;961;32;13;0;3,33;1,35;0
+19EW;1;Openbare Regionale Schoolgemeenschap Lek en Linge voor vwo havo vmbo lwoo;CULEMBORG;216;CULEMBORG;Gelderland;565;15;16;15;2,65;2,83;2,65
+19EW;3;Openbare Regionale Schoolgemeenschap Lek en Linge voor vwo havo vmbo lwoo;CULEMBORG;216;CULEMBORG;Gelderland;698;45;12;28;6,45;1,72;4,01
+19EW;4;Openbare Regionale Schoolgemeenschap Lek en Linge voor vwo havo vmbo lwoo;CULEMBORG;216;CULEMBORG;Gelderland;518;3;9;25;0,58;1,74;4,83
+19EW;5;O.R.S. Lek en Linge vestiging de Lingeborgh voor vwo havo vmbo lwoo;GELDERMALSEN;236;GELDERMALSEN;Gelderland;1.279;36;15;79;2,81;1,17;6,18
+19FF;0;De Waerdenborch Scholengemeenschap voor Atheneum Havo Mavo Vbo;HOLTEN;1742;RIJSSEN-HOLTEN;Overijssel;1.866;90;86;48;4,82;4,61;2,57
+19FF;4;De Waerdenborch Scholengemeenschap voor Ath Havo Mavo Vbo (Disl);GOOR;1735;HOF VAN TWENTE;Overijssel;401;10;33;17;2,49;8,23;4,24
+19GY;0;Comenius College Chr. SGM voor vwo havo vmbo lwoo;CAPELLE AAN DEN IJSSEL;502;CAPELLE AAN DEN IJSSEL;Zuid-Holland;1.875;126;62;54;6,72;3,31;2,88
+19GY;4;Comenius College Chr. SGM voor vwo havo vmbo lwoo, loc. Krimpen;KRIMPEN AAN DEN IJSSEL;542;KRIMPEN AAN DEN IJSSEL;Zuid-Holland;238;13;14;10;5,46;5,88;4,2
+19GY;5;Comenius College Chr. SGM voor vwo havo vmbo lwoo, loc. Rotterdam;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;307;10;25;12;3,26;8,14;3,91
+19GY;6;Comenius College Chr. SGM voor vwo havo vmbo lwoo, loc. Nieuwerkerk;NIEUWERKERK AD IJSSEL;1892;ZUIDPLAS;Zuid-Holland;452;19;28;34;4,2;6,19;7,52
+19HG;2;Sg. Carmel Hengelo voor ATH HAVO MAVO VBO loc. Het Twickel College Borne;BORNE;147;BORNE;Overijssel;209;0;0;18;0;0;8,61
+19HG;4;Sg. Carmel Hengelo voor ATH HAVO MAVO VBO loc. Het Twickel College Delden;DELDEN;1735;HOF VAN TWENTE;Overijssel;374;1;6;18;0,27;1,6;4,81
+19HG;7;Sg. Carmel Hengelo voor ATH HAVO MAVO VBO loc. Het Twickel College Hengelo;HENGELO OV;164;HENGELO;Overijssel;980;81;40;5;8,27;4,08;0,51
+19HG;8;Sg. Carmel Hengelo voor ATH HAVO MAVO VBO loc. VMBO De Spindel Eaton;HENGELO OV;164;HENGELO;Overijssel;162;3;6;0;1,85;3,7;0
+19HG;9;Sg. Carmel Hengelo voor ATH HAVO MAVO VBO loc. VMBO De Spindel Bataafse Kamp;HENGELO OV;164;HENGELO;Overijssel;115;3;1;4;2,61;0,87;3,48
+19HG;10;Sg. Carmel Hengelo voor ATH HAVO MAVO VBO loc. VMBO De Spindel Paul Krugerstraat;HENGELO OV;164;HENGELO;Overijssel;123;0;0;0;0;0;0
+19HR;0;Blariacumcollege Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;VENLO;983;VENLO;Limburg;1.777;68;18;122;3,83;1,01;6,87
+19HV;0;Ath vh Bernardinuscol;HEERLEN;917;HEERLEN;Limburg;571;67;33;0;11,73;5,78;0
+19HY;0;Burg Walda Scholengemeenschap voor VMBO;NES AMELAND;60;AMELAND;Friesland;161;0;0;18;0;0;11,18
+19IP;0;Rembrandt College Openbare Scholengemeenschap voor Mavo Havo Ath;VEENENDAAL;345;VEENENDAAL;Utrecht;1.004;57;38;19;5,68;3,78;1,89
+19IP;1;Rembrandt College Openbare Scholengemeenschap voor Mavo Havo Ath;RHENEN;340;RHENEN;Utrecht;263;20;0;19;7,6;0;7,22
+19IW;0;Regionale Scholengemeenschap Wolfsbos;HOOGEVEEN;118;HOOGEVEEN;Drenthe;1.204;105;11;140;8,72;0,91;11,63
+19IW;4;Regionale Schiolengemeenschap Wolfsbos;HOOGEVEEN;118;HOOGEVEEN;Drenthe;452;5;6;3;1,11;1,33;0,66
+19IW;5;Regionale Scholengemeenschap Wolfsbos;HOOGEVEEN;118;HOOGEVEEN;Drenthe;150;31;1;2;20,67;0,67;1,33
+19KM;0;Mavo Schravenlant XL voor mavo en vmbo;SCHIEDAM;606;SCHIEDAM;Zuid-Holland;507;31;1;21;6,11;0,2;4,14
+19KZ;0;Pallas Athene College Openbare Scholengemeenschap voor Vwo Havo Mavo Vbo;EDE GLD;228;EDE;Gelderland;1.123;71;11;158;6,32;0,98;14,07
+19LO;0;Linde College voor Atheneum Havo Mavo Vbo en Lwoo;WOLVEGA;98;WESTSTELLINGWERF;Friesland;1.341;64;60;40;4,77;4,47;2,98
+19PV;0;Graaf Huyn College voor LYC HAVO MAVO VBO LWOO;GELEEN;1883;SITTARD-GELEEN;Limburg;2.032;140;44;35;6,89;2,17;1,72
+19QA;0;Koningin Wilhelmina College voor Lyc Havo Mavo Vbo Pro en Lwoo;CULEMBORG;216;CULEMBORG;Gelderland;1.313;49;49;40;3,73;3,73;3,05
+19QA;4;Koningin Wilhelmina College voor Lyc Havo Mavo Vbo Pro en Lwoo;CULEMBORG;216;CULEMBORG;Gelderland;264;2;3;16;0,76;1,14;6,06
+19QC;0;School voor Havo Mavo V H Bernardinuscollege;HEERLEN;917;HEERLEN;Limburg;642;50;15;35;7,79;2,34;5,45
+19RX;0;Merletcollege Lyc Havo Mavo Vbo Lwoo;CUIJK;1684;CUIJK;Noord-Brabant;903;54;30;44;5,98;3,32;4,87
+19RX;1;Merletcollege Lyc Havo Mavo Vbo Lwoo;GRAVE;786;GRAVE;Noord-Brabant;701;33;10;53;4,71;1,43;7,56
+19RX;2;Merletcollege Lyc Havo Mavo Vbo Lwoo;MILL;815;MILL EN SINT HUBERT;Noord-Brabant;440;5;7;74;1,14;1,59;16,82
+19RX;3;Merletcollege Lyc Havo Mavo Vbo Lwoo;CUIJK;1684;CUIJK;Noord-Brabant;119;1;3;5;0,84;2,52;4,2
+19TI;0;Solyvius College SGM voor Lyc Havo Mavo Vbo Lwoo;HOOFDDORP;394;HAARLEMMERMEER;Noord-Holland;1.242;40;5;172;3,22;0,4;13,85
+19TI;3;Solyvius College- locatie Hoofdvaart College;HOOFDDORP;394;HAARLEMMERMEER;Noord-Holland;721;39;10;37;5,41;1,39;5,13
+19TI;5;Solyvius Coll loc Haarlemmermeer- Lyceum Zuidrand;HOOFDDORP;394;HAARLEMMERMEER;Noord-Holland;918;73;24;12;7,95;2,61;1,31
+19XH;0;Het Hooghuis;OSS;828;OSS;Noord-Brabant;1.514;69;60;15;4,56;3,96;0,99
+19XH;1;Het Hooghuis Locatie Stadion;OSS;828;OSS;Noord-Brabant;909;25;40;20;2,75;4,4;2,2
+19XH;2;Hooghuis Lyceum;RAVENSTEIN;828;OSS;Noord-Brabant;115;5;3;0;4,35;2,61;0
+19XH;3;Hooghuis Lyceum;HEESCH;1721;BERNHEZE;Noord-Brabant;521;19;6;12;3,65;1,15;2,3
+19XH;4;Hooghuis Lyceum;OSS;828;OSS;Noord-Brabant;804;19;17;21;2,36;2,11;2,61
+19XH;5;Hooghuis Lyceum;OSS;828;OSS;Noord-Brabant;388;3;16;16;0,77;4,12;4,12
+19XH;7;Hooghuis Lyceum voor Lyceum Havo Mavo Vbo Lwoo;OSS;828;OSS;Noord-Brabant;198;11;14;14;5,56;7,07;7,07
+19XH;9;Het Hooghuis-locatie Mondriaan College;OSS;828;OSS;Noord-Brabant;838;47;18;53;5,61;2,15;6,32
+19XS;0;Sintermeertencollege Scholengemeenschap voor Lyceum Havo Mavo;HEERLEN;917;HEERLEN;Limburg;1.372;99;48;189;7,22;3,5;13,78
+19XV;0;Prisma VO;BREDA;758;BREDA;Noord-Brabant;865;27;4;2;3,12;0,46;0,23
+19XV;1;Prisma VO, vestiging Graaf Engelbrecht ath havo mavo;BREDA;758;BREDA;Noord-Brabant;758;77;25;97;10,16;3,3;12,8
+19XV;2;Prisma VO, vestiging De Rotonde vmbo;BREDA;758;BREDA;Noord-Brabant;393;74;0;2;18,83;0;0,51
+19XY;0;Amstelveen College Opb Ssm voor Gymnasium Havo en Mavo;AMSTELVEEN;362;AMSTELVEEN;Noord-Holland;1.669;114;17;80;6,83;1,02;4,79
+19ZP;0;Maris College voor Mavo Vmbo Lwoo;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;650;15;1;10;2,31;0,15;1,54
+19ZP;3;Maris College voor Mavo Vmbo Lwoo - locatie Kijkduin;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;239;1;2;22;0,42;0,84;9,21
+19ZP;4;Maris College voor Mavo Vmbo Lwoo - locatie Statenkwartier;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;234;16;9;2;6,84;3,85;0,85
+19ZP;5;Maris College voor Mavo Vmbo Lwoo - locatie Houtrust;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;419;32;1;34;7,64;0,24;8,11
+19ZP;6;Maris College voor Mavo Vmbo Lwoo;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;121;11;0;4;9,09;0;3,31
+19ZQ;0;Stedelijk Dalton College Alkmaar voor vwo havo mavo en vbo;ALKMAAR;361;ALKMAAR;Noord-Holland;1.104;62;18;45;5,62;1,63;4,08
+19ZQ;2;Stedelijk Dalton College Alkmaar voor vwo havo mavo en vbo,vest. Van der Meij;ALKMAAR;361;ALKMAAR;Noord-Holland;172;4;1;9;2,33;0,58;5,23
+19ZU;0;Gemeentelijk Gymnasium Camphusianum;GORINCHEM;512;GORINCHEM;Zuid-Holland;742;41;7;0;5,53;0,94;0
+19ZX;0;Huygens College Heerhugowaard voor vwo havo mavo en vbo;HEERHUGOWAARD;398;HEERHUGOWAARD;Noord-Holland;864;64;24;64;7,41;2,78;7,41
+19ZX;1;Huygens College Heerhugowaard voor vwo havo mavo en vbo;HEERHUGOWAARD;398;HEERHUGOWAARD;Noord-Holland;297;8;0;6;2,69;0;2,02
+20AA;0;Murmellius Gymnasium;ALKMAAR;361;ALKMAAR;Noord-Holland;875;50;7;0;5,71;0,8;0
+20AB;0;Grotius College voor Lyceum Havo Mavo Vbo Lwoo;DELFT;503;DELFT;Zuid-Holland;884;116;134;91;13,12;15,16;10,29
+20AB;6;Grotius College voor Lyceum Havo Mavo Vbo Lwoo;DELFT;503;DELFT;Zuid-Holland;309;38;4;4;12,3;1,29;1,29
+20AD;0;Rietveld Lyceum Scholengemeenschap voor Gymn Ath Havo Mavo;DOETINCHEM;222;DOETINCHEM;Gelderland;1.186;77;45;26;6,49;3,79;2,19
+20AE;0;Willem De Zwijger College voor Gym, Ath, Havo, en Vmbo;PAPENDRECHT;590;PAPENDRECHT;Zuid-Holland;1.246;78;39;133;6,26;3,13;10,67
+20AE;1;Willem De Zwijger College voor Ath Havo en Vmbo;HARDINXVELD-GIESSENDAM;523;HARDINXVELD-GIESSENDAM;Zuid-Holland;217;5;9;48;2,3;4,15;22,12
+20AI;0;Coornhert Gymnasium;GOUDA;513;GOUDA;Zuid-Holland;735;44;5;0;5,99;0,68;0
+20AJ;0;Stedelijk Gymnasium;'S-HERTOGENBOSCH;796;S HERTOGENBOSCH;Noord-Brabant;798;107;1;0;13,41;0,13;0
+20AM;0;Farelcollege Christelijke Scholengemeenschap voor atheneum havo mavo vmbo;RIDDERKERK;597;RIDDERKERK;Zuid-Holland;1.679;88;87;75;5,24;5,18;4,47
+20AT;0;Scholengroep Het Plein voor Ath Gym Havo Mavo Vbo Pro en Lwoo;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;1.496;81;42;236;5,41;2,81;15,78
+20AT;1;Scholengroep Het Plein voor Ath Gym Havo Mavo Vbo Pro en Lwoo;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;347;18;10;10;5,19;2,88;2,88
+20AT;3;Scholengroep Het Plein voor Ath Gym Havo Mavo Vbo Pro en Lwoo;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;261;5;5;3;1,92;1,92;1,15
+20AT;4;Scholengroep Het Plein voor Ath Gym Havo Mavo Vbo Pro en Lwoo;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;218;6;25;15;2,75;11,47;6,88
+20AT;7;Scholengroep Het Plein voor Ath Gym Havo Mavo Vbo Pro en Lwoo;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;131;9;4;0;6,87;3,05;0
+20BC;0;Oranje Nassau College Scholengemeenschap Ath Havo Mavo Vbo Lwoo;ZOETERMEER;637;ZOETERMEER;Zuid-Holland;1.109;65;29;59;5,86;2,61;5,32
+20BC;1;Oranje Nassau College Scholengemeenschap Ath Havo Mavo Vbo Lwoo;ZOETERMEER;637;ZOETERMEER;Zuid-Holland;913;55;4;9;6,02;0,44;0,99
+20BH;0;IJsselcollege(VWO,HAVO,MAVO,VMBO,PRO);CAPELLE AAN DEN IJSSEL;502;CAPELLE AAN DEN IJSSEL;Zuid-Holland;486;30;7;23;6,17;1,44;4,73
+20BH;1;IJsselcollege voor Atheneum Havo Mavo Vbo Lwoo;CAPELLE AAN DEN IJSSEL;502;CAPELLE AAN DEN IJSSEL;Zuid-Holland;448;12;4;7;2,68;0,89;1,56
+20BK;0;Openbaar Stedelijk College Eindhoven voor Atheneum Havo Mavo Vbo Lwoo;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;1.562;122;44;50;7,81;2,82;3,2
+20BK;1;Openbaar Stedelijk College Eindhoven voor Atheneum Havo Mavo Vbo Lwoo;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;961;111;22;126;11,55;2,29;13,11
+20BK;3;Openbaar Stedelijk College Eindhoven voor Atheneum Havo Mavo Vbo Lwoo;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;321;7;0;35;2,18;0;10,9
+20BQ;0;Mill-Hillcollege;GOIRLE;785;GOIRLE;Noord-Brabant;1.572;92;27;34;5,85;1,72;2,16
+20BV;0;Praedinius Gymnasium;GRONINGEN;14;GRONINGEN;Groningen;949;84;16;0;8,85;1,69;0
+20CF;0;Gymnasium Celeanum;ZWOLLE;193;ZWOLLE;Overijssel;544;33;4;0;6,07;0,74;0
+20CF;1;Gymnasium Celeanum;ZWOLLE;193;ZWOLLE;Overijssel;285;8;0;0;2,81;0;0
+20CI;0;Stedelijk Gymnasium Nijmegen;NIJMEGEN;268;NIJMEGEN;Gelderland;1.329;55;11;0;4,14;0,83;0
+20CJ;0;Het College Vos;VLAARDINGEN;622;VLAARDINGEN;Zuid-Holland;578;39;55;56;6,75;9,52;9,69
+20CJ;4;Vlaardingse Openbare Scholengemeenschap voor LYC HAVO MAVO VBO LWOO;VLAARDINGEN;622;VLAARDINGEN;Zuid-Holland;399;29;7;16;7,27;1,75;4,01
+20CJ;10;Het College Vos;SCHIEDAM;606;SCHIEDAM;Zuid-Holland;254;120;0;50;47,24;0;19,69
+20CJ;11;Het College Vos;VLAARDINGEN;622;VLAARDINGEN;Zuid-Holland;359;14;7;26;3,9;1,95;7,24
+20CK;0;Joh van Oldenbarnevelt Gymnasium;AMERSFOORT;307;AMERSFOORT;Utrecht;912;38;4;0;4,17;0,44;0
+20CL;0;Leonardo College voor Atheneum Havo Mavo;LEIDEN;546;LEIDEN;Zuid-Holland;774;74;38;42;9,56;4,91;5,43
+20CM;0;Dollard College voor Lyc Havo Mavo Vbo Lwoo;WINSCHOTEN;1895;OLDAMBT;Groningen;1.157;114;74;20;9,85;6,4;1,73
+20CM;1;Dollard College voor Lyc Havo Mavo Vbo Lwoo;OUDE PEKELA;765;PEKELA;Groningen;300;17;27;18;5,67;9;6
+20CM;3;Dollard College voor Lyc Havo Mavo Vbo Lwoo;BELLINGWOLDE;7;BELLINGWEDDE;Groningen;185;10;16;14;5,41;8,65;7,57
+20CM;7;Dollard College voor Lyc Havo Mavo Vbo Lwoo;WOLDENDORP;10;DELFZIJL;Groningen;355;12;42;12;3,38;11,83;3,38
+20CM;8;Dollard College voor Lyc Havo Mavo Vbo Lwoo;WINSCHOTEN;1895;OLDAMBT;Groningen;381;17;36;14;4,46;9,45;3,67
+20CM;9;Dollard College voor Lyc Havo Mavo Vbo Lwoo;WINSCHOTEN;1895;OLDAMBT;Groningen;311;18;1;2;5,79;0,32;0,64
+20CM;10;Dollard College voor Lyc Havo Mavo Vbo Lwoo;WINSCHOTEN;1895;OLDAMBT;Groningen;1;1;0;0;100;0;0
+20CM;13;Dollard College voor Lyc Havo Mavo Vbo Lwoo;WINSCHOTEN;1895;OLDAMBT;Groningen;104;29;0;3;27,88;0;2,88
+20CN;0;Scholengroep Zaandam;ZAANDAM;479;ZAANSTAD;Noord-Holland;1.252;103;47;7;8,23;3,75;0,56
+20CN;2;Scholengroep Zaandam - locatie Compaen VMBO;ZAANDAM;479;ZAANSTAD;Noord-Holland;872;17;1;40;1,95;0,11;4,59
+20CP;0;NEHALENNIA Stedelijke Scholengemeenschap voor LYC HAVO MAVO VBO LWOO;MIDDELBURG;687;MIDDELBURG;Zeeland;1.137;62;25;28;5,45;2,2;2,46
+20CP;4;NEHALENNIA Stedelijke Scholengemeenschap voor LYC HAVO MAVO VBO LWOO;MIDDELBURG;687;MIDDELBURG;Zeeland;1.417;71;92;41;5,01;6,49;2,89
+20CQ;0;Atlas Onderwijsgroep voor gymnasium, atheneum, havo, vmbo;RIJSWIJK ZH;603;RIJSWIJK;Zuid-Holland;1.479;120;58;58;8,11;3,92;3,92
+20CQ;1;Atlas Onderwijsgroep voor gymnasium, atheneum, havo, vmbo;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;1.414;125;59;54;8,84;4,17;3,82
+20CR;0;Openbare School voor voortgezet onderwijs Zuyderzee Lyceum;EMMELOORD;171;NOORDOOSTPOLDER;Flevoland;694;65;15;26;9,37;2,16;3,75
+20CR;1;Openbare School voor voortgezet onderwijs Zuyderzee Lyceum;EMMELOORD;171;NOORDOOSTPOLDER;Flevoland;136;7;6;3;5,15;4,41;2,21
+20CR;3;Openbare School voor voortgezet onderwijs Zuyderzee Lyceum;LEMMER;1940;DE FRYSKE MARREN;Friesland;407;4;24;18;0,98;5,9;4,42
+20CR;5;Openbare School voor voortgezet onderwijs Zuyderzee Lyceum;EMMELOORD;171;NOORDOOSTPOLDER;Flevoland;350;16;25;5;4,57;7,14;1,43
+20CR;6;Openbare School voor voortgezet onderwijs Zuyderzee Lyceum;EMMELOORD;171;NOORDOOSTPOLDER;Flevoland;165;75;0;3;45,45;0;1,82
+20CS;0;OSG Hengelo voor LYC HAVO MAVO VBO LWOO;HENGELO OV;164;HENGELO;Overijssel;906;40;46;2;4,42;5,08;0,22
+20CS;4;OSG Hengelo voor LYC HAVO MAVO VBO LWOO;HENGELO OV;164;HENGELO;Overijssel;318;22;13;18;6,92;4,09;5,66
+20CS;7;OSG Hengelo voor LYC HAVO MAVO VBO LWOO;HENGELO OV;164;HENGELO;Overijssel;1.528;56;70;64;3,66;4,58;4,19
+20DB;0;Thorbecke Scholengemeenschap voor Ath Havo Mavo Vbo Lwoo;ZWOLLE;193;ZWOLLE;Overijssel;1.811;44;74;113;2,43;4,09;6,24
+20DB;3;Thorbecke Scholengemeenschap voor Ath Havo Mavo Vbo Lwoo;ZWOLLE;193;ZWOLLE;Overijssel;732;11;9;43;1,5;1,23;5,87
+20DC;0;Stedelyk Gymnasium;SCHIEDAM;606;SCHIEDAM;Zuid-Holland;639;56;28;0;8,76;4,38;0
+20DD;0;Gemeentelijk Gymnasium;HILVERSUM;402;HILVERSUM;Noord-Holland;827;179;2;0;21,64;0,24;0
+20DD;2;Gemeentelijk Gymnasium;HILVERSUM;402;HILVERSUM;Noord-Holland;185;3;1;0;1,62;0,54;0
+20DF;0;Da Vinci College Openbare Scholengemeenschap voor ATH HAVO MAVO VBO LWOO;LEIDEN;546;LEIDEN;Zuid-Holland;1.053;62;52;43;5,89;4,94;4,08
+20DF;1;Da Vinci College Openbare Scholengemeenschap voor ATH HAVO MAVO VBO LWOO;LEIDEN;546;LEIDEN;Zuid-Holland;1.104;96;8;77;8,7;0,72;6,97
+20DG;0;Gymnasium Felisenum;VELSEN-ZUID;453;VELSEN;Noord-Holland;661;50;9;0;7,56;1,36;0
+20DH;0;Het Stedelijk, scholengroep voor openbaar Lyceum Havo Mavo Vbo Lwoo;ZUTPHEN;301;ZUTPHEN;Gelderland;725;37;22;41;5,1;3,03;5,66
+20DH;6;Het Stedelijk, scholengroep voor openbaar Lyceum Havo Mavo Vbo Lwoo;ZUTPHEN;301;ZUTPHEN;Gelderland;262;9;1;1;3,44;0,38;0,38
+20DH;8;Het Stedelijk, scholengroep voor openbaar Lyceum Havo Mavo Vbo Lwoo;ZUTPHEN;301;ZUTPHEN;Gelderland;63;1;0;2;1,59;0;3,17
+20DL;0;Openbare Scholengemeenschap Piter Jelles voor Lyceum Havo Mavo Vbo Lwoo;LEEUWARDEN;80;LEEUWARDEN;Friesland;1.005;133;48;5;13,23;4,78;0,5
+20DL;1;Openbare Scholengemeenschap Piter Jelles voor Lyceum Havo Mavo Vbo Lwoo;KOLLUM;79;KOLLUMERLAND CA;Friesland;135;2;1;14;1,48;0,74;10,37
+20DL;2;Openbare Scholengemeenschap Piter Jelles voor Lyceum Havo Mavo Vbo Lwoo;LEEUWARDEN;80;LEEUWARDEN;Friesland;588;42;11;0;7,14;1,87;0
+20DL;3;Openbare Scholengemeenschap Piter Jelles voor Lyceum Havo Mavo Vbo Lwoo;LEEUWARDEN;80;LEEUWARDEN;Friesland;516;6;24;13;1,16;4,65;2,52
+20DL;4;Openbare Scholengemeenschap Piter Jelles voor Lyceum Havo Mavo Vbo Lwoo;LEEUWARDEN;80;LEEUWARDEN;Friesland;529;15;0;38;2,84;0;7,18
+20DL;6;Openbare Scholengemeenschap Piter Jelles voor Lyceum Havo Mavo Vbo Lwoo;LEEUWARDEN;80;LEEUWARDEN;Friesland;320;22;12;7;6,88;3,75;2,19
+20DL;10;Openbare Scholengemeenschap Piter Jelles voor Lyceum Havo Mavo Vbo Lwoo;LEEUWARDEN;80;LEEUWARDEN;Friesland;312;26;4;38;8,33;1,28;12,18
+20DL;11;Openbare Scholengemeenschap Piter Jelles voor Lyceum Havo Mavo Vbo Lwoo;ST.-ANNAPAROCHIE;63;HET BILDT;Friesland;195;47;3;3;24,1;1,54;1,54
+20DL;12;Openbare Scholengemeenschap Piter Jelles voor Lyceum Havo Mavo Vbo Lwoo;DOKKUM;58;DONGERADEEL;Friesland;223;7;1;21;3,14;0,45;9,42
+20DL;13;Openbare Scholengemeenschap Piter Jelles voor Lyceum Havo Mavo Vbo Lwoo;LEEUWARDEN;80;LEEUWARDEN;Friesland;11;6;0;0;54,55;0;0
+20DL;16;Openbare Scholengemeenschap Piter Jelles voor Lyceum Havo Mavo Vbo Lwoo;LEEUWARDEN;80;LEEUWARDEN;Friesland;162;85;0;6;52,47;0;3,7
+20DP;0;Stedelijk Gymnasium;LEIDEN;546;LEIDEN;Zuid-Holland;1.130;30;6;0;2,65;0,53;0
+20EA;0;Openbaar lyceum De Amersfoortse Berg;AMERSFOORT;307;AMERSFOORT;Utrecht;1.327;72;38;232;5,43;2,86;17,48
+20EI;0;Vallei College voor Ath Havo Mavo Vbo Lwoo;AMERSFOORT;307;AMERSFOORT;Utrecht;1.055;52;28;37;4,93;2,65;3,51
+20EI;1;Vallei College voor Ath Havo Mavo Vbo Lwoo locatie VMBO Trivium College;AMERSFOORT;307;AMERSFOORT;Utrecht;353;72;1;1;20,4;0,28;0,28
+20EI;2;Vallei College voor Ath Havo Mavo Vbo Lwoo locatie MAVO Trivium College;AMERSFOORT;307;AMERSFOORT;Utrecht;97;37;6;1;38,14;6,19;1,03
+20EI;3;Vallei College voor Ath Havo Mavo Vbo Lwoo;AMERSFOORT;307;AMERSFOORT;Utrecht;963;76;1;172;7,89;0,1;17,86
+20EK;0;Openbare Scholengemeenschap Vellesan College Ath Havo Mavo Vbo Lwoo;IJMUIDEN;453;VELSEN;Noord-Holland;1.229;114;23;24;9,28;1,87;1,95
+20EK;4;Vellesan College loc Duin- en Kruidbergmavo;DRIEHUIS NH;453;VELSEN;Noord-Holland;283;9;4;22;3,18;1,41;7,77
+20EM;0;H. N. Werkman College voor Ath Havo en Mavo;GRONINGEN;14;GRONINGEN;Groningen;1.388;74;49;51;5,33;3,53;3,67
+20EM;1;H N Werkman College voor Ath Havo En Mavo;GRONINGEN;14;GRONINGEN;Groningen;13;3;0;0;23,08;0;0
+20EM;3;H N Werkman College voor Ath Havo En Mavo;GRONINGEN;14;GRONINGEN;Groningen;456;91;18;29;19,96;3,95;6,36
+20EM;4;H N Werkman College voor Ath Havo En Mavo;GRONINGEN;14;GRONINGEN;Groningen;615;26;10;35;4,23;1,63;5,69
+20EO;0;Stedelijke Scholengemeenschap Nijmegen;NIJMEGEN;268;NIJMEGEN;Gelderland;1.382;118;15;184;8,54;1,09;13,31
+20ER;0;Zernike College voor ATHENEUM HAVO MAVO VBO;GRONINGEN;14;GRONINGEN;Groningen;700;30;6;171;4,29;0,86;24,43
+20ER;1;Zernike College voor Ath Havo Mavo Vbo;ZUIDLAREN;1730;TYNAARLO;Drenthe;442;15;26;63;3,39;5,88;14,25
+20ER;4;Zernike College voor Ath Havo Mavo Vbo;HAREN GN;17;HAREN;Groningen;1.302;196;17;15;15,05;1,31;1,15
+20ER;5;Zernike College voor Atheum Havo Mavo Vbo;HAREN GN;17;HAREN;Groningen;464;16;13;120;3,45;2,8;25,86
+20ER;8;Zernike College voor ATHENEUM HAVO MAVO VBO;GRONINGEN;14;GRONINGEN;Groningen;251;10;6;8;3,98;2,39;3,19
+20ER;9;Zernike College voor ATHENEUM HAVO MAVO VBO;GRONINGEN;14;GRONINGEN;Groningen;388;38;4;18;9,79;1,03;4,64
+20EY;0;Scholengroep Krommenie;KROMMENIE;479;ZAANSTAD;Noord-Holland;1.132;55;85;17;4,86;7,51;1,5
+20EY;7;Scholengroep Krommenie - locatie Trias VMBO;KROMMENIE;479;ZAANSTAD;Noord-Holland;1.825;50;7;58;2,74;0,38;3,18
+20FC;0;Saenredam College voor MAVO VBO LWOO;ZAANDIJK;479;ZAANSTAD;Noord-Holland;855;33;4;36;3,86;0,47;4,21
+20FR;0;PENTA college Chr. SGM voor gymnasium atheneum havo mavo vmbo lwoo;SPIJKENISSE;1930;NISSEWAARD;Zuid-Holland;831;66;52;6;7,94;6,26;0,72
+20FR;2;PENTA college Chr. SGM voor gym ath havo mavo vmbo lwoo, loc. Scala Rietvelden;SPIJKENISSE;1930;NISSEWAARD;Zuid-Holland;1.085;114;61;21;10,51;5,62;1,94
+20FR;3;PENTA college Chr. SGM voor gym ath havo mavo vmbo lwoo, loc. De Oude Maas;SPIJKENISSE;1930;NISSEWAARD;Zuid-Holland;878;34;23;14;3,87;2,62;1,59
+20FR;4;PENTA college Chr. SGM voor gym ath havo mavo vmbo lwoo, loc. Hoogvliet;HOOGVLIET ROTTERDAM;599;ROTTERDAM;Zuid-Holland;443;8;31;7;1,81;7;1,58
+20FR;6;PENTA college Chr. SGM voor gym ath havo mavo vmbo lwoo, loc. J. van Liesveldt;HELLEVOETSLUIS;530;HELLEVOETSLUIS;Zuid-Holland;1.515;128;76;38;8,45;5,02;2,51
+20FR;7;PENTA college Chr. SGM voor gym ath havo mavo vmbo lwoo, loc. Godfried Richter;ROZENBURG ZH;599;ROTTERDAM;Zuid-Holland;180;2;17;9;1,11;9,44;5
+20FR;8;PENTA college Chr. SGM voor gym ath havo mavo vmbo lwoo, loc. Bah–rim;BRIELLE;501;BRIELLE;Zuid-Holland;309;3;8;30;0,97;2,59;9,71
+20GA;0;Van Maerlantlyceum;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;1.219;81;11;21;6,64;0,9;1,72
+20GD;0;Vakcollege Tilburg, katholieke scholengemeenschap voor vbo en mavo, lwoo;TILBURG;855;TILBURG;Noord-Brabant;227;11;6;4;4,85;2,64;1,76
+20GD;1;Vakcollege Tilburg kath sgm voor vbo en mavo, lwoo, vst. Frater van Gemertschool;TILBURG;855;TILBURG;Noord-Brabant;232;17;4;9;7,33;1,72;3,88
+20GS;0;Don Bosco College Atheneum Havo Vmbo Lwoo;VOLENDAM;385;EDAM-VOLENDAM;Noord-Holland;1.770;80;49;67;4,52;2,77;3,79
+20IB;0;Eckartcollege voor Lyc Havo Mavo Vbo Lwoo;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;1.712;85;28;238;4,96;1,64;13,9
+20IB;3;"Eckartcollege; Pleincollege Nuenen voor LYc Havo Mavo Vbo Lwoo";NUENEN;820;NUENEN CA;Noord-Brabant;692;11;5;8;1,59;0,72;1,16
+20IS;0;Stella Maris College voor Lyc Havo Mavo Vbo Lwoo;MEERSSEN;938;MEERSSEN;Limburg;1.372;114;47;56;8,31;3,43;4,08
+20IS;4;Stella Maris Coll Rk Sgm V Lyc Havo Mavo Vbo;VALKENBURG LB;994;VALKENBURG AAN DE GEUL;Limburg;535;5;32;26;0,93;5,98;4,86
+20IS;6;Stella Maris College voor Lyc Havo Mavo Vbo Lwoo;MAASTRICHT;935;MAASTRICHT;Limburg;7;0;0;2;0;0;28,57
+20JX;0;OMO Scholengroep Helmond;HELMOND;794;HELMOND;Noord-Brabant;441;20;7;8;4,54;1,59;1,81
+20JX;2;OMO Scholengroep Helmond;HELMOND;794;HELMOND;Noord-Brabant;1.296;58;41;61;4,48;3,16;4,71
+20JX;4;OMO Scholengroep Helmond;HELMOND;794;HELMOND;Noord-Brabant;1.714;78;44;82;4,55;2,57;4,78
+20JX;6;OMO Scholengroep Helmond;HELMOND;794;HELMOND;Noord-Brabant;215;10;6;30;4,65;2,79;13,95
+20KA;0;Scholengemeenschap Groenewald voor Vmbo Havo VWO;STEIN LB;971;STEIN;Limburg;1.466;66;24;170;4,5;1,64;11,6
+20KQ;0;Openbare Scholengemeenschap Apeldoorn;APELDOORN;200;APELDOORN;Gelderland;1.224;61;39;37;4,98;3,19;3,02
+20KQ;4;Openbare Scholengemeenschap Apeldoorn;APELDOORN;200;APELDOORN;Gelderland;821;35;9;36;4,26;1,1;4,38
+20KZ;0;Joh De Wittgymnasium;DORDRECHT;505;DORDRECHT;Zuid-Holland;813;50;12;0;6,15;1,48;0
+20LA;0;Openbare Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo Esdal College;EMMEN;114;EMMEN;Drenthe;1.056;84;58;22;7,95;5,49;2,08
+20LA;2;Openbare Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo Esdal College;KLAZIENAVEEN;114;EMMEN;Drenthe;476;10;4;10;2,1;0,84;2,1
+20LA;3;Openbare Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo Esdal College;EMMEN;114;EMMEN;Drenthe;530;22;0;36;4,15;0;6,79
+20LA;5;Openbare Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo Esdal College;EMMEN;114;EMMEN;Drenthe;364;19;4;1;5,22;1,1;0,27
+20LA;6;Openbare Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo Esdal College;OOSTERHESSELEN;109;COEVORDEN;Drenthe;214;20;0;8;9,35;0;3,74
+20LA;7;Openbare Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo Esdal College;BORGER;1681;BORGER-ODOORN;Drenthe;236;8;11;7;3,39;4,66;2,97
+20LA;15;Openbare Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo Esdal College;EMMEN;114;EMMEN;Drenthe;345;31;2;0;8,99;0,58;0
+20LL;0;Bouwens van der Boije College voor Lyceum Havo Mavo Lwoo Vbo;PANNINGEN;1894;PEEL EN MAAS;Limburg;1.473;71;23;110;4,82;1,56;7,47
+20LL;2;Bouwens van der Boije College voor Lyceum Havo Mavo Lwoo Vbo;PANNINGEN;1894;PEEL EN MAAS;Limburg;274;7;2;22;2,55;0,73;8,03
+20LO;0;Openbare Scholengemeenschap Dr Nassau College voor Vwo Havo Mavo Vbo Lwoo;ASSEN;106;ASSEN;Drenthe;1.597;120;36;148;7,51;2,25;9,27
+20LO;1;Openbare Scholengemeenschap Dr Nassau College voor Vwo Havo Mavo Vbo Lwoo;NORG;1699;NOORDENVELD;Drenthe;237;7;8;29;2,95;3,38;12,24
+20LO;2;Openbare Scholengemeenschap Dr Nassau College voor Vwo Havo Mavo Vbo Lwoo;BEILEN;1731;MIDDEN-DRENTHE;Drenthe;240;8;12;23;3,33;5;9,58
+20LO;3;Openbare Scholengemeenschap Dr Nassau College voor Vwo Havo Mavo Vbo Lwoo;GIETEN;1680;AA EN HUNZE;Drenthe;318;5;6;35;1,57;1,89;11,01
+20LO;4;Openbare Scholengemeenschap Dr Nassau College voor Vwo Havo Mavo Vbo Lwoo;ASSEN;106;ASSEN;Drenthe;865;33;11;20;3,82;1,27;2,31
+20LU;0;Gymnasium Haganum;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;762;30;3;0;3,94;0,39;0
+20MA;0;Scholengemeenschap het Segbroekcollege Vwo Havo Mavo;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;1.552;74;17;204;4,77;1,1;13,14
+20MA;1;Scholengemeenschap het Segbroekcollege Vwo Havo Mavo;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;787;17;4;143;2,16;0,51;18,17
+20MD;0;Maerlant Lyceum met Afdeling Havo;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;962;37;15;10;3,85;1,56;1,04
+20MF;0;Dalton Den Haag gymnasium atheneum havo;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;997;37;20;21;3,71;2,01;2,11
+20MH;0;Jac P Thijsse College voor Vwo Havo Mavo;CASTRICUM;383;CASTRICUM;Noord-Holland;2.143;64;28;357;2,99;1,31;16,66
+20MJ;0;Johan de Witt Scholengroep voor Vwo Havo Mavo Vmbo Pro Lwoo nieuwkomers;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;761;37;7;68;4,86;0,92;8,94
+20MJ;2;Johan de Witt Scholengr voor Vwo Havo Mavo Vmbo Pro Lwoo loc Maris Belgisch Park;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;457;38;12;26;8,32;2,63;5,69
+20MJ;4;Johan de Witt Scholengroep voor VwoHavo Mavo Vmbo Pro Lwoo Nieuwkomers;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;68;2;0;2;2,94;0;2,94
+20MJ;5;Johan de Witt Scholengroep voor Vwo Havo Mavo Vmbo Pro Lwoo Nieuwkomers;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;272;17;2;9;6,25;0,74;3,31
+20MJ;12;Johan de Witt Scholengroep voor Vwo Havo Mavo Vmbo Pro Lwoo nieuwkomers;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;290;27;0;32;9,31;0;11,03
+20MM;0;Stichting Scholengroep Den Haag Zuid-West;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;446;19;8;35;4,26;1,79;7,85
+20MM;1;Stichting Scholengroep Den Haag Zuid-West;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;1.011;77;57;32;7,62;5,64;3,17
+20MM;6;Stichting Scholengroep Den Haag Zuid-West;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;465;13;12;8;2,8;2,58;1,72
+20QU;0;Gymnasium Apeldoorn;APELDOORN;200;APELDOORN;Gelderland;649;28;6;0;4,31;0,92;0
+20QY;0;Stedelijk Gymnasium;HAARLEM;392;HAARLEM;Noord-Holland;831;31;1;0;3,73;0,12;0
+20RC;0;Gem Schoter Scholengemeenschap voor Atheneum Havo en Mavo;HAARLEM;392;HAARLEM;Noord-Holland;1.022;52;43;80;5,09;4,21;7,83
+20RF;0;Coornhertlyc Gem Scholengemeenschap Lyceum Havo Mavo;HAARLEM;392;HAARLEM;Noord-Holland;1.797;110;62;71;6,12;3,45;3,95
+20RM;0;Stedelijk Gymnasium Arnhem;ARNHEM;202;ARNHEM;Gelderland;1.116;44;5;0;3,94;0,45;0
+20ST;0;Sint-Janslyceum School voor Gymnasium Atheneum Havo en Mavo;'S-HERTOGENBOSCH;796;S HERTOGENBOSCH;Noord-Brabant;2.333;131;63;119;5,62;2,7;5,1
+20SY;0;Jeroen Bosch College Scholengemeenschap voor Vwo Havo en Mavo;'S-HERTOGENBOSCH;796;S HERTOGENBOSCH;Noord-Brabant;1.031;46;15;161;4,46;1,45;15,62
+20TZ;0;Lorentz Groep;ARNHEM;202;ARNHEM;Gelderland;1.060;86;46;40;8,11;4,34;3,77
+20TZ;4;Lorentz Groep;ELST GLD;1734;OVERBETUWE;Gelderland;313;10;4;5;3,19;1,28;1,6
+20TZ;7;Lorentz Groep vestiging Maarten van Rossem;ARNHEM;202;ARNHEM;Gelderland;547;48;5;2;8,78;0,91;0,37
+20TZ;11;Lorentz Groep;ELST GLD;1734;OVERBETUWE;Gelderland;629;31;10;31;4,93;1,59;4,93
+20WI;0;Maaslandcollege Scholengemeenschap voor Mavo Havo Vwo;OSS;828;OSS;Noord-Brabant;1.863;67;39;111;3,6;2,09;5,96
+20ZK;0;OMO sg Tongerlo voor LYC HAVO VMBO LWOO PRO;ROOSENDAAL;1674;ROOSENDAAL;Noord-Brabant;362;9;0;1;2,49;0;0,28
+20ZK;2;OMO SG Tongerlo voor LYC HAVO VMBO LWOO PRO;ROOSENDAAL;1674;ROOSENDAAL;Noord-Brabant;1.036;42;34;33;4,05;3,28;3,19
+20ZK;3;OMO Scholengemeenschap Tongerlo;ROOSENDAAL;1674;ROOSENDAAL;Noord-Brabant;190;6;5;1;3,16;2,63;0,53
+20ZK;4;OMO sg Tongerlo voor LYC HAVO MAVO VMBO LWOO PRO;ROOSENDAAL;1674;ROOSENDAAL;Noord-Brabant;1.217;78;26;6;6,41;2,14;0,49
+20ZK;11;OMO sg Tongerlo voor LYC HAVO VMBO LWOO PRO;ROOSENDAAL;1674;ROOSENDAAL;Noord-Brabant;344;21;7;23;6,1;2,03;6,69
+21AB;0;Barlaeus Gymnasium;AMSTERDAM;363;AMSTERDAM;Noord-Holland;829;32;0;0;3,86;0;0
+21AF;0;Vossius Gymnasium;AMSTERDAM;363;AMSTERDAM;Noord-Holland;831;38;3;0;4,57;0,36;0
+21AS;0;Voorgezet Onderwijs van Amsterdam voor Lyceum Havo Mavo Vbo en Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;473;37;17;4;7,82;3,59;0,85
+21AS;3;Voortgezet Onderwijs van Amsterdam voor Lyceum Havo Mavo Vbo en Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;345;16;14;12;4,64;4,06;3,48
+21AS;7;Voortgezet Onderwijs van Amsterdam voor Lyceum Havo Mavo Vbo en Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;323;16;4;13;4,95;1,24;4,02
+21AS;8;Voortgezet Onderwijs van Amsterdam voor Lyceum Havo Mavo Vbo en Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;636;35;5;0;5,5;0,79;0
+21BH;0;Dalton Scholengemeenschap Spinozalyceum voor Vwo Havo Mavo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;1.268;66;11;215;5,21;0,87;16,96
+21CS;1;CITAVERDE College;HEGELSOM;1507;HORST AAN DE MAAS;Limburg;485;7;0;31;1,44;0;6,39
+21CS;2;CITAVERDE College;ROERMOND;957;ROERMOND;Limburg;414;18;0;48;4,35;0;11,59
+21CS;3;CITAVERDE College;HEERLEN;917;HEERLEN;Limburg;598;20;2;56;3,34;0,33;9,36
+21CS;5;CITAVERDE College;NEDERWEERT;946;NEDERWEERT;Limburg;314;14;1;78;4,46;0,32;24,84
+21CY;3;AOC West Brabant, vestiging Prinsentuin Oudenbosch vmbo;OUDENBOSCH;1655;HALDERBERGE;Noord-Brabant;449;4;12;20;0,89;2,67;4,45
+21CY;5;AOC West Brabant, vestiging Prinsentuin Andel vmbo;ANDEL;874;WOUDRICHEM;Noord-Brabant;774;10;18;28;1,29;2,33;3,62
+21ET;0;Scholengemeenschap ZAAM zuid voor Vwo Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;896;72;21;17;8,04;2,34;1,9
+21ET;2;Scholengemeenschap ZAAM Zuid voor Vwo Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;592;69;8;44;11,66;1,35;7,43
+21ET;4;Scholengemeenschap ZAAM Zuid voor Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;482;19;5;22;3,94;1,04;4,56
+21ET;7;Scholengemeenschap ZAAM Zuid voor Vwo Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;402;11;9;12;2,74;2,24;2,99
+21ET;8;Scholengemeenschap ZAAM Zuid voor Vwo Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;242;13;8;5;5,37;3,31;2,07
+21ET;12;Scholengemeenschap Amsterdam-Zuid voor Atheneum Havo Mavo Vbo Lwoo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;73;8;2;8;10,96;2,74;10,96
+21EX;0;Theresialyceum voor gymnasium atheneum en havo;TILBURG;855;TILBURG;Noord-Brabant;1.431;94;25;8;6,57;1,75;0,56
+21EX;1;Theresialyceum voor gymnasium atheneum en havo;TILBURG;855;TILBURG;Noord-Brabant;47;1;7;0;2,13;14,89;0
+21FF;0;Scholengemeenschap Reigersbos Atheneum Havo Mavo Leao;AMSTERDAM;363;AMSTERDAM;Noord-Holland;840;77;23;38;9,17;2,74;4,52
+21FV;0;Sint Odulphuslyceum Scholengemeenschap voor VWO en HAVO;TILBURG;855;TILBURG;Noord-Brabant;1.210;76;36;5;6,28;2,98;0,41
+21GD;0;Calandlyceum voor Gymnasium Atheneum Havo Vmbo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;1.912;148;52;204;7,74;2,72;10,67
+21GD;1;Calandlyceum voor Gymnasium Atheneum Havo Vmbo locatie,  Lumion;AMSTERDAM;363;AMSTERDAM;Noord-Holland;554;42;13;45;7,58;2,35;8,12
+21GU;0;Scholengroep Esloo PC RK Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;842;98;34;86;11,64;4,04;10,21
+21GU;4;Scholengroep Esloo PC RK Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;VOORBURG;1916;LEIDSCHENDAM-VOORBURG;Zuid-Holland;231;10;5;3;4,33;2,16;1,3
+21GU;6;Scholengroep Esloo PC RK Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;364;47;5;26;12,91;1,37;7,14
+21GU;7;Scholengroep Esloo PC RK Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;1.017;67;10;150;6,59;0,98;14,75
+21GU;8;Scholengroep Esloo PC RK Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;'S-GRAVENHAGE;518;S GRAVENHAGE;Zuid-Holland;288;8;1;3;2,78;0,35;1,04
+21GV;0;Scholengemeenschap Were Di voor Lyc Havo Mavo Vbo Lwoo;VALKENSWAARD;858;VALKENSWAARD;Noord-Brabant;2.517;100;82;103;3,97;3,26;4,09
+21GW;0;Bonaventuracollege SGM voor Gym. Ath. Havo Vmbo;LEIDEN;546;LEIDEN;Zuid-Holland;1.001;52;22;213;5,19;2,2;21,28
+21GW;1;Bonaventuracollege SGM voor Gym. Ath. Havo. Vmbo;ROELOFARENDSVEEN;1884;KAAG EN BRAASSEM;Zuid-Holland;322;12;19;48;3,73;5,9;14,91
+21GW;2;Bonaventuracollege SGM voor Gym. Ath. Havo. Vmbo;LEIDEN;546;LEIDEN;Zuid-Holland;1.022;81;40;179;7,93;3,91;17,51
+21GW;3;Bonaventuracollege SGM voor Gym. Ath. Havo. Vmbo;LEIDEN;546;LEIDEN;Zuid-Holland;350;35;5;14;10;1,43;4
+21GZ;0;Kwadrant Scholengroep  RK Regionale Scholengemeenschap voor Vwo Havo en Vmbo;DONGEN;766;DONGEN;Noord-Brabant;1.339;93;21;45;6,95;1,57;3,36
+21GZ;6;Kwadrant Scholengroep RK Regionale Scholengemeenschap voor VWO HAVO en VMBO;OOSTERHOUT NB;826;OOSTERHOUT;Noord-Brabant;393;7;51;13;1,78;12,98;3,31
+21HC;0;Interconfessionele Scholengroep Westland voor Lyceum Havo Mavo Vbo Lwoo;NAALDWIJK;1783;WESTLAND;Zuid-Holland;1.789;62;72;48;3,47;4,02;2,68
+21HC;1;Interconfessionele Scholengroep Westland voor Lyc Havo Mavo Vbo Lwoo;NAALDWIJK;1783;WESTLAND;Zuid-Holland;434;5;2;4;1,15;0,46;0,92
+21HC;3;Interconfessionele Scholengroep Westland voor Lyc Havo Mavo Vbo Lwoo;'S-GRAVENZANDE;1783;WESTLAND;Zuid-Holland;833;59;43;2;7,08;5,16;0,24
+21HC;4;Interconfessionele Scholengroep Westland voor Lyc Havo Mavo Vbo Lwoo;POELDIJK;1783;WESTLAND;Zuid-Holland;406;15;17;16;3,69;4,19;3,94
+21HC;5;Interconfessionele Scholengroep Westland voor Lyc Havo Mavo Vbo Lwoo;MONSTER;1783;WESTLAND;Zuid-Holland;209;4;21;1;1,91;10,05;0,48
+21HC;8;Interconfessionele Scholengroep Westland voor Lyc Havo Mavo Vbo Lwoo;NAALDWIJK;1783;WESTLAND;Zuid-Holland;186;1;0;0;0,54;0;0
+21HC;12;Interconfessionele Scholengroep Westland voor Lyceum Havo Mavo Vbo Lwoo;'S-GRAVENZANDE;1783;WESTLAND;Zuid-Holland;601;12;28;28;2;4,66;4,66
+21SK;0;Mondial College;NIJMEGEN;268;NIJMEGEN;Gelderland;819;45;15;37;5,49;1,83;4,52
+21SK;1;Mondial College;NIJMEGEN;268;NIJMEGEN;Gelderland;863;45;9;11;5,21;1,04;1,27
+21VB;0;Scholen aan Zee 1;DEN HELDER;400;DEN HELDER;Noord-Holland;275;25;3;4;9,09;1,09;1,45
+21VB;8;Scholen aan Zee 1;JULIANADORP;400;DEN HELDER;Noord-Holland;44;3;0;2;6,82;0;4,55
+21WE;0;Kaj Munk College voor Atheneum Havo Mavo;HOOFDDORP;394;HAARLEMMERMEER;Noord-Holland;1.920;148;50;267;7,71;2,6;13,91
+22NE;0;College de Heemlanden School voor havo en atheneum;HOUTEN;321;HOUTEN;Utrecht;1.662;123;29;12;7,4;1,74;0,72
+23AP;0;MY college voor VMBO;SPIJKENISSE;1930;NISSEWAARD;Zuid-Holland;324;22;6;14;6,79;1,85;4,32
+23FY;0;Bossche Vakschool voor Mavo Vbo Lwoo;'S-HERTOGENBOSCH;796;S HERTOGENBOSCH;Noord-Brabant;747;32;22;53;4,28;2,95;7,1
+23GF;0;Stichting Joodse Kindergemeenschap Cheider MAVO HAVO VWO;AMSTERDAM;363;AMSTERDAM;Noord-Holland;36;0;0;5;0;0;13,89
+23HC;0;RSG Lingecollege;TIEL;281;TIEL;Gelderland;1.145;58;35;38;5,07;3,06;3,32
+23HC;1;RSG Lingecollege;TIEL;281;TIEL;Gelderland;1.851;193;52;102;10,43;2,81;5,51
+23HC;2;RSG Lingecollege;TIEL;281;TIEL;Gelderland;5;0;0;0;0;0;0
+23JA;1;Grafisch Lyceum Rotterdam voor Mbo Bbo Mavo Vbo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;503;27;11;5;5,37;2,19;0,99
+23KU;0;Northgo College Openbare Scholengemeenschap voor Vmbo Havo Vwo;NOORDWIJK ZH;575;NOORDWIJK;Zuid-Holland;834;29;14;52;3,48;1,68;6,24
+23VD;0;Broeckland College voor Mavo Vbo Lwoo;BREUKELEN UT;1904;STICHTSE VECHT;Utrecht;646;16;1;4;2,48;0,15;0,62
+23VL;0;Scholengemeenschap Pieter Zandt voor Vwo Havo Vmbo Pro;KAMPEN;166;KAMPEN;Overijssel;1.708;53;33;51;3,1;1,93;2,99
+23VL;1;Scholengemeenschap Pieter Zandt voorVwo Havo Mavo Vbo Lwoo;STAPHORST;180;STAPHORST;Overijssel;409;6;38;9;1,47;9,29;2,2
+23VL;2;Scholengemeenschap Pieter Zandt voor Lyceum Havo Mavo Vbo Lwoo;URK;184;URK;Flevoland;548;7;24;17;1,28;4,38;3,1
+23VL;3;Scholengemeenschap Pieter Zandt voor Vwo Havo Vmbo Pro;IJSSELMUIDEN;166;KAMPEN;Overijssel;249;0;38;16;0;15,26;6,43
+23WU;0;Christelijke Scholengemeenschap voor Mavo en Vbo Eekeringe;STEENWIJK;1708;STEENWIJKERLAND;Overijssel;574;19;27;33;3,31;4,7;5,75
+23YU;0;Nova College;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;246;2;0;2;0,81;0;0,81
+23YU;1;Nova College - locatie Slinge;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;255;19;2;2;7,45;0,78;0,78
+23YU;2;Nova College - locatie Montfort College;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;496;32;15;20;6,45;3,02;4,03
+23YU;4;Nova College - locatie Charles de Foucauld;SPIJKENISSE;1930;NISSEWAARD;Zuid-Holland;349;20;4;12;5,73;1,15;3,44
+23YU;8;Nova College - locatie Palmentuin;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;238;11;3;13;4,62;1,26;5,46
+24PY;0;Stedelijk Dalton Lyceum voor Lyceum Havo Mavo Vbo Lwoo;DORDRECHT;505;DORDRECHT;Zuid-Holland;796;57;12;1;7,16;1,51;0,13
+24PY;2;Stedelijk Dalton Lyceum voor Lyceum Havo Mavo Vbo Lwoo;DORDRECHT;505;DORDRECHT;Zuid-Holland;394;14;4;51;3,55;1,02;12,94
+24PY;5;Stedelijk Dalton Lyceum voor Lyceum Havo Mavo Vbo Lwoo;DORDRECHT;505;DORDRECHT;Zuid-Holland;990;91;14;131;9,19;1,41;13,23
+24PY;8;Stedelijk Dalton Lyceum voor Lyceum Havo Mavo Vbo Lwoo;DORDRECHT;505;DORDRECHT;Zuid-Holland;188;99;0;6;52,66;0;3,19
+24RW;0;Oostvaarders College voor Lyceum Havo Mavo Vbo Lwoo;ALMERE;34;ALMERE;Flevoland;2.232;165;75;52;7,39;3,36;2,33
+24RW;3;Oostvaarders College voor Lyceum Havo Mavo Vbo Lwoolocatie Buitenhout;ALMERE;34;ALMERE;Flevoland;1.233;63;21;70;5,11;1,7;5,68
+24RW;4;Oostvaarders Coll. voor Lyceum Havo Mavo Vbo Lwoo loc. Montessori Lyc. Flevoland;ALMERE;34;ALMERE;Flevoland;549;55;21;16;10,02;3,83;2,91
+24TF;0;Staring College Regionale Scholengemeenschap voor Ath Gymn Havo Vmbo;LOCHEM;262;LOCHEM;Gelderland;1.555;103;66;66;6,62;4,24;4,24
+24TF;1;Staring College Regionale Scholengemeenschap voor Ath Gymn Havo Vmbo;BORCULO;1859;BERKELLAND;Gelderland;373;8;16;22;2,14;4,29;5,9
+24TF;2;Staring College Regionale Scholengemeenschap voor Ath Gymn Havo Vmbo;BORCULO;1859;BERKELLAND;Gelderland;154;3;2;0;1,95;1,3;0
+24TG;0;Gooise Scholen Federatie Weesp;WEESP;457;WEESP;Noord-Holland;1.281;42;73;73;3,28;5,7;5,7
+24TG;4;Gooise Scholen Federatie Weesp, vwo, havo, vmbo, locatie Casparus College;WEESP;457;WEESP;Noord-Holland;268;10;2;23;3,73;0,75;8,58
+24TJ;0;Trajectum College, openbare scholengemeenschap voor vbo en mavo;UTRECHT;344;UTRECHT;Utrecht;588;21;7;28;3,57;1,19;4,76
+24TP;0;Merewade College Openbare Scholengemeenschap voor Ath Havo Mavo Vbo Lwoo;GORINCHEM;512;GORINCHEM;Zuid-Holland;948;52;10;114;5,49;1,05;12,03
+24TP;2;Merewade College Openbare Scholengemeenschap voor Ath Havo Mavo Vbo Lwoo;GORINCHEM;512;GORINCHEM;Zuid-Holland;597;23;24;22;3,85;4,02;3,69
+24TR;0;NUOVO scholengroep, openbaar vmbo, mavo, havo, vwo;UTRECHT;344;UTRECHT;Utrecht;1.063;51;38;10;4,8;3,57;0,94
+24TR;2;NUOVO scholengroep, openbaar vmbo, mavo, havo, vwo - locatie Ithaka, ISK;UTRECHT;344;UTRECHT;Utrecht;432;214;0;22;49,54;0;5,09
+24TR;3;NUOVO scholengroep, openbaar vmbo, mavo, havo, vwo - loc. X11media en vormgeving;UTRECHT;344;UTRECHT;Utrecht;499;2;20;38;0,4;4,01;7,62
+24TR;5;NUOVO scholengroep, openbaar vmbo, mavo, havo, vwo - locatie Via Nova College;UTRECHT;344;UTRECHT;Utrecht;660;44;37;20;6,67;5,61;3,03
+24TR;10;NUOVO scholengroep, openbaar vmbo, mavo, havo, vwo - locatie MAVO TIEN;UTRECHT;344;UTRECHT;Utrecht;74;0;3;7;0;4,05;9,46
+25CL;0;Regionale Scholengemeenschap Stad en Esch voor Lyceum Havo Mavo Vbo Lwoo;MEPPEL;119;MEPPEL;Drenthe;1.244;83;57;98;6,67;4,58;7,88
+25CL;1;Regionale Scholengemeenschap Stad en Esch voor Lyceum Havo Mavo Vbo Lwoo;MEPPEL;119;MEPPEL;Drenthe;598;10;60;15;1,67;10,03;2,51
+25CL;3;Regionale Scholengemeenschap Stad en Esch voor Lyceum Havo Mavo Vbo Lwoo;DIEVER;1701;WESTERVELD;Drenthe;227;17;12;9;7,49;5,29;3,96
+25CM;0;Christelijke Scholengemeenschap Liudger voor Lyceum Havo Mavo Vbo Lwoo Pro;DRACHTEN;90;SMALLINGERLAND;Friesland;960;24;21;49;2,5;2,19;5,1
+25CM;4;Christelijke Scholengemeenschap Liudger voor Lyceum Havo Mavo Vbo Lwoo Pro;DRACHTEN;90;SMALLINGERLAND;Friesland;1.050;65;40;12;6,19;3,81;1,14
+25CM;7;Christelijke Scholengemeenschap Liudger voor Lyceum Havo Mavo Vbo Lwoo Pro;BURGUM;737;TYTSJERKSTERADIEL;Friesland;596;5;30;49;0,84;5,03;8,22
+25CM;8;Christelijke Scholengemeenschap Liudger voor Lyceum Havo Mavo Vbo Lwoo Pro;WASKEMEER;85;OOSTSTELLINGWERF;Friesland;262;4;5;25;1,53;1,91;9,54
+25CM;12;Christelijke Scholengemeenschap Liudger voor Lyceum Havo Mavo Vbo Lwoo Pro;BURGUM;737;TYTSJERKSTERADIEL;Friesland;159;15;0;2;9,43;0;1,26
+25CR;0;Christelijke Scholengemeenschap Bogerman voor Lyceum Havo Mavo Vbo Lwoo;SNEEK;1900;SUDWEST-FRYSLAN;Friesland;1.286;88;24;6;6,84;1,87;0,47
+25CR;3;Bogerman Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo;SNEEK;1900;SUDWEST-FRYSLAN;Friesland;708;28;19;55;3,95;2,68;7,77
+25CR;7;csg Bogerman voor Lyceum Havo Mavo Vbo Lwoo locatie Koudum;KOUDUM;1900;SUDWEST-FRYSLAN;Friesland;253;5;10;27;1,98;3,95;10,67
+25CR;8;csg Bogerman voor Lyceum Havo Mavo Vbo Lwoo locatie Wommels;WOMMELS;140;LITTENSERADIEL;Friesland;123;0;10;5;0;8,13;4,07
+25CR;10;csg Bogerman voor Lyceum Havo Mavo Vbo Lwoo locatie Balk;BALK;1940;DE FRYSKE MARREN;Friesland;85;1;14;0;1,18;16,47;0
+25CV;0;Bornego College Chr. Scholengemeenschap voor VMBO, Havo, Atheneum en Gymnasium;HEERENVEEN;74;HEERENVEEN;Friesland;677;65;19;2;9,6;2,81;0,3
+25CV;1;Bornego College Christelijke Scholengemeenschap voor Atheneum Havo Mavo Vbo;HEERENVEEN;74;HEERENVEEN;Friesland;633;7;34;99;1,11;5,37;15,64
+25CV;2;Bornego College Christelijke Scholengemeenschap voor Atheneum Havo Mavo Vbo;HEERENVEEN;74;HEERENVEEN;Friesland;322;14;2;7;4,35;0,62;2,17
+25CV;3;Bornego College Christelijke Scholengemeenschap voor Atheneum Havo Mavo Vbo;JOURE;1940;DE FRYSKE MARREN;Friesland;397;5;9;59;1,26;2,27;14,86
+25DA;0;Atlas College voor Lyceum Havo Mavo Vbo Lwoo;HOORN NH;405;HOORN;Noord-Holland;1.324;53;27;51;4;2,04;3,85
+25DA;2;Atlas College voor Lyceum Havo Mavo Vbo Lwoo;HOORN NH;405;HOORN;Noord-Holland;1.313;76;36;113;5,79;2,74;8,61
+25DA;4;Atlas College voor Lyceum Havo Mavo Vbo Lwoo;MEDEMBLIK;420;MEDEMBLIK;Noord-Holland;399;19;5;15;4,76;1,25;3,76
+25DA;8;Atlas College voor Lyceum Havo Mavo Vbo Lwoo;HOORN NH;405;HOORN;Noord-Holland;828;47;4;32;5,68;0,48;3,86
+25DA;9;Atlas College voor Lyceum Havo Mavo Vbo Lwoo Locatie De Triade;EDAM;385;EDAM-VOLENDAM;Noord-Holland;301;5;4;6;1,66;1,33;1,99
+25EF;1;Clusius College Alkmaar;ALKMAAR;361;ALKMAAR;Noord-Holland;276;10;9;12;3,62;3,26;4,35
+25EF;2;Clusius College Castricum;CASTRICUM;383;CASTRICUM;Noord-Holland;1.021;17;14;58;1,67;1,37;5,68
+25EF;3;Clusius College Amsterdam;AMSTERDAM;363;AMSTERDAM;Noord-Holland;284;11;0;2;3,87;0;0,7
+25EF;4;Clusius College Purmerend;PURMEREND;439;PURMEREND;Noord-Holland;1.061;35;27;65;3,3;2,54;6,13
+25EF;5;Clusius College Grootebroek;GROOTEBROEK;532;STEDE BROEC;Noord-Holland;246;4;2;8;1,63;0,81;3,25
+25EF;6;Clusius College Hoorn;HOORN NH;405;HOORN;Noord-Holland;426;0;0;27;0;0;6,34
+25EF;8;Clusius College Heerhugowaard;HEERHUGOWAARD;398;HEERHUGOWAARD;Noord-Holland;292;13;5;21;4,45;1,71;7,19
+25EF;9;Clusius College Schagen;SCHAGEN;441;SCHAGEN;Noord-Holland;629;31;22;32;4,93;3,5;5,09
+25FU;0;Linnaeus College Haarlem voor Lyceum Havo Mavo Vbo Lwoo;HAARLEM;392;HAARLEM;Noord-Holland;349;0;15;54;0;4,3;15,47
+25FU;8;Linnaeus College Haarlem locatie Daaf Gelukschool voor Lyceum Havo Mavo Vbo Lwoo;HAARLEM;392;HAARLEM;Noord-Holland;196;16;0;1;8,16;0;0,51
+25FX;0;Rooms Katholieke Scholengemeenschap Reynaert College Lyceum Havo Mavo Vbo Lwoo;HULST;677;HULST;Zeeland;828;48;39;29;5,8;4,71;3,5
+25FX;1;Rooms Katholieke Scholengemeenschap Reynaert College Lyceum Havo Mavo Vbo Lwoo;HULST;677;HULST;Zeeland;586;11;3;37;1,88;0,51;6,31
+25FY;0;Raayland College RK SGM v Gymn Ath Havo Mavo Vmbo Pro;VENRAY;984;VENRAY;Limburg;2.206;98;43;93;4,44;1,95;4,22
+25GA;0;Scholen Combinatie Zoetermeer - Picasso Lyceum;ZOETERMEER;637;ZOETERMEER;Zuid-Holland;1.070;108;44;35;10,09;4,11;3,27
+25GA;1;Scholen Combinatie Zoetermeer Stedelijk College;ZOETERMEER;637;ZOETERMEER;Zuid-Holland;1.036;105;16;12;10,14;1,54;1,16
+25GB;0;Marne College voor Atheneum Havo Mavo Vbo Lwoo;BOLSWARD;1900;SUDWEST-FRYSLAN;Friesland;1.101;75;36;14;6,81;3,27;1,27
+25GB;2;Marne College voor Atheneum Havo Mavo Vbo Lwoo;BOLSWARD;1900;SUDWEST-FRYSLAN;Friesland;336;14;7;5;4,17;2,08;1,49
+25GC;0;Scholengemeenschap Breda voor Katholiek Lyceum Havo Mavo Vbo Lwoo;BREDA;758;BREDA;Noord-Brabant;1.118;87;40;68;7,78;3,58;6,08
+25GC;1;Scholengemeenschap Breda voor Katholiek Lyceum Havo Mavo Vbo Lwoo;BREDA;758;BREDA;Noord-Brabant;705;7;14;42;0,99;1,99;5,96
+25GC;2;Scholengemeenschap Breda voor Katholiek Lyceum Havo Mavo Vbo Lwoo;BREDA;758;BREDA;Noord-Brabant;1.505;141;28;26;9,37;1,86;1,73
+25GC;3;Scholengemeenschap Breda voor Katholiek Lyceum Havo Mavo Vbo Lwoo;ZUNDERT;879;ZUNDERT;Noord-Brabant;295;7;16;17;2,37;5,42;5,76
+25GC;8;Scholengemeenschap Breda voor Katholiek Lyceum Havo Mavo Vbo Lwoo;BAARLE-NASSAU;744;BAARLE-NASSAU;Noord-Brabant;250;5;10;36;2;4;14,4
+25GC;9;Scholengemeenschap Breda voor Katholiek Lyceum Havo Mavo Vbo Lwoo;BREDA;758;BREDA;Noord-Brabant;397;21;11;8;5,29;2,77;2,02
+25GC;10;Scholengemeenschap Breda voor Katholiek Lyceum Havo Mavo Vbo Lwoo;BREDA;758;BREDA;Noord-Brabant;286;28;2;30;9,79;0,7;10,49
+25GD;0;Andreas College Christelijke Scholengemeenschap voor VWO Havo Vmbo;KATWIJK ZH;537;KATWIJK;Zuid-Holland;613;4;0;4;0,65;0;0,65
+25GD;1;Andreas College Christelijke Scholengemeenschap voor Vwo Havo Vmbo;KATWIJK ZH;537;KATWIJK;Zuid-Holland;1.145;42;23;46;3,67;2,01;4,02
+25GE;0;Christelijke Scholengemeenschap Het Streek voor Lyceum Havo Mavo Vbo Lwoo;EDE GLD;228;EDE;Gelderland;1.504;74;61;38;4,92;4,06;2,53
+25GE;2;Christelijke Scholengemeenschap Het Streek voor Lyceum Havo Mavo Vbo Lwoo;EDE GLD;228;EDE;Gelderland;785;33;21;72;4,2;2,68;9,17
+25GF;0;Dendroncollege RK SGM v Lyc Havo Mavo Vbo Lwoo;HORST;1507;HORST AAN DE MAAS;Limburg;2.157;47;30;184;2,18;1,39;8,53
+25GL;0;Openb. SGM. Arnhem Noord. voor lyceum, havo, mavo en vbo;ARNHEM;202;ARNHEM;Gelderland;1.223;97;27;15;7,93;2,21;1,23
+25GL;4;Openb. SGM. Arnhem Noord voor lyceum, havo, mavo en vbo;ARNHEM;202;ARNHEM;Gelderland;895;123;11;52;13,74;1,23;5,81
+25GL;6;Openb. SGM. Arnhem Noord voor lyceum, havo, mavo en vbo;ARNHEM;202;ARNHEM;Gelderland;788;69;4;64;8,76;0,51;8,12
+25GL;9;Openb. SGM. Arnhem Noordvoor lyceum, havo, mavo en vbo;VELP GLD;275;RHEDEN;Gelderland;42;16;0;5;38,1;0;11,9
+25GM;0;dr Aletta Jacobs College voor Lyc Havo Mavo Vbo Lwoo;HOOGEZAND;18;HOOGEZAND-SAPPEMEER;Groningen;1.392;95;77;24;6,82;5,53;1,72
+25GV;1;Agrarisch Opleidingen Centrum Groenhorst;EMMELOORD;171;NOORDOOSTPOLDER;Flevoland;367;19;10;22;5,18;2,72;5,99
+25GV;5;Agrarisch Opleidingen Centrum Groenhorst;EDE GLD;228;EDE;Gelderland;441;27;31;16;6,12;7,03;3,63
+25GV;7;Agrarisch Opleidingen Centrum Groenhorst;LELYSTAD;995;LELYSTAD;Flevoland;375;33;7;11;8,8;1,87;2,93
+25GV;8;Agrarisch Opleidingen Centrum Groenhorst;MAARTENSDIJK;310;DE BILT;Utrecht;430;20;41;19;4,65;9,53;4,42
+25GV;9;Agrarisch Opleidingen Centrum Groenhorst;NIJKERK GLD;267;NIJKERK;Gelderland;376;8;29;26;2,13;7,71;6,91
+25GV;10;Agrarisch Opleidingen Centrum Groenhorst;VELP GLD;275;RHEDEN;Gelderland;389;16;32;29;4,11;8,23;7,46
+25GV;11;Agrarisch Opleidingen Centrum Groenhorst;BILTHOVEN;310;DE BILT;Utrecht;335;10;11;13;2,99;3,28;3,88
+25KX;0;Lorentz Casimir Lyceum;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;1.132;52;28;7;4,59;2,47;0,62
+25LV;0;Scholengemeenschap De Rooi Pannen;TILBURG;855;TILBURG;Noord-Brabant;996;36;90;8;3,61;9,04;0,8
+25LV;19;Scholengemeenschap De Rooi Pannen;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;731;23;17;30;3,15;2,33;4,1
+25LX;33;ROC West-Brabant locatie Scala VMBO;TETERINGEN;758;BREDA;Noord-Brabant;900;34;2;4;3,78;0,22;0,44
+25LX;41;ROC West-Brabant locatie Effent VMBO;OOSTERHOUT NB;826;OOSTERHOUT;Noord-Brabant;798;29;0;57;3,63;0;7,14
+25LX;48;Internationale Schakelklas Breda;BREDA;758;BREDA;Noord-Brabant;173;89;0;5;51,45;0;2,89
+25MB;0;Stg ROC Summa College;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;694;54;11;44;7,78;1,59;6,34
+25MB;36;Stg ROC Summa College;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;205;95;0;4;46,34;0;1,95
+25MG;0;Commanderij College voor gymnasium atheneum havo vmbo  en praktijkonderwijs;GEMERT;1652;GEMERT-BAKEL;Noord-Brabant;1.324;83;94;57;6,27;7,1;4,31
+25MG;2;Commanderij College voor gymnasium atheneum havo vmbo en praktijkonderwijs;GEMERT;1652;GEMERT-BAKEL;Noord-Brabant;890;17;4;23;1,91;0,45;2,58
+25MG;3;Commanderij College voor gymnasium atheneum havo vmbo en praktijkonderwijs;BEEK EN DONK;1659;LAARBEEK;Noord-Brabant;505;8;2;5;1,58;0,4;0,99
+26CC;5;Helicon Opleidingen;KESTEREN;1740;NEDER-BETUWE;Gelderland;296;3;10;5;1,01;3,38;1,69
+26CC;6;Helicon Opleidingen;NIJMEGEN;268;NIJMEGEN;Gelderland;496;17;16;37;3,43;3,23;7,46
+26CC;8;Helicon Opleidingen;'S-HERTOGENBOSCH;796;S HERTOGENBOSCH;Noord-Brabant;627;19;15;27;3,03;2,39;4,31
+26CC;13;Helicon Opleidingen;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;347;0;6;26;0;1,73;7,49
+26JR;0;Pro College Nijmegen/Bemmel voor Praktijkonderwijs;NIJMEGEN;268;NIJMEGEN;Gelderland;1;0;0;0;0;0;0
+26MZ;0;Baanderherencollege Praktijkonderwijs;BOXTEL;757;BOXTEL;Noord-Brabant;1;0;0;0;0;0;0
+27DG;0;de Passie, Evangelische School voor Vmbo-tl, Havo, Vwo;UTRECHT;344;UTRECHT;Utrecht;919;49;28;22;5,33;3,05;2,39
+27MD;0;Kennemer College;BEVERWIJK;375;BEVERWIJK;Noord-Holland;1.782;145;62;5;8,14;3,48;0,28
+27MD;1;Kennemer College;HEEMSKERK;396;HEEMSKERK;Noord-Holland;849;20;12;48;2,36;1,41;5,65
+27MD;2;Kennemer College;HEEMSKERK;396;HEEMSKERK;Noord-Holland;1.001;63;0;61;6,29;0;6,09
+27RW;0;de Passie Evangelische School voor Vmbo-tl, Havo, Atheneum, Gymnasium;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;497;48;29;13;9,66;5,84;2,62
+27VD;0;AOC Groenhorst Almere Afdeling VMBO-groen;ALMERE;34;ALMERE;Flevoland;832;17;43;34;2,04;5,17;4,09
+27VG;0;Porta Mosana College;MAASTRICHT;935;MAASTRICHT;Limburg;1.545;99;29;20;6,41;1,88;1,29
+27VG;1;Porta Mosana College;MAASTRICHT;935;MAASTRICHT;Limburg;781;30;29;25;3,84;3,71;3,2
+27VG;4;Porta Mosana College;MAASTRICHT;935;MAASTRICHT;Limburg;508;4;0;46;0,79;0;9,06
+27ZF;0;Lyceum Bisschop Bekkers voor Gymnnasium, Atheneum en Havo;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;820;67;35;1;8,17;4,27;0,12
+27ZH;0;Sint-Maartenscollege;MAASTRICHT;935;MAASTRICHT;Limburg;1.127;206;32;32;18,28;2,84;2,84
+27ZH;2;Sint-Maartenscollege;MAASTRICHT;935;MAASTRICHT;Limburg;1.095;69;24;28;6,3;2,19;2,56
+27ZJ;0;Bonnefantencollege;MAASTRICHT;935;MAASTRICHT;Limburg;465;23;86;5;4,95;18,49;1,08
+27ZJ;1;Bonnefantencollege;MAASTRICHT;935;MAASTRICHT;Limburg;354;17;6;19;4,8;1,69;5,37
+27ZJ;2;Bonnefantencollege;MAASTRICHT;935;MAASTRICHT;Limburg;849;40;44;136;4,71;5,18;16,02
+28BN;0;Kennemer Praktijkschool;HEEMSKERK;396;HEEMSKERK;Noord-Holland;1;0;0;0;0;0;0
+28DB;0;Orion Lyceum voor vwo en havo;BREDA;758;BREDA;Noord-Brabant;144;31;12;0;21,53;8,33;0
+28DH;0;IJburg College voor Vwo Havo Mavo en Vbo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;973;56;33;157;5,76;3,39;16,14
+28DH;1;IJburg College voor Vwo Havo Mavo en Vbo;AMSTERDAM;363;AMSTERDAM;Noord-Holland;456;33;7;96;7,24;1,54;21,05
+29WG;0;de Passie, Evangelische school voor Vmbo-tl, Havo, Vwo;WIERDEN;189;WIERDEN;Overijssel;520;29;28;5;5,58;5,38;0,96
+29YT;0;Zuiderzee College voor VMBO;ZAANDAM;479;ZAANSTAD;Noord-Holland;777;54;2;18;6,95;0,26;2,32
+29ZT;0;SvPO Kapelle - Isaac Beeckman Academie voor vwo en havo;KAPELLE;678;KAPELLE;Zeeland;386;17;10;3;4,4;2,59;0,78
+30AU;0;Citadel College voor vwo havo mavo vbo en lwoo;LENT;268;NIJMEGEN;Gelderland;417;2;1;4;0,48;0,24;0,96
+30AU;1;Citadel College voor vwo havo mavo vbo en lwoo;LENT;268;NIJMEGEN;Gelderland;918;52;17;46;5,66;1,85;5,01
+30BC;0;SiNTLUCAS;EINDHOVEN;772;EINDHOVEN;Noord-Brabant;470;26;3;56;5,53;0,64;11,91
+30BE;0;Houtens;HOUTEN;321;HOUTEN;Utrecht;618;26;1;36;4,21;0,16;5,83
+30EU;0;Markland College Zevenbergen;ZEVENBERGEN;1709;MOERDIJK;Noord-Brabant;1.203;68;61;79;5,65;5,07;6,57
+30GC;0;Het 4e Gymnasium;AMSTERDAM;363;AMSTERDAM;Noord-Holland;761;31;6;0;4,07;0,79;0
+30GD;0;Stedelijk Gymnasium Socrates;LEIDEN;546;LEIDEN;Zuid-Holland;874;21;3;0;2,4;0,34;0
+30JN;0;Sint-Vitusmavo;NAARDEN;1942;GOOISE MEREN;Noord-Holland;297;14;3;30;4,71;1,01;10,1
+30PP;0;Eemsdeltacollege voor vwo, havo mavo en vbo;DELFZIJL;10;DELFZIJL;Groningen;810;56;5;42;6,91;0,62;5,19
+30PP;1;Eemsdelta College voor vwo, havo mavo en vbo;SIDDEBUREN;40;SLOCHTEREN;Groningen;178;5;3;16;2,81;1,69;8,99
+30PP;2;Eemsdelta College voor vwo, havo mavo en vbo;APPINGEDAM;3;APPINGEDAM;Groningen;47;11;0;0;23,4;0;0
+30PP;4;Eemsdelta College voor vwo, havo mavo en vbo;APPINGEDAM;3;APPINGEDAM;Groningen;980;109;35;18;11,12;3,57;1,84
+30UB;0;UniC school voor vwo en havo;UTRECHT;344;UTRECHT;Utrecht;591;58;13;4;9,81;2,2;0,68
+30UB;1;UniC school voor vwo en havo - locatie International School Utrecht;UTRECHT;344;UTRECHT;Utrecht;74;2;0;14;2,7;0;18,92
+30UV;0;SvPO Hurdegaryp - Tjalling Koopmans College voor Vwo Havo en Mavo;HURDEGARYP;737;TYTSJERKSTERADIEL;Friesland;233;3;3;64;1,29;1,29;27,47
+30WH;0;Avicenna College voor vwo, havo, mavo en vbo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;235;10;7;17;4,26;2,98;7,23
+30WH;1;Avicenna College voor vwo, havo, mavo en vbo;ROTTERDAM;599;ROTTERDAM;Zuid-Holland;354;6;1;2;1,69;0,28;0,56
